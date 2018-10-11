@@ -34329,27 +34329,27 @@ CMD:adminayuda(playerid, params[]) {
 		strcat(DComandosAdmin, "{FFFFFF}/jailtipo400 - /respawncars - /enmascarados - /fixvid - /limpiartodo - /condinero /desbugear\n\n");
 	}
 	if (Admin(3, playerid)) {
-		strcat(DComandosAdmin, "{7362A6}[GAME OPERATOR]{ffffff}:\n");
+		strcat(DComandosAdmin, "{7362A6}[GAME OPERATOR 2]{ffffff}:\n");
 		strcat(DComandosAdmin, "{FFFFFF}/ao - /togpecho - /bloquearip - /limpiarant - /quitardnifalso - /incendios\n");
 		strcat(DComandosAdmin, "{FFFFFF}/entercar - /bloquearprivados - /bloqueardudas - /racall - /bugentrenar\n");
 		strcat(DComandosAdmin, "{FFFFFF}/verip - /banear - /cpantalla - /limpiarchat - /bloquearreportes\n");
 		strcat(DComandosAdmin, "{FFFFFF}/adminsobjetos - /crearobjetoadmin - /borrarobjetoadmin - /qres\n");
 	}
 	if (Admin(4, playerid)) {
-		strcat(DComandosAdmin, "{771BA9}[ADMINISTRADOR GENERAL]{ffffff}:\n");
+		strcat(DComandosAdmin, "{771BA9}[GAME OPERATOR 4]{ffffff}:\n");
 		strcat(DComandosAdmin, "{FFFFFF}/aoa - /crearobjeto - /ircordenada - /crearincendio - /cambiarclima\n");
 		strcat(DComandosAdmin, "{FFFFFF}/registro - /activartest - /anuncios - /fixvehall - /borrarreportes\n");
 		strcat(DComandosAdmin, "{FFFFFF}/darmascara - /borrardudas - /irpuerta - /loteria - /fuelcars - /fuelcarsno\n\n");
 	}
 	if (Admin(5, playerid)) {
-		strcat(DComandosAdmin, "{D373B1}[ADMINISTRADOR ENCARGADO]{ffffff}:\n");
+		strcat(DComandosAdmin, "{D373B1}[SUPER GAME OPERATOR]{ffffff}:\n");
 		strcat(DComandosAdmin, "{FFFFFF}/editarv - /dobleexp - /padelantar - /darhabilidad \n");
 		strcat(DComandosAdmin, "{FFFFFF}/nombreadmin - /activarfondos - /reiniciarregalo - /regaloatodos - /robobanco\n");
 		strcat(DComandosAdmin, "{FFFFFF}/adminevento - /crearregalo - /rellenarnegocios - /irinteriorcasa - /cambiarhora\n");
 		strcat(DComandosAdmin, "{FFFFFF}/quitarllavesn - /quitarllavesc\n\n");
 	}
 	if (Admin(10, playerid)) {
-		strcat(DComandosAdmin, "{004F00}[DUEÑO]{ffffff}:\n");
+		strcat(DComandosAdmin, "{004F00}[Administrador]{ffffff}:\n");
 		strcat(DComandosAdmin, "{FFFFFF}/diadepaga - /forcepd - /crearauto - /editarp - /quitarllavep - /darencfac - /darencfam\n");
 		strcat(DComandosAdmin, "{FFFFFF}/darpremium - /borrarauto - /darstat - /darencstaff - /darencban /listaobjetos\n\n");
 	}
@@ -35393,6 +35393,7 @@ CMD:admins(playerid)
 	SendClientMessage(playerid, 0x00BB28FF, "STAFF en línea:");
 	foreach(Player, i)
 	{
+
 		if(user[i][jAdmin] > 0)
 		{
 			format(info, sizeof(info), "STAFF: %s (ID: %d - %s) | Rango: #%d - En servicio: %s", username[i], i, N_Apellido(i), user[i][jAdmin], EnServicioADM[i] == 1? ("Si") : ("No"));
@@ -40434,7 +40435,7 @@ CMD:descongelar(playerid, params[]) {
     return 1;
 }
 
-CMD:a(playerid, params[]) {
+/*CMD:a(playerid, params[]) {
 	new string[256];
     if (user[playerid][jAdmin] >= 1) {
         if (!isnull(params)) {
@@ -40445,8 +40446,28 @@ CMD:a(playerid, params[]) {
         } else _Mensaje(playerid, 3, "0", "/a [texto]");
     }
     return 1;
+} */
+CMD:a(playerid, params[])
+{
+        new string[256];
+	SendClientMessage(playerid, 0x474747FF, "STAFF en línea:");
+	foreach(Player, i) {
+	if (user[playerid][jAdmin] >= 1) {
+        if (isnull(params)) return _Mensaje(playerid, 3, "0", "/a [texto]");
+        switch (user[playerid][jAdmin]) {
+            case 1: format(string, sizeof(string), "[STAFF] Helper %s:{ffffff} %s", username[i], params);
+            case 2: format(string, sizeof(string), "[STAFF] Moderador %s:{ffffff} %s", username[i], params);
+            case 3: format(string, sizeof(string), "[STAFF] GO %s:{ffffff} %s", username[i], params);
+            case 5: format(string, sizeof(string), "[STAFF] S.GO %s:{ffffff} %s", username[i], params);
+            case 1338: format(string, sizeof(string), "[STAFF] Administrador | %s:{ffffff} %s", username[i], params);
+        }
+ }
+        if (user[playerid][jAdmin] >= 1) { MensajeAdmins(0x474747FF, string); }
+        format(string, sizeof(string), "%s: %s", username[i], params);
+        Log("Registros/ChatAdmin.log", string);
+    }
+    return 1;
 }
-
 CMD:presos(playerid)
 {
 	if (Es_Faccion(playerid, 1))
