@@ -1,0 +1,18 @@
+Agregado nuevo sistema de registro username, posibilidad de crear 3 personajes por cuenta.
+Agregado nueva interfaz con apodo de username en /admins.
+Corregido variable de sirena en unidades market (include default a_vehicles).
+Corregido error de comandos en el ingreso sin colocar contraseña.
+Corregido sistema de empresas, activa la creación de repartos y mecánicas.
+Corregido comandos de mecánico y visualización de carrocería (error de JunkBuster).
+Optimización de estructura e includes de utilización del GM.
+Renovación de filterscript e includes del JunkBuster.
+Renovación de la marca de agua del radar.
+Removido conteo de expulsión de ingreso.
+Removido el textdraw de fecha y hora.
+Corrección de errores menores, además de cambios en el código.
+
+
+//		EdinsonWalker	(24-06-2018)
+
+
+
