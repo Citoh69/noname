@@ -40449,7 +40449,6 @@ CMD:descongelar(playerid, params[]) {
 CMD:a(playerid, params[])
 {
         new string[256];
-	SendClientMessage(playerid, 0x474747FF, "STAFF en línea:");
 	foreach(Player, i) {
 	if (user[playerid][jAdmin] >= 1) {
         if (isnull(params)) return _Mensaje(playerid, 3, "0", "/a [texto]");
@@ -40461,7 +40460,7 @@ CMD:a(playerid, params[])
             case 1338: format(string, sizeof(string), "[STAFF] Administrador | %s:{ffffff} %s", username[i], params);
         }
  }
-        if (user[playerid][jAdmin] >= 1) { MensajeAdmins(0x474747FF, string); }
+        if (user[playerid][jAdmin] >= 1) { MensajeAdmins(0xFF752FFF, string); }
         format(string, sizeof(string), "%s: %s", username[i], params);
         Log("Registros/ChatAdmin.log", string);
     }
