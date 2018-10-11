@@ -6866,10 +6866,9 @@ public OnPlayerGiveDamage(playerid, damagedid, Float: amount, weaponid, bodypart
 main() {
     print(" ");
     print("SERVIDOR INICIADO CON ÉXITO.");
-	print(" ");
+	print(" Consola optimizada ");
 	print("===================================================================");
-	print("\t	Virtual City - Rol en Español");
-	print("\t   vcrp.foroactivo.com");
+	print("\t	JUEGO DE ROL");
 	print("===================================================================");
 	print(" ");
     print(" ");
@@ -23002,7 +23001,7 @@ SetDynamicObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14",
 tmpobjid = CreateDynamicObject(19459,1467.925,-1796.423,2353.889,0.000,0.000,450.000,-1,-1,-1,350.000,350.000);
 SetDynamicObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", -1);
 tmpobjid = CreateDynamicObject(19477,1467.198,-1803.723,2351.017,0.000,0.000,270.000,-1,-1,-1,350.000,350.000);
-SetDynamicObjectMaterialText(tmpobjid, 0, "VirtualCity", 130, "Ariel", 75, 1, -1, 0, 1);
+SetDynamicObjectMaterialText(tmpobjid, 0, "Servidor", 130, "Ariel", 75, 1, -1, 0, 1);
 tmpobjid = CreateDynamicObject(19459,1472.705,-1792.932,2347.054,90.000,180.000,360.000,-1,-1,-1,350.000,350.000);
 SetDynamicObjectMaterial(tmpobjid, 0, 3899, "hospital2", "black", -1);
 tmpobjid = CreateDynamicObject(19459,1472.695,-1791.582,2347.544,0.000,0.000,360.000,-1,-1,-1,350.000,350.000);
