@@ -12,3 +12,4 @@
 12-10-18: Arreglada camara al reaparecer.
 12-10-18: Corregido que te quedabas en el suelo al reaparecer.
 12-10-18: Arreglado el comando /puntosderol
+13-10-18: Creado el comando /limpiartiempos para GO4
