@@ -10,3 +10,4 @@
 12-10-18: Removida la limitación de pegar siendo nivel 1.
 12-10-18: Cambiada posición y vista de cámara al reaparecer tras ser muerto.
 12-10-18: Arreglada camara al reaparecer.
+12-10-18: Corregido que te quedabas en el suelo al reaparecer.
