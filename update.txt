@@ -7,3 +7,4 @@
 12-10-18: Arreglado problema menor con teclas rapidos para el motor.
 12-10-18: Compilación perfecta, removemos warnings.
 12-10-18: Añadido el primer interior vacio de casa.
+12-10-18: Removida la limitación de pegar siendo nivel 1.
