@@ -4,3 +4,4 @@
 11-10-18: Inicio de sistema de trafico pandillas (empezado)
 11-10-18: Cambios en el GitHub para mas seguridad
 12-10-18: Ahora el tiempo de reaparecer son 5 minutos (antes 8)
+12-10-18: Arreglado problema menor con teclas rapidos para el motor.
