@@ -1,20 +1,20 @@
 [Informacion]
-Nombre = Pizzería Ugi s
+Nombre = Pizzeria
 Dueño = Shay Maxson
 Tipo = 5
 Seguro = 1
-Comprado = 1
+Comprado = 0
 Exterior_X = 2104.571533
 Exterior_Y = -1806.405273
-Exterior_Z = 13.554679
+Exterior_Z = 13.554677
 Exterior_R = 89.087928
 Interior_X = 372.334289
 Interior_Y = -133.218002
 Interior_Z = 1001.492187
 Interior_R = 356.384887
-Dinero = 7857
-Productos = 212
-Precio = 100
+Dinero = 0
+Productos = 2000
+Precio = 200000
 Interior = 5
 Entrada = 0
 Pedido = 0

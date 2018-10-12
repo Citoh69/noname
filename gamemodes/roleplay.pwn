@@ -322,6 +322,7 @@ new WalkStyle[MAX_PLAYERS];
 #define	D_PCLSPD3					(166)
 #define	D_PCLSPD4					(167)
 #define D_Cdnifalso3				(168)
+#define D_ARMAS                     (169)
 //casa
 #define D_CASA_OPCIONES    	       (201)
 #define D_CASA_DINERO    		   (202)
@@ -12577,6 +12578,56 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 						}
 					}
 				}
+				
+				case D_ARMAS:
+				if (response) {
+					new location[MAX_ZONE_NAME], avisapd = random(3);
+					if (listitem == 0) //UZIS
+					{
+						if (RevisarDinero(playerid, 70000))
+						{
+							Get2DZone(location, MAX_ZONE_NAME, 2315.2449, 33.6971, 27.3995);
+							format(string, sizeof(string), "[SMS: 0057081]: Necesito que vengas por lo que pides en %s.", location);
+							_Mensaje(playerid, 4, "FFEA5F", string);
+							Pedido[playerid] = 20;
+							TogglePlayerAllDynamicCPs(playerid, false);
+							SetPlayerCheckpoint(playerid, 2315.2449, 33.6971, 27.3995, 2);
+							switch (avisapd)
+							{
+								case 0: return 1;
+								case 1: {
+									format(string, sizeof(string), "[CENTRAL] Un anónimo ha denunciado que se está haciendo un tráfico en %s.", location);
+									_MensajeRfac(1, C_COLORPOLICIA, string, 1, 2);
+									return 1;
+								}
+								case 2: return 1;
+							}
+						}
+					}
+
+					else if (listitem == 1) // Deagles
+					{
+						if (RevisarDinero(playerid, 55000))
+						{
+							Get2DZone(location, MAX_ZONE_NAME, 2494.1326, -1464.6361, 24.0107);
+							format(string, sizeof(string), "[SMS: 5049927]: Necesito que vengas por las Deserts en %s.", location);
+							_Mensaje(playerid, 4, "FFEA5F", string);
+							Pedido[playerid] = 21;
+							TogglePlayerAllDynamicCPs(playerid, false);
+							SetPlayerCheckpoint(playerid, 2494.1326, -1464.6361, 24.0107, 2);
+							switch (avisapd)
+							{
+								case 0: return 1;
+								case 1: {
+									format(string, sizeof(string), "[CENTRAL] Un anónimo ha denunciado que se está haciendo un tráfico en %s.", location);
+									_MensajeRfac(1, C_COLORPOLICIA, string, 1, 2);
+									return 1;
+								}
+								case 2: return 1;
+							}
+						}
+					}
+				}
 		case D_FABRICA:
 			{
 				if (!_Fabrica(playerid)) return _Mensaje(playerid, 4, "cccccc", "No estás en un punto de fábrica.");
@@ -15678,9 +15729,9 @@ SanMusic = 0;
 AntiG[Balas] = true;
 
 //» Configuración
-SetGameModeText("VC-RP v3.0 - RolePlay");
-SendRconCommand("hostname [V3.0]::| Virtual City RolePlay |::[VC:RP]");
-SendRconCommand("weburl vcrp.foroactivo.com");
+SetGameModeText("Juego de rol");
+SendRconCommand("hostname Testing");
+SendRconCommand("weburl ");
 SendRconCommand("mapname Los Santos");
 SendRconCommand("rcon_password 43525122");
 SendRconCommand("language Español - Spanish");
@@ -15924,6 +15975,88 @@ CreateObject(3660, 2130.22388, -1723.52734, 15.09381,   0.00000, 0.00000, 0.0000
 CreateObject(1225, 2169.89697, -1737.36426, 12.53306,   0.00000, 0.00000, 0.00000);
 CreateObject(1225, 2170.06494, -1736.48572, 12.53306,   0.00000, 0.00000, 0.00000);
 
+// mappeo de casa interior1
+
+	new pared1 = CreateDynamicObject(19462, -9.20020, -199.19450, 1004.51807,   0.00000, 0.00000, 0.00000); SetDynamicObjectMaterial(pared1,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new suelo1 = CreateDynamicObject(19355, -10.94430, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000); SetDynamicObjectMaterial(suelo1,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo2 = CreateDynamicObject(19355, -10.94430, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo2,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo3 = CreateDynamicObject(19355, -10.94430, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo3,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo4 = CreateDynamicObject(19355, -10.94430, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo4,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo5 = CreateDynamicObject(19355, -10.94430, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo5,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new pared2 = CreateDynamicObject(19462, -13.99798, -194.40181, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared2,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared3 = CreateDynamicObject(19462, -23.58050, -194.40179, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared3,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared4 = CreateDynamicObject(19462, -33.16550, -194.40179, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared4,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared5 = CreateDynamicObject(19462, -9.20020, -208.75481, 1004.51813,   0.00000, 0.00000, 0.00000);SetDynamicObjectMaterial(pared5,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new suelo6 = CreateDynamicObject(19355, -10.94430, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo6,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new pared6 = CreateDynamicObject(19462, -13.99800, -213.52721, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared6,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new suelo7 = CreateDynamicObject(19355, -14.44600, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo7,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo8 = CreateDynamicObject(19355, -14.44600, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo8,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo9 = CreateDynamicObject(19355, -14.44600, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo9,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo10 = CreateDynamicObject(19355, -14.44600, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo10,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo11 = CreateDynamicObject(19355, -14.44600, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo11,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo12 = CreateDynamicObject(19355, -14.44600, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo12,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo13 = CreateDynamicObject(19355, -17.94770, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo13,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo14 = CreateDynamicObject(19355, -17.94770, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo14,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo15 = CreateDynamicObject(19355, -17.94770, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo15,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo16 = CreateDynamicObject(19355, -17.94770, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo16,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo17 = CreateDynamicObject(19355, -17.94770, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo17,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo18 = CreateDynamicObject(19355, -17.94770, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo18,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo19 = CreateDynamicObject(19355, -21.44940, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo19,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo20 = CreateDynamicObject(19355, -21.44940, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo20,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo21 = CreateDynamicObject(19355, -21.44940, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo21,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo22 = CreateDynamicObject(19355, -21.44940, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo22,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo23 = CreateDynamicObject(19355, -21.44940, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo23,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo24 = CreateDynamicObject(19355, -21.44940, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo24,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo25 = CreateDynamicObject(19355, -24.95110, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo25,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo26 = CreateDynamicObject(19355, -24.95110, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo26,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo27 = CreateDynamicObject(19355, -24.95110, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo27,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo28 = CreateDynamicObject(19355, -24.95110, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo28,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo29 = CreateDynamicObject(19355, -24.95110, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo29,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo30 = CreateDynamicObject(19355, -24.95110, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo30,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo31 = CreateDynamicObject(19355, -28.45280, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo31,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo32 = CreateDynamicObject(19355, -28.45280, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo32,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo33 = CreateDynamicObject(19355, -28.45280, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo33,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo34 = CreateDynamicObject(19355, -28.45280, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo34,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo35 = CreateDynamicObject(19355, -28.45280, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo35,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo36 = CreateDynamicObject(19355, -28.45280, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo36,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo37 = CreateDynamicObject(19355, -31.95450, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo37,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo38 = CreateDynamicObject(19355, -31.95450, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo38,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo39 = CreateDynamicObject(19355, -31.95450, -202.37309, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo39,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo40 = CreateDynamicObject(19355, -31.95450, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo40,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo41 = CreateDynamicObject(19355, -31.95450, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo41,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo42 = CreateDynamicObject(19355, -31.95450, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo42,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo43 = CreateDynamicObject(19355, -35.45620, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo43,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo44 = CreateDynamicObject(19355, -35.45620, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo44,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo45 = CreateDynamicObject(19355, -35.48569, -202.34608, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo45,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo46 = CreateDynamicObject(19355, -35.45620, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo46,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo47 = CreateDynamicObject(19355, -35.45620, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo47,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo48 = CreateDynamicObject(19355, -35.45620, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo48,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo49 = CreateDynamicObject(19355, -38.95790, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo49,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo50 = CreateDynamicObject(19355, -38.95790, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo50,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo51 = CreateDynamicObject(19355, -38.95790, -202.34610, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo51,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo52 = CreateDynamicObject(19355, -38.95790, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo52,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo53 = CreateDynamicObject(19355, -38.95790, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo53,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo54 = CreateDynamicObject(19355, -38.95790, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo54,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo55 = CreateDynamicObject(19355, -42.45960, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo55,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo56 = CreateDynamicObject(19355, -42.45960, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo56,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo57 = CreateDynamicObject(19355, -42.45960, -202.34610, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo57,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo58 = CreateDynamicObject(19355, -42.45960, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo58,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo59 = CreateDynamicObject(19355, -42.45960, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo59,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo60 = CreateDynamicObject(19355, -42.45960, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo60,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo61 = CreateDynamicObject(19355, -45.96130, -196.05901, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo61,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo62 = CreateDynamicObject(19355, -45.96130, -199.22110, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo62,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo63 = CreateDynamicObject(19355, -45.96130, -202.34610, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo63,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo64 = CreateDynamicObject(19355, -45.96130, -205.53520, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo64,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo65 = CreateDynamicObject(19355, -45.96130, -208.69730, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo65,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new suelo66 = CreateDynamicObject(19355, -45.96130, -211.85941, 1002.85248,   0.00000, 90.00000, 0.00000);SetDynamicObjectMaterial(suelo66,0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+	new pared7 = CreateDynamicObject(19462, -23.58050, -213.52721, 1004.51813,   0.00000, 0.00000, 90.00000); SetDynamicObjectMaterial(pared7,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared8 = CreateDynamicObject(19462, -33.16550, -213.52721, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared8,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared9 = CreateDynamicObject(19462, -42.51250, -194.40179, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared9,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared10 = CreateDynamicObject(19462, -42.51250, -213.52721, 1004.51813,   0.00000, 0.00000, 90.00000);SetDynamicObjectMaterial(pared10,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared11 = CreateDynamicObject(19462, -47.30350, -199.19450, 1004.51813,   0.00000, 0.00000, 0.00000);SetDynamicObjectMaterial(pared11,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	new pared12 = CreateDynamicObject(19462, -47.30350, -208.75481, 1004.51813,   0.00000, 0.00000, 0.00000);SetDynamicObjectMaterial(pared12,0, 11490, "des_ranch", "des_logwall", 0xFFFFFFFF);
+	CreateDynamicObject(1557, -9.32940, -205.59380, 1002.91479,   0.00000, 0.00000, 90.00000);
+	CreateDynamicObject(1557, -9.32938, -202.65440, 1002.91479,   0.00000, 0.00000, 270.00000);
 //negocio
 CreateDynamicObject(18009, 412.28436, -54.44561, 999.07080,   0.00000, 0.00000, -89.93999);
 CreateDynamicObject(18981, 413.15521, -51.14120, 1000.37079,   0.00000, 90.00000, 90.00000);
@@ -28584,6 +28717,50 @@ public OnPlayerEnterCheckpoint(playerid)
         }
         return 1;
     }
+    	else if (Pedido[playerid] == 20)
+	{
+        if(!_enPos(playerid,10,2315.2449, 33.6971, 27.3995)) return _Mensaje(playerid, 0, "126", "No estás en el lugar del pedido.");
+        Pedido[playerid] = 0;
+        if (RevisarDinero(playerid, 70000)) {
+            new objeto = 54;
+            new string[256];
+           	if(user[playerid][jm_Derecha] != 0 && user[playerid][jm_Izquierda] != 0){_Mensaje(playerid, 0, "32", "Tienes ambas manos ocupadas, guarda lo que tienes o tiralo."); return 1;}
+           	if(user[playerid][jm_Derecha] == 0){PonerObjeto(playerid, 1, objeto); user[playerid][jm_Derecha] = objeto, user[playerid][jm_DerechaCant] = 5;}
+           	else if(user[playerid][jm_Izquierda] == 0){PonerObjeto(playerid, 2, objeto); user[playerid][jm_Izquierda] = objeto, user[playerid][jm_IzquierdaCant] = 5;}
+            DarDineroGC(playerid, -70000);
+            _Mensaje(playerid, 4, "00A2D6", " Pagaste 70,000$ dólares por las 5 cajas de UZIS, se te entrega una de adelanto y se te avisará para las otras.");
+        	DisablePlayerCheckpoint(playerid);
+         	format(string, sizeof(string), "[TRAFICO]:{FFFFFF} %s[ID:%d] ha pedido 5 CAJAS de UZI, le faltan 4 y 5 cargas", NombreRJugador(playerid), playerid);
+            MensajeAdmin3(string);
+        	TogglePlayerAllDynamicCPs(playerid, true);
+        	new year, month, day;
+			getdate(year, month, day);
+			user[playerid][jTiempos][10] = day;
+        }
+        return 1;
+    }
+        	else if (Pedido[playerid] == 21)
+	{
+        if(!_enPos(playerid,10,2315.2449, 33.6971, 27.3995)) return _Mensaje(playerid, 0, "126", "No estás en el lugar del pedido.");
+        Pedido[playerid] = 0;
+        if (RevisarDinero(playerid, 55000)) {
+            new objeto = 54;
+            new string[256];
+           	if(user[playerid][jm_Derecha] != 0 && user[playerid][jm_Izquierda] != 0){_Mensaje(playerid, 0, "32", "Tienes ambas manos ocupadas, guarda lo que tienes o tiralo."); return 1;}
+           	if(user[playerid][jm_Derecha] == 0){PonerObjeto(playerid, 1, objeto); user[playerid][jm_Derecha] = objeto, user[playerid][jm_DerechaCant] = 200;}
+           	else if(user[playerid][jm_Izquierda] == 0){PonerObjeto(playerid, 2, objeto); user[playerid][jm_Izquierda] = objeto, user[playerid][jm_IzquierdaCant] = 200;}
+            DarDineroGC(playerid, -55000);
+            _Mensaje(playerid, 4, "00A2D6", " Pagaste 55,000$ dólares por las 5 cajas de Desert, se te entrega una de adelanto y se te avisará para las otras.");
+        	DisablePlayerCheckpoint(playerid);
+         	format(string, sizeof(string), "[TRAFICO]:{FFFFFF} %s[ID:%d] ha pedido 5 CAJAS de Desert, le faltan 4 y 5 cargas", NombreRJugador(playerid), playerid);
+            MensajeAdmin3(string);
+        	TogglePlayerAllDynamicCPs(playerid, true);
+        	new year, month, day;
+			getdate(year, month, day);
+			user[playerid][jTiempos][10] = day;
+        }
+        return 1;
+    }
 	else if (Pedido[playerid] == 6)
 	{
         if(!_enPos(playerid,10,2494.1326, -1464.6361, 24.0107)) return _Mensaje(playerid, 0, "126", "No estás en el lugar del pedido.");
@@ -29538,6 +29715,14 @@ Uso_Dop(string[], color, Float: radio, Float: x, Float: y, Float: z, vw)
 }
 
 // Inicio de comandos.
+CMD:reiniciarpedidosxp(playerid, params[])
+{
+Pedido[playerid] = 0;
+user[playerid][jTiempos][10] = 0;
+SendClientMessage(playerid, 0xb00000ff, "Pedidos reseteados");
+return 1;
+}
+CMD:casainterior1(playerid, params[]){ SetPlayerPos(playerid, -10.94430, -199.22110, 1005.85248); return 1; }
 CMD:novedades(playerid, params[])
 {
 	ShowPlayerDialog(playerid, DIALOG_ACT, DIALOG_STYLE_MSGBOX, "Novedades actualización V3.0", "1- BUGS Resueltos\n2- Sistemas Nuevos\n 3- Nuevos MAPS\n 4- Textdraw Inicio\n 5- CMDs Nuevos", "Aceptar", "");
@@ -32093,7 +32278,7 @@ CMD:pedido(playerid, params[])
 		if (strcmp(params[0], "drogas", true) == 0)
 		{
 			if (Pedido[playerid] != 0) return _Mensaje(playerid, 0, "180", "Ya te encuentras en un pedido (/pedido cancelar).");
-			if(strcmp(GetWeekDay(), "Sabado")) return _Mensaje(playerid, 4, "00A2D6", "No hay vendedor hasta el sábado.");
+			if(strcmp(GetWeekDay(), "Jueves")) return _Mensaje(playerid, 4, "00A2D6", "No hay vendedor hasta el Jueves.");
 			new year, month, day;
 			getdate(year, month, day);
 			if (user[playerid][jTiempos][10] == day) return _Mensaje(playerid, 4, "00A2D6", "El traficante ya no está, vuelve la otra semana.");
@@ -32108,6 +32293,24 @@ CMD:pedido(playerid, params[])
 			P. Heroina\t180\t$8,000\n\
 			P. LSD\t200\t$5,000\n\
 			Semillias Maria\t20\t$2,200", "Pedir", "Cancelar");
+
+			return 1;
+		}
+		if (strcmp(params[0], "armas", true) == 0)
+		{
+			if (Pedido[playerid] != 0) return _Mensaje(playerid, 0, "180", "Ya te encuentras en un pedido (/pedido cancelar).");
+			if(strcmp(GetWeekDay(), "Viernes")) return _Mensaje(playerid, 4, "00A2D6", "No hay vendedor hasta el Viernes.");
+			new year, month, day;
+			getdate(year, month, day);
+			if (user[playerid][jTiempos][10] == day) return _Mensaje(playerid, 4, "00A2D6", "El traficante ya no está, vuelve la otra semana.");
+
+			if (user[playerid][jMiembroFam] == 0) return _Mensaje(playerid, 0, "180", "No perteneces a una facción.");
+			if (InfoFamilia[user[playerid][jMiembroFam]][fTipo] == 3) return _Mensaje(playerid, 0, "180", "No puedes comprar siendo de una facción legal.");
+			if (user[playerid][jRangoFam] < 4) return _Mensaje(playerid, 0, "607", "Debes poseer mínimo rango 4.");
+
+			Dialog(playerid, D_ARMAS, DIALOG_STYLE_TABLIST_HEADERS, "{D6E1EB}Armas", "Producto\tCantidad\tCosto\n\
+			UZI con cargas\t5\t$70,000\n\
+			DESERT con cargas\t5\t$55,000", "Pedir", "Cancelar");
 
 			return 1;
 		}
@@ -40416,7 +40619,12 @@ CMD:congelar(playerid, params[]) {
     } else _Mensaje(playerid, 0, "160", "Tú no tienes acceso a el comando /Congelar.");
     return 1;
 }
-
+CMD:reiniciarservidorr(playerid, params[]) {
+	if (user[playerid][jAdmin] == 1338) {
+	SendRconCommand("gmx");
+	}
+	return 1;
+}
 CMD:descongelar(playerid, params[]) {
     if (EnServicioADM[playerid] == 0) return _Mensaje(playerid, 0, "158", "No estas 'EnServicio', [Escribe] /staffon.");
     if (user[playerid][jAdmin] >= 1) {
@@ -40434,7 +40642,7 @@ CMD:descongelar(playerid, params[]) {
     return 1;
 }
 
-/*CMD:a(playerid, params[]) {
+CMD:a(playerid, params[]) {
 	new string[256];
     if (user[playerid][jAdmin] >= 1) {
         if (!isnull(params)) {
@@ -40445,27 +40653,9 @@ CMD:descongelar(playerid, params[]) {
         } else _Mensaje(playerid, 3, "0", "/a [texto]");
     }
     return 1;
-} */
-CMD:a(playerid, params[])
-{
-        new string[256];
-	foreach(Player, i) {
-	if (user[playerid][jAdmin] >= 1) {
-        if (isnull(params)) return _Mensaje(playerid, 3, "0", "/a [texto]");
-        switch (user[playerid][jAdmin]) {
-            case 1: format(string, sizeof(string), "[STAFF] Helper %s:{ffffff} %s", username[i], params);
-            case 2: format(string, sizeof(string), "[STAFF] Moderador %s:{ffffff} %s", username[i], params);
-            case 3: format(string, sizeof(string), "[STAFF] GO %s:{ffffff} %s", username[i], params);
-            case 5: format(string, sizeof(string), "[STAFF] S.GO %s:{ffffff} %s", username[i], params);
-            case 1338: format(string, sizeof(string), "[STAFF] Administrador | %s:{ffffff} %s", username[i], params);
-        }
- }
-        if (user[playerid][jAdmin] >= 1) { MensajeAdmins(0xFF752FFF, string); }
-        format(string, sizeof(string), "%s: %s", username[i], params);
-        Log("Registros/ChatAdmin.log", string);
-    }
-    return 1;
 }
+
+
 CMD:presos(playerid)
 {
 	if (Es_Faccion(playerid, 1))
@@ -42122,14 +42312,7 @@ CMD:ayuda(playerid)
 
 CMD:creditos(playerid)
 {
-	SendClientMessage(playerid, 0xffffffff, "Dueño del Servidor {771BA9}Axel Mkanna");
-	SendClientMessage(playerid, 0xffffffff, "Sub-Dueños del Servidor {771BA9}Danitza Volkov");
-	SendClientMessage(playerid, 0xffffffff, "Hoster {771BA9}Axel Mkanna");
-	SendClientMessage(playerid, 0xffffffff, "WebMaster {771BA9}Axel Mkanna");
-	SendClientMessage(playerid, 0xffffffff, "Cupula Administrativa {771BA9}Axel Mkanna - Danitza Volkov - John Marius - Jake McKenzie - Nicolas Black ");
-	SendClientMessage(playerid, 0xffffffff, "Programadores {771BA9} Axel Mkanna");
-	SendClientMessage(playerid, 0xffffffff, "Creditos {771BA9}Edinson Walker - Axel Mkanna");
-	SendClientMessage(playerid, 0xffffffff, "{771BA9}VC-RP Edit by Axel Mkanna");
+	SendClientMessage(playerid, 0xffffffff, "Dueño del Servidor {771BA9}Citoh");
 	return 1;
 }
 
@@ -47582,7 +47765,7 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys) {
 			}
 	    }
     }
-    if(newkeys == KEY_NO)
+    if(newkeys == KEY_NO || newkeys == KEY_FIRE || newkeys == KEY_WALK)
     {
      if(IsPlayerConnected(playerid))
      {

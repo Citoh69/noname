@@ -6278,3 +6278,2895 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:05:48] [cmd] [Skender Osterberg]: /A a
 [15:06:32] [cmd] [Skender Osterberg]: /p joder
 [15:16:08] [part] Citoh has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:59] 
+[15:19:59] Server Plugins
+[15:19:59] --------------
+[15:19:59]  Loading plugin: crashdetect
+[15:19:59]   CrashDetect v4.15.1 is OK.
+[15:19:59]   Loaded.
+[15:19:59]  Loading plugin: sscanf
+[15:19:59] 
+
+[15:19:59]  ===============================
+
+[15:19:59]       sscanf plugin loaded.     
+
+[15:19:59]          Version:  2.8.1        
+
+[15:19:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:19:59]  ===============================
+
+[15:19:59]   Loaded.
+[15:19:59]  Loading plugin: streamer
+[15:19:59] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:19:59]   Loaded.
+[15:19:59]  Loaded 3 plugins.
+
+[15:19:59] 
+[15:19:59] Filterscripts
+[15:19:59] ---------------
+[15:19:59]   Loading filterscript 'Botones.amx'...
+[15:19:59]   Loading filterscript 'JunkBuster.amx'...
+[15:19:59] Cargando JunkBuster...
+[15:19:59]  
+[15:19:59] Configuración del JunkBuster: 
+[15:19:59] (Jetpack = 1)
+[15:19:59] (BadWords = 1)
+[15:19:59] (CarJackHack = 1)
+[15:19:59] (Blacklist = 1)
+[15:19:59] (IpBans = 1)
+[15:19:59] (TempBans = 1)
+[15:19:59] (Airbrake = 150)
+[15:19:59] (AntiBugKill = 1)
+[15:19:59] (VehicleTeleport = 1)
+[15:19:59] (MaxTotalWarnings = 2000)
+[15:19:59] (TooManyWarningsAction = 1)
+[15:19:59] (AirbrakeDetection = 1)
+[15:19:59]  
+[15:19:59] [junkbuster] 0 IP-bans have been loaded.
+[15:19:59] [junkbuster] 0 temporary bans have been loaded.
+[15:19:59] [junkbuster] 0 whitelist entries have been loaded.
+[15:19:59] [junkbuster] 0 blacklist entries have been loaded.
+[15:19:59] [junkbuster] 0 bad words have been loaded.
+[15:19:59] [junkbuster] 4 forbidden weapons have been loaded.
+[15:19:59] [junkbuster] JunkBuster has been configurated.
+[15:19:59]  
+[15:19:59] » JunkBuster (v11) su carga fue exitosa.
+[15:19:59]  
+[15:19:59]   Loading filterscript 'text2.amx'...
+[15:19:59]   Unable to load filterscript 'text2.amx'.
+[15:19:59]   Loaded 2 filterscripts.
+
+[15:19:59] » Sistema de graffitis cargado (0).
+[15:20:00] » Sistema de objetos dinámicos cargado (1).
+[15:20:00] » Sistema de puertas dinamicas cargado (49).
+[15:20:00] » Sistema de status del servidor cargado.
+[15:20:00] » Sistema de casas cargado (125).
+[15:20:00] » Sistema de garajes cargado (0).
+[15:20:00] » Sistema de negocios cargado (60).
+[15:20:00] » Sistema de gasolineras cargado (10).
+[15:20:00] » Incendios cargados.
+[15:20:00] » Sistema de maleteros de facciones cargado (150).
+[15:20:00] » Sistema de teléfonos públicos cargado (30).
+[15:20:00] » Sistema de semillas cargado (0).
+[15:20:00] » Sistema de concesionarias cargado (87).
+[15:20:00] » Sistema de vehículos usados cargado (0).
+[15:20:00] » Sistema de empresas cargado (1).
+[15:20:00] » Sistema de vehículos cargado (13).
+[15:20:02] » Sistema de organizaciones cargado.
+[15:20:02] » Sistema de parqueos/peajes cargado (9).
+[15:20:02] » Objetos unicos cargado (1).
+[15:20:02]  
+[15:20:02] SERVIDOR INICIADO CON ÉXITO.
+[15:20:02]  Consola optimizada 
+[15:20:02] ===================================================================
+[15:20:02] 		JUEGO DE ROL
+[15:20:02] ===================================================================
+[15:20:02]  
+[15:20:02]  
+[15:20:02] Number of vehicle models: 60
+[15:21:01] [connection] 127.0.0.1:56919 requests connection cookie.
+[15:21:02] [connection] incoming connection: 127.0.0.1:56919 id: 0
+[15:21:03] [join] Citoh has joined the server (0:127.0.0.1)
+[15:21:32] [cmd] [Skender Osterberg]: /ls
+[15:21:37] [cmd] [Skender Osterberg]: /staffon
+[15:21:40] [cmd] [Skender Osterberg]: /admins
+[15:21:42] [cmd] [Skender Osterberg]: /admins
+[15:21:43] [cmd] [Skender Osterberg]: /a a
+[15:21:48] [cmd] [Skender Osterberg]: /a olaa
+[15:21:51] [cmd] [Skender Osterberg]: /p a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:26:55] 
+[15:26:55] Server Plugins
+[15:26:55] --------------
+[15:26:55]  Loading plugin: crashdetect
+[15:26:55]   CrashDetect v4.15.1 is OK.
+[15:26:55]   Loaded.
+[15:26:55]  Loading plugin: sscanf
+[15:26:55] 
+
+[15:26:55]  ===============================
+
+[15:26:55]       sscanf plugin loaded.     
+
+[15:26:55]          Version:  2.8.1        
+
+[15:26:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:26:55]  ===============================
+
+[15:26:55]   Loaded.
+[15:26:55]  Loading plugin: streamer
+[15:26:55] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:26:55]   Loaded.
+[15:26:55]  Loaded 3 plugins.
+
+[15:26:55] 
+[15:26:55] Filterscripts
+[15:26:55] ---------------
+[15:26:55]   Loading filterscript 'Botones.amx'...
+[15:26:55]   Loading filterscript 'JunkBuster.amx'...
+[15:26:55] Cargando JunkBuster...
+[15:26:55]  
+[15:26:55] Configuración del JunkBuster: 
+[15:26:55] (Jetpack = 1)
+[15:26:55] (BadWords = 1)
+[15:26:55] (CarJackHack = 1)
+[15:26:55] (Blacklist = 1)
+[15:26:55] (IpBans = 1)
+[15:26:55] (TempBans = 1)
+[15:26:55] (Airbrake = 150)
+[15:26:55] (AntiBugKill = 1)
+[15:26:55] (VehicleTeleport = 1)
+[15:26:55] (MaxTotalWarnings = 2000)
+[15:26:55] (TooManyWarningsAction = 1)
+[15:26:55] (AirbrakeDetection = 1)
+[15:26:55]  
+[15:26:55] [junkbuster] 0 IP-bans have been loaded.
+[15:26:55] [junkbuster] 0 temporary bans have been loaded.
+[15:26:55] [junkbuster] 0 whitelist entries have been loaded.
+[15:26:55] [junkbuster] 0 blacklist entries have been loaded.
+[15:26:55] [junkbuster] 0 bad words have been loaded.
+[15:26:55] [junkbuster] 4 forbidden weapons have been loaded.
+[15:26:55] [junkbuster] JunkBuster has been configurated.
+[15:26:55]  
+[15:26:55] » JunkBuster (v11) su carga fue exitosa.
+[15:26:55]  
+[15:26:55]   Loading filterscript 'text2.amx'...
+[15:26:55]   Unable to load filterscript 'text2.amx'.
+[15:26:55]   Loaded 2 filterscripts.
+
+[15:26:55] » Sistema de graffitis cargado (0).
+[15:26:55] » Sistema de objetos dinámicos cargado (1).
+[15:26:55] » Sistema de puertas dinamicas cargado (49).
+[15:26:55] » Sistema de status del servidor cargado.
+[15:26:55] » Sistema de casas cargado (125).
+[15:26:55] » Sistema de garajes cargado (0).
+[15:26:55] » Sistema de negocios cargado (60).
+[15:26:55] » Sistema de gasolineras cargado (10).
+[15:26:55] » Incendios cargados.
+[15:26:55] » Sistema de maleteros de facciones cargado (150).
+[15:26:55] » Sistema de teléfonos públicos cargado (30).
+[15:26:55] » Sistema de semillas cargado (0).
+[15:26:55] » Sistema de concesionarias cargado (87).
+[15:26:55] » Sistema de vehículos usados cargado (0).
+[15:26:56] » Sistema de empresas cargado (1).
+[15:26:56] » Sistema de vehículos cargado (13).
+[15:26:58] » Sistema de organizaciones cargado.
+[15:26:58] » Sistema de parqueos/peajes cargado (9).
+[15:26:58] » Objetos unicos cargado (1).
+[15:26:58]  
+[15:26:58] SERVIDOR INICIADO CON ÉXITO.
+[15:26:58]  Consola optimizada 
+[15:26:58] ===================================================================
+[15:26:58] 		JUEGO DE ROL
+[15:26:58] ===================================================================
+[15:26:58]  
+[15:26:58]  
+[15:26:58] Number of vehicle models: 60
+[15:27:07] [connection] 127.0.0.1:58284 requests connection cookie.
+[15:27:08] [connection] incoming connection: 127.0.0.1:58284 id: 0
+[15:27:09] [join] Skender_Osterberg has joined the server (0:127.0.0.1)
+[15:27:31] [part] Skender_Osterberg has left the server (0:0)
+[15:27:55] [connection] 127.0.0.1:61443 requests connection cookie.
+[15:27:56] [connection] incoming connection: 127.0.0.1:61443 id: 0
+[15:27:57] [join] Citoh has joined the server (0:127.0.0.1)
+[15:28:13] [cmd] [Skender Osterberg]: /admins
+[15:28:15] [cmd] [Skender Osterberg]: /A a
+[15:29:31] [cmd] [Skender Osterberg]: /crearempresa
+[15:29:39] [cmd] [Skender Osterberg]: /ls
+[15:29:43] [cmd] [Skender Osterberg]: /staffon
+[15:30:11] [cmd] [Skender Osterberg]: /traercar 256
+[15:30:13] [cmd] [Skender Osterberg]: /jetpack
+[15:31:51] [cmd] [Skender Osterberg]: /crearnegoci
+[15:31:51] [cmd] [Skender Osterberg]: /crearnegocio
+[15:32:01] [cmd] [Skender Osterberg]: /crearempresa
+[15:32:12] [cmd] [Skender Osterberg]: /crearempresa 1 100000 2
+[15:32:25] [cmd] [Skender Osterberg]: /darempresa
+[15:32:27] [cmd] [Skender Osterberg]: /Ayudaempresas
+[15:33:20] [cmd] [Skender Osterberg]: /darempresa
+[15:33:24] [cmd] [Skender Osterberg]: /comprarempresa
+[15:33:27] [cmd] [Skender Osterberg]: /dardinero
+[15:33:28] [cmd] [Skender Osterberg]: /info
+[15:33:33] [cmd] [Skender Osterberg]: /dardinero
+[15:33:37] [cmd] [Skender Osterberg]: /dardinero 0 10000000
+[15:33:39] [cmd] [Skender Osterberg]: /comprarempresa
+[15:33:43] [cmd] [Skender Osterberg]: /ayuda
+[15:33:55] [cmd] [Skender Osterberg]: /mercancia
+[15:33:57] [cmd] [Skender Osterberg]: /repartos
+[15:34:03] [cmd] [Skender Osterberg]: /empresa
+[15:34:08] [cmd] [Skender Osterberg]: /empresa
+[15:34:13] [cmd] [Skender Osterberg]: /ecoches
+[15:34:19] [cmd] [Skender Osterberg]: /comprarcoches
+[15:34:24] [cmd] [Skender Osterberg]: /infoempresa
+[15:34:33] [cmd] [Skender Osterberg]: /darempleo
+[15:34:35] [cmd] [Skender Osterberg]: /darempleo 0
+[15:34:38] [cmd] [Skender Osterberg]: /ah
+[15:34:41] [cmd] [Skender Osterberg]: /Ayuda
+[15:34:44] [cmd] [Skender Osterberg]: /repartos
+[15:34:47] [cmd] [Skender Osterberg]: /mercancia
+[15:34:50] [cmd] [Skender Osterberg]: /repartos
+[15:35:11] [cmd] [Skender Osterberg]: /comprarcoches
+[15:35:18] [cmd] [Skender Osterberg]: /ecoches
+[15:35:32] [cmd] [Skender Osterberg]: /motor
+[15:35:43] [cmd] [Skender Osterberg]: /darnivel
+[15:35:44] [cmd] [Skender Osterberg]: /ah
+[15:35:53] [cmd] [Skender Osterberg]: /listaobjetos
+[15:37:02] [cmd] [Skender Osterberg]: /infoempresa
+[15:38:21] [cmd] [Skender Osterberg]: /A a.
+[15:38:28] [cmd] [Skender Osterberg]: /pedio
+[15:38:29] [cmd] [Skender Osterberg]: /pedido
+[15:38:30] [cmd] [Skender Osterberg]: /pedido drogas
+[15:38:32] [cmd] [Skender Osterberg]: /pedido drogas
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:41:03] 
+[15:41:03] Server Plugins
+[15:41:03] --------------
+[15:41:03]  Loading plugin: crashdetect
+[15:41:03]   CrashDetect v4.15.1 is OK.
+[15:41:03]   Loaded.
+[15:41:03]  Loading plugin: sscanf
+[15:41:03] 
+
+[15:41:03]  ===============================
+
+[15:41:03]       sscanf plugin loaded.     
+
+[15:41:03]          Version:  2.8.1        
+
+[15:41:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:41:03]  ===============================
+
+[15:41:03]   Loaded.
+[15:41:03]  Loading plugin: streamer
+[15:41:03] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:41:03]   Loaded.
+[15:41:03]  Loaded 3 plugins.
+
+[15:41:03] 
+[15:41:03] Filterscripts
+[15:41:03] ---------------
+[15:41:03]   Loading filterscript 'Botones.amx'...
+[15:41:03]   Loading filterscript 'JunkBuster.amx'...
+[15:41:03] Cargando JunkBuster...
+[15:41:03]  
+[15:41:03] Configuración del JunkBuster: 
+[15:41:03] (Jetpack = 1)
+[15:41:03] (BadWords = 1)
+[15:41:03] (CarJackHack = 1)
+[15:41:03] (Blacklist = 1)
+[15:41:03] (IpBans = 1)
+[15:41:03] (TempBans = 1)
+[15:41:03] (Airbrake = 150)
+[15:41:03] (AntiBugKill = 1)
+[15:41:03] (VehicleTeleport = 1)
+[15:41:03] (MaxTotalWarnings = 2000)
+[15:41:03] (TooManyWarningsAction = 1)
+[15:41:03] (AirbrakeDetection = 1)
+[15:41:03]  
+[15:41:03] [junkbuster] 0 IP-bans have been loaded.
+[15:41:03] [junkbuster] 0 temporary bans have been loaded.
+[15:41:03] [junkbuster] 0 whitelist entries have been loaded.
+[15:41:03] [junkbuster] 0 blacklist entries have been loaded.
+[15:41:03] [junkbuster] 0 bad words have been loaded.
+[15:41:03] [junkbuster] 4 forbidden weapons have been loaded.
+[15:41:03] [junkbuster] JunkBuster has been configurated.
+[15:41:03]  
+[15:41:03] » JunkBuster (v11) su carga fue exitosa.
+[15:41:03]  
+[15:41:03]   Loading filterscript 'text2.amx'...
+[15:41:03]   Unable to load filterscript 'text2.amx'.
+[15:41:03]   Loaded 2 filterscripts.
+
+[15:41:03] » Sistema de graffitis cargado (0).
+[15:41:03] » Sistema de objetos dinámicos cargado (1).
+[15:41:03] » Sistema de puertas dinamicas cargado (49).
+[15:41:03] » Sistema de status del servidor cargado.
+[15:41:03] » Sistema de casas cargado (125).
+[15:41:03] » Sistema de garajes cargado (0).
+[15:41:03] » Sistema de negocios cargado (60).
+[15:41:03] » Sistema de gasolineras cargado (10).
+[15:41:03] » Incendios cargados.
+[15:41:03] » Sistema de maleteros de facciones cargado (150).
+[15:41:03] » Sistema de teléfonos públicos cargado (30).
+[15:41:03] » Sistema de semillas cargado (0).
+[15:41:03] » Sistema de concesionarias cargado (87).
+[15:41:03] » Sistema de vehículos usados cargado (0).
+[15:41:03] » Sistema de empresas cargado (2).
+[15:41:03] » Sistema de vehículos cargado (13).
+[15:41:06] » Sistema de organizaciones cargado.
+[15:41:06] » Sistema de parqueos/peajes cargado (9).
+[15:41:06] » Objetos unicos cargado (1).
+[15:41:06]  
+[15:41:06] SERVIDOR INICIADO CON ÉXITO.
+[15:41:06]  Consola optimizada 
+[15:41:06] ===================================================================
+[15:41:06] 		JUEGO DE ROL
+[15:41:06] ===================================================================
+[15:41:06]  
+[15:41:06]  
+[15:41:06] Number of vehicle models: 60
+[15:41:42] [connection] 127.0.0.1:58143 requests connection cookie.
+[15:41:43] [connection] incoming connection: 127.0.0.1:58143 id: 0
+[15:41:44] [join] Citoh has joined the server (0:127.0.0.1)
+[15:41:58] [cmd] [Skender Osterberg]: /pedido drogas
+[15:42:28] [cmd] [Skender Osterberg]: /motor
+[15:43:22] [cmd] [Skender Osterberg]: /rtc
+[15:43:25] [cmd] [Skender Osterberg]: /respawn
+[15:43:26] [cmd] [Skender Osterberg]: /respawncar
+[15:43:43] [cmd] [Skender Osterberg]: /admins
+[15:43:46] [cmd] [Skender Osterberg]: /staff
+[15:43:54] [cmd] [Skender Osterberg]: /pickup
+[15:43:58] [cmd] [Skender Osterberg]: /crearpickup
+[15:45:17] [cmd] [Skender Osterberg]: /jetpack
+[15:45:19] [cmd] [Skender Osterberg]: /staffon
+[15:45:21] [cmd] [Skender Osterberg]: /jetpack
+[15:45:27] [cmd] [Skender Osterberg]: /banoff
+[15:45:29] [cmd] [Skender Osterberg]: /banear
+[15:45:31] [cmd] [Skender Osterberg]: /banearoff
+[15:45:32] [cmd] [Skender Osterberg]: /ah
+[15:45:54] [cmd] [Skender Osterberg]: /staffon Shit
+[15:45:55] [cmd] [Skender Osterberg]: /admins
+[15:45:57] [cmd] [Skender Osterberg]: /staffon Shit
+[15:45:58] [cmd] [Skender Osterberg]: /admins
+[15:46:46] [cmd] [Skender Osterberg]: /darstat
+[15:47:18] [cmd] [Skender Osterberg]: /pedido drogas
+[15:47:55] [cmd] [Skender Osterberg]: /jetpack
+[15:48:46] [cmd] [Skender Osterberg]: /limpiar
+[15:48:59] [cmd] [Skender Osterberg]: /bol
+[15:49:02] [cmd] [Skender Osterberg]: /mano
+[15:49:03] [cmd] [Skender Osterberg]: /pedido
+[15:49:04] [cmd] [Skender Osterberg]: /pedido droggas
+[15:49:05] [cmd] [Skender Osterberg]: /pedido drogas
+[15:49:07] [cmd] [Skender Osterberg]: /ftiempo
+[15:49:18] [cmd] [Skender Osterberg]: /guardar
+[15:49:21] [cmd] [Skender Osterberg]: /ircar 256
+[15:49:22] [cmd] [Skender Osterberg]: /ircar 256
+[15:49:24] [cmd] [Skender Osterberg]: /coches
+[15:49:25] [cmd] [Skender Osterberg]: /ircar 256
+[15:49:36] [cmd] [Skender Osterberg]: /cajafuerte
+[15:49:39] [cmd] [Skender Osterberg]: /editarfam
+[15:49:46] [cmd] [Skender Osterberg]: /editarfam cajafuerte
+[15:49:52] [cmd] [Skender Osterberg]: /cajafuerte
+[15:50:59] [cmd] [Skender Osterberg]: /A a
+[16:21:34] [cmd] [Skender Osterberg]: /crearobjeto
+[16:21:38] [cmd] [Skender Osterberg]: /listaobjetos
+[16:38:42] [cmd] [Skender Osterberg]: /reportes
+[16:38:45] [cmd] [Skender Osterberg]: /re 0 ola
+[16:38:54] [cmd] [Skender Osterberg]: /reportes
+[16:46:29] [cmd] [Skender Osterberg]: /pedido
+[16:46:33] [cmd] [Skender Osterberg]: /pedido drogas
+[20:46:59] [part] Citoh has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:59:15] 
+[00:59:15] Server Plugins
+[00:59:15] --------------
+[00:59:15]  Loading plugin: crashdetect
+[00:59:15]   CrashDetect v4.15.1 is OK.
+[00:59:15]   Loaded.
+[00:59:15]  Loading plugin: sscanf
+[00:59:15] 
+
+[00:59:15]  ===============================
+
+[00:59:15]       sscanf plugin loaded.     
+
+[00:59:15]          Version:  2.8.1        
+
+[00:59:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:59:15]  ===============================
+
+[00:59:15]   Loaded.
+[00:59:15]  Loading plugin: streamer
+[00:59:15] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[00:59:15]   Loaded.
+[00:59:15]  Loaded 3 plugins.
+
+[00:59:15] 
+[00:59:15] Filterscripts
+[00:59:15] ---------------
+[00:59:15]   Loading filterscript 'Botones.amx'...
+[00:59:15]   Loading filterscript 'JunkBuster.amx'...
+[00:59:15] Cargando JunkBuster...
+[00:59:15]  
+[00:59:15] Configuración del JunkBuster: 
+[00:59:15] (Jetpack = 1)
+[00:59:15] (BadWords = 1)
+[00:59:15] (CarJackHack = 1)
+[00:59:15] (Blacklist = 1)
+[00:59:15] (IpBans = 1)
+[00:59:15] (TempBans = 1)
+[00:59:15] (Airbrake = 150)
+[00:59:15] (AntiBugKill = 1)
+[00:59:15] (VehicleTeleport = 1)
+[00:59:15] (MaxTotalWarnings = 2000)
+[00:59:15] (TooManyWarningsAction = 1)
+[00:59:15] (AirbrakeDetection = 1)
+[00:59:15]  
+[00:59:15] [junkbuster] 0 IP-bans have been loaded.
+[00:59:15] [junkbuster] 0 temporary bans have been loaded.
+[00:59:15] [junkbuster] 0 whitelist entries have been loaded.
+[00:59:15] [junkbuster] 0 blacklist entries have been loaded.
+[00:59:15] [junkbuster] 0 bad words have been loaded.
+[00:59:15] [junkbuster] 4 forbidden weapons have been loaded.
+[00:59:15] [junkbuster] JunkBuster has been configurated.
+[00:59:15]  
+[00:59:15] » JunkBuster (v11) su carga fue exitosa.
+[00:59:15]  
+[00:59:15]   Loading filterscript 'text2.amx'...
+[00:59:15]   Unable to load filterscript 'text2.amx'.
+[00:59:15]   Loaded 2 filterscripts.
+
+[00:59:15] Script[gamemodes/roleplay.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[00:59:15] Failed to load 'gamemodes/roleplay.amx' script.
+[00:59:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:00:50] 
+[01:00:50] Server Plugins
+[01:00:50] --------------
+[01:00:50]  Loading plugin: crashdetect
+[01:00:50]   CrashDetect v4.15.1 is OK.
+[01:00:50]   Loaded.
+[01:00:50]  Loading plugin: sscanf
+[01:00:50] 
+
+[01:00:50]  ===============================
+
+[01:00:50]       sscanf plugin loaded.     
+
+[01:00:50]          Version:  2.8.1        
+
+[01:00:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:00:50]  ===============================
+
+[01:00:50]   Loaded.
+[01:00:50]  Loading plugin: streamer
+[01:00:50] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[01:00:50]   Loaded.
+[01:00:50]  Loaded 3 plugins.
+
+[01:00:50] 
+[01:00:50] Filterscripts
+[01:00:50] ---------------
+[01:00:50]   Loading filterscript 'Botones.amx'...
+[01:00:50]   Loading filterscript 'JunkBuster.amx'...
+[01:00:50] Cargando JunkBuster...
+[01:00:50]  
+[01:00:50] Configuración del JunkBuster: 
+[01:00:50] (Jetpack = 1)
+[01:00:50] (BadWords = 1)
+[01:00:50] (CarJackHack = 1)
+[01:00:50] (Blacklist = 1)
+[01:00:50] (IpBans = 1)
+[01:00:50] (TempBans = 1)
+[01:00:50] (Airbrake = 150)
+[01:00:50] (AntiBugKill = 1)
+[01:00:50] (VehicleTeleport = 1)
+[01:00:50] (MaxTotalWarnings = 2000)
+[01:00:50] (TooManyWarningsAction = 1)
+[01:00:50] (AirbrakeDetection = 1)
+[01:00:50]  
+[01:00:50] [junkbuster] 0 IP-bans have been loaded.
+[01:00:50] [junkbuster] 0 temporary bans have been loaded.
+[01:00:50] [junkbuster] 0 whitelist entries have been loaded.
+[01:00:50] [junkbuster] 0 blacklist entries have been loaded.
+[01:00:50] [junkbuster] 0 bad words have been loaded.
+[01:00:50] [junkbuster] 4 forbidden weapons have been loaded.
+[01:00:50] [junkbuster] JunkBuster has been configurated.
+[01:00:50]  
+[01:00:50] » JunkBuster (v11) su carga fue exitosa.
+[01:00:50]  
+[01:00:50]   Loading filterscript 'text2.amx'...
+[01:00:50]   Unable to load filterscript 'text2.amx'.
+[01:00:50]   Loaded 2 filterscripts.
+
+[01:00:50] » Sistema de graffitis cargado (0).
+[01:00:50] » Sistema de objetos dinámicos cargado (1).
+[01:00:50] » Sistema de puertas dinamicas cargado (49).
+[01:00:50] » Sistema de status del servidor cargado.
+[01:00:51] » Sistema de casas cargado (125).
+[01:00:51] » Sistema de garajes cargado (0).
+[01:00:51] » Sistema de negocios cargado (60).
+[01:00:51] » Sistema de gasolineras cargado (10).
+[01:00:51] » Incendios cargados.
+[01:00:52] » Sistema de maleteros de facciones cargado (150).
+[01:00:52] » Sistema de teléfonos públicos cargado (30).
+[01:00:52] » Sistema de semillas cargado (0).
+[01:00:52] » Sistema de concesionarias cargado (87).
+[01:00:52] » Sistema de vehículos usados cargado (0).
+[01:00:52] » Sistema de empresas cargado (2).
+[01:00:52] » Sistema de vehículos cargado (13).
+[01:00:54] » Sistema de organizaciones cargado.
+[01:00:54] » Sistema de parqueos/peajes cargado (9).
+[01:00:54] » Objetos unicos cargado (1).
+[01:00:54]  
+[01:00:54] SERVIDOR INICIADO CON ÉXITO.
+[01:00:54]  Consola optimizada 
+[01:00:54] ===================================================================
+[01:00:54] 		JUEGO DE ROL
+[01:00:54] ===================================================================
+[01:00:54]  
+[01:00:54]  
+[01:00:54] Number of vehicle models: 60
+[01:01:21] [connection] 127.0.0.1:54269 requests connection cookie.
+[01:01:22] [connection] incoming connection: 127.0.0.1:54269 id: 0
+[01:01:22] [join] Citoh has joined the server (0:127.0.0.1)
+[01:01:47] [cmd] [Skender Osterberg]: /casainterior1
+[01:01:51] [part] Citoh has left the server (0:1)
+[01:03:38] [connection] 127.0.0.1:55878 requests connection cookie.
+[01:03:39] [connection] incoming connection: 127.0.0.1:55878 id: 0
+[01:03:39] [join] Citoh has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:07:23] 
+[01:07:23] Server Plugins
+[01:07:23] --------------
+[01:07:23]  Loading plugin: crashdetect
+[01:07:23]   CrashDetect v4.15.1 is OK.
+[01:07:23]   Loaded.
+[01:07:23]  Loading plugin: sscanf
+[01:07:23] 
+
+[01:07:23]  ===============================
+
+[01:07:23]       sscanf plugin loaded.     
+
+[01:07:23]          Version:  2.8.1        
+
+[01:07:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:07:23]  ===============================
+
+[01:07:23]   Loaded.
+[01:07:23]  Loading plugin: streamer
+[01:07:23] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[01:07:23]   Loaded.
+[01:07:23]  Loaded 3 plugins.
+
+[01:07:23] 
+[01:07:23] Filterscripts
+[01:07:23] ---------------
+[01:07:23]   Loading filterscript 'Botones.amx'...
+[01:07:23]   Loading filterscript 'JunkBuster.amx'...
+[01:07:23] Cargando JunkBuster...
+[01:07:23]  
+[01:07:23] Configuración del JunkBuster: 
+[01:07:23] (Jetpack = 1)
+[01:07:23] (BadWords = 1)
+[01:07:23] (CarJackHack = 1)
+[01:07:23] (Blacklist = 1)
+[01:07:23] (IpBans = 1)
+[01:07:23] (TempBans = 1)
+[01:07:23] (Airbrake = 150)
+[01:07:23] (AntiBugKill = 1)
+[01:07:23] (VehicleTeleport = 1)
+[01:07:23] (MaxTotalWarnings = 2000)
+[01:07:23] (TooManyWarningsAction = 1)
+[01:07:23] (AirbrakeDetection = 1)
+[01:07:23]  
+[01:07:23] [junkbuster] 0 IP-bans have been loaded.
+[01:07:23] [junkbuster] 0 temporary bans have been loaded.
+[01:07:23] [junkbuster] 0 whitelist entries have been loaded.
+[01:07:23] [junkbuster] 0 blacklist entries have been loaded.
+[01:07:23] [junkbuster] 0 bad words have been loaded.
+[01:07:23] [junkbuster] 4 forbidden weapons have been loaded.
+[01:07:23] [junkbuster] JunkBuster has been configurated.
+[01:07:23]  
+[01:07:23] » JunkBuster (v11) su carga fue exitosa.
+[01:07:23]  
+[01:07:23]   Loading filterscript 'text2.amx'...
+[01:07:23]   Unable to load filterscript 'text2.amx'.
+[01:07:23]   Loaded 2 filterscripts.
+
+[01:07:23] » Sistema de graffitis cargado (0).
+[01:07:23] » Sistema de objetos dinámicos cargado (1).
+[01:07:23] » Sistema de puertas dinamicas cargado (49).
+[01:07:23] » Sistema de status del servidor cargado.
+[01:07:23] » Sistema de casas cargado (125).
+[01:07:23] » Sistema de garajes cargado (0).
+[01:07:23] » Sistema de negocios cargado (60).
+[01:07:23] » Sistema de gasolineras cargado (10).
+[01:07:23] » Incendios cargados.
+[01:07:23] » Sistema de maleteros de facciones cargado (150).
+[01:07:23] » Sistema de teléfonos públicos cargado (30).
+[01:07:23] » Sistema de semillas cargado (0).
+[01:07:23] » Sistema de concesionarias cargado (87).
+[01:07:23] » Sistema de vehículos usados cargado (0).
+[01:07:23] » Sistema de empresas cargado (2).
+[01:07:24] » Sistema de vehículos cargado (13).
+[01:07:26] » Sistema de organizaciones cargado.
+[01:07:26] » Sistema de parqueos/peajes cargado (9).
+[01:07:26] » Objetos unicos cargado (1).
+[01:07:26]  
+[01:07:26] SERVIDOR INICIADO CON ÉXITO.
+[01:07:26]  Consola optimizada 
+[01:07:26] ===================================================================
+[01:07:26] 		JUEGO DE ROL
+[01:07:26] ===================================================================
+[01:07:26]  
+[01:07:26]  
+[01:07:26] Number of vehicle models: 60
+[01:08:27] [connection] 127.0.0.1:57289 requests connection cookie.
+[01:08:28] [connection] incoming connection: 127.0.0.1:57289 id: 0
+[01:08:28] [join] Citoh has joined the server (0:127.0.0.1)
+[01:08:44] [cmd] [Skender Osterberg]: /casainterior1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:13:34] 
+[01:13:34] Server Plugins
+[01:13:34] --------------
+[01:13:34]  Loading plugin: crashdetect
+[01:13:34]   CrashDetect v4.15.1 is OK.
+[01:13:34]   Loaded.
+[01:13:34]  Loading plugin: sscanf
+[01:13:34] 
+
+[01:13:34]  ===============================
+
+[01:13:34]       sscanf plugin loaded.     
+
+[01:13:34]          Version:  2.8.1        
+
+[01:13:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:13:34]  ===============================
+
+[01:13:34]   Loaded.
+[01:13:34]  Loading plugin: streamer
+[01:13:34] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[01:13:34]   Loaded.
+[01:13:34]  Loaded 3 plugins.
+
+[01:13:34] 
+[01:13:34] Filterscripts
+[01:13:34] ---------------
+[01:13:34]   Loading filterscript 'Botones.amx'...
+[01:13:34]   Loading filterscript 'JunkBuster.amx'...
+[01:13:34] Cargando JunkBuster...
+[01:13:34]  
+[01:13:34] Configuración del JunkBuster: 
+[01:13:34] (Jetpack = 1)
+[01:13:34] (BadWords = 1)
+[01:13:34] (CarJackHack = 1)
+[01:13:34] (Blacklist = 1)
+[01:13:34] (IpBans = 1)
+[01:13:34] (TempBans = 1)
+[01:13:34] (Airbrake = 150)
+[01:13:34] (AntiBugKill = 1)
+[01:13:34] (VehicleTeleport = 1)
+[01:13:34] (MaxTotalWarnings = 2000)
+[01:13:34] (TooManyWarningsAction = 1)
+[01:13:34] (AirbrakeDetection = 1)
+[01:13:34]  
+[01:13:34] [junkbuster] 0 IP-bans have been loaded.
+[01:13:34] [junkbuster] 0 temporary bans have been loaded.
+[01:13:34] [junkbuster] 0 whitelist entries have been loaded.
+[01:13:34] [junkbuster] 0 blacklist entries have been loaded.
+[01:13:34] [junkbuster] 0 bad words have been loaded.
+[01:13:34] [junkbuster] 4 forbidden weapons have been loaded.
+[01:13:34] [junkbuster] JunkBuster has been configurated.
+[01:13:34]  
+[01:13:34] » JunkBuster (v11) su carga fue exitosa.
+[01:13:34]  
+[01:13:34]   Loading filterscript 'text2.amx'...
+[01:13:34]   Unable to load filterscript 'text2.amx'.
+[01:13:34]   Loaded 2 filterscripts.
+
+[01:13:34] » Sistema de graffitis cargado (0).
+[01:13:34] » Sistema de objetos dinámicos cargado (1).
+[01:13:34] » Sistema de puertas dinamicas cargado (49).
+[01:13:34] » Sistema de status del servidor cargado.
+[01:13:34] » Sistema de casas cargado (125).
+[01:13:34] » Sistema de garajes cargado (0).
+[01:13:34] » Sistema de negocios cargado (60).
+[01:13:34] » Sistema de gasolineras cargado (10).
+[01:13:34] » Incendios cargados.
+[01:13:34] » Sistema de maleteros de facciones cargado (150).
+[01:13:34] » Sistema de teléfonos públicos cargado (30).
+[01:13:34] » Sistema de semillas cargado (0).
+[01:13:34] » Sistema de concesionarias cargado (87).
+[01:13:34] » Sistema de vehículos usados cargado (0).
+[01:13:34] » Sistema de empresas cargado (2).
+[01:13:34] » Sistema de vehículos cargado (13).
+[01:13:37] » Sistema de organizaciones cargado.
+[01:13:37] » Sistema de parqueos/peajes cargado (9).
+[01:13:37] » Objetos unicos cargado (1).
+[01:13:37]  
+[01:13:37] SERVIDOR INICIADO CON ÉXITO.
+[01:13:37]  Consola optimizada 
+[01:13:37] ===================================================================
+[01:13:37] 		JUEGO DE ROL
+[01:13:37] ===================================================================
+[01:13:37]  
+[01:13:37]  
+[01:13:37] Number of vehicle models: 60
+[01:13:39] [connection] 127.0.0.1:51366 requests connection cookie.
+[01:13:40] [connection] incoming connection: 127.0.0.1:51366 id: 0
+[01:13:40] [join] Skender_Osterberg has joined the server (0:127.0.0.1)
+[01:14:01] [part] Skender_Osterberg has left the server (0:0)
+[01:14:17] [connection] 127.0.0.1:51570 requests connection cookie.
+[01:14:18] [connection] incoming connection: 127.0.0.1:51570 id: 0
+[01:14:19] [join] Citoh has joined the server (0:127.0.0.1)
+[01:14:45] [cmd] [Skender Osterberg]: /casainterior1
+[01:14:57] [part] Citoh has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:38:40] 
+[01:38:40] Server Plugins
+[01:38:40] --------------
+[01:38:40]  Loading plugin: crashdetect
+[01:38:40]   CrashDetect v4.15.1 is OK.
+[01:38:40]   Loaded.
+[01:38:40]  Loading plugin: sscanf
+[01:38:40] 
+
+[01:38:40]  ===============================
+
+[01:38:40]       sscanf plugin loaded.     
+
+[01:38:40]          Version:  2.8.1        
+
+[01:38:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:38:40]  ===============================
+
+[01:38:40]   Loaded.
+[01:38:40]  Loading plugin: streamer
+[01:38:40] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[01:38:40]   Loaded.
+[01:38:40]  Loaded 3 plugins.
+
+[01:38:40] 
+[01:38:40] Filterscripts
+[01:38:40] ---------------
+[01:38:40]   Loading filterscript 'Botones.amx'...
+[01:38:40]   Loading filterscript 'JunkBuster.amx'...
+[01:38:40] Cargando JunkBuster...
+[01:38:40]  
+[01:38:40] Configuración del JunkBuster: 
+[01:38:40] (Jetpack = 1)
+[01:38:40] (BadWords = 1)
+[01:38:40] (CarJackHack = 1)
+[01:38:40] (Blacklist = 1)
+[01:38:40] (IpBans = 1)
+[01:38:40] (TempBans = 1)
+[01:38:40] (Airbrake = 150)
+[01:38:40] (AntiBugKill = 1)
+[01:38:40] (VehicleTeleport = 1)
+[01:38:40] (MaxTotalWarnings = 2000)
+[01:38:40] (TooManyWarningsAction = 1)
+[01:38:40] (AirbrakeDetection = 1)
+[01:38:40]  
+[01:38:40] [junkbuster] 0 IP-bans have been loaded.
+[01:38:40] [junkbuster] 0 temporary bans have been loaded.
+[01:38:40] [junkbuster] 0 whitelist entries have been loaded.
+[01:38:40] [junkbuster] 0 blacklist entries have been loaded.
+[01:38:40] [junkbuster] 0 bad words have been loaded.
+[01:38:40] [junkbuster] 4 forbidden weapons have been loaded.
+[01:38:40] [junkbuster] JunkBuster has been configurated.
+[01:38:40]  
+[01:38:40] » JunkBuster (v11) su carga fue exitosa.
+[01:38:40]  
+[01:38:40]   Loading filterscript 'text2.amx'...
+[01:38:40]   Unable to load filterscript 'text2.amx'.
+[01:38:40]   Loaded 2 filterscripts.
+
+[01:38:40] » Sistema de graffitis cargado (0).
+[01:38:40] » Sistema de objetos dinámicos cargado (1).
+[01:38:40] » Sistema de puertas dinamicas cargado (49).
+[01:38:40] » Sistema de status del servidor cargado.
+[01:38:40] » Sistema de casas cargado (125).
+[01:38:40] » Sistema de garajes cargado (0).
+[01:38:40] » Sistema de negocios cargado (60).
+[01:38:40] » Sistema de gasolineras cargado (10).
+[01:38:40] » Incendios cargados.
+[01:38:40] » Sistema de maleteros de facciones cargado (150).
+[01:38:40] » Sistema de teléfonos públicos cargado (30).
+[01:38:40] » Sistema de semillas cargado (0).
+[01:38:40] » Sistema de concesionarias cargado (87).
+[01:38:40] » Sistema de vehículos usados cargado (0).
+[01:38:40] » Sistema de empresas cargado (2).
+[01:38:41] » Sistema de vehículos cargado (13).
+[01:38:43] » Sistema de organizaciones cargado.
+[01:38:43] » Sistema de parqueos/peajes cargado (9).
+[01:38:43] » Objetos unicos cargado (1).
+[01:38:43]  
+[01:38:43] SERVIDOR INICIADO CON ÉXITO.
+[01:38:43]  Consola optimizada 
+[01:38:43] ===================================================================
+[01:38:43] 		JUEGO DE ROL
+[01:38:43] ===================================================================
+[01:38:43]  
+[01:38:43]  
+[01:38:43] Number of vehicle models: 60
+[01:39:05] [connection] 127.0.0.1:54770 requests connection cookie.
+[01:39:06] [connection] incoming connection: 127.0.0.1:54770 id: 0
+[01:39:07] [join] Citoh has joined the server (0:127.0.0.1)
+[01:39:27] [cmd] [Skender Osterberg]: /casainterior1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:06:29] 
+[02:06:29] Server Plugins
+[02:06:29] --------------
+[02:06:29]  Loading plugin: crashdetect
+[02:06:29]   CrashDetect v4.15.1 is OK.
+[02:06:29]   Loaded.
+[02:06:29]  Loading plugin: sscanf
+[02:06:29] 
+
+[02:06:29]  ===============================
+
+[02:06:29]       sscanf plugin loaded.     
+
+[02:06:29]          Version:  2.8.1        
+
+[02:06:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:06:29]  ===============================
+
+[02:06:29]   Loaded.
+[02:06:29]  Loading plugin: streamer
+[02:06:29] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[02:06:29]   Loaded.
+[02:06:29]  Loaded 3 plugins.
+
+[02:06:29] 
+[02:06:29] Filterscripts
+[02:06:29] ---------------
+[02:06:29]   Loading filterscript 'Botones.amx'...
+[02:06:29]   Loading filterscript 'JunkBuster.amx'...
+[02:06:29] Cargando JunkBuster...
+[02:06:29]  
+[02:06:29] Configuración del JunkBuster: 
+[02:06:29] (Jetpack = 1)
+[02:06:29] (BadWords = 1)
+[02:06:29] (CarJackHack = 1)
+[02:06:29] (Blacklist = 1)
+[02:06:29] (IpBans = 1)
+[02:06:29] (TempBans = 1)
+[02:06:29] (Airbrake = 150)
+[02:06:29] (AntiBugKill = 1)
+[02:06:29] (VehicleTeleport = 1)
+[02:06:29] (MaxTotalWarnings = 2000)
+[02:06:29] (TooManyWarningsAction = 1)
+[02:06:29] (AirbrakeDetection = 1)
+[02:06:29]  
+[02:06:29] [junkbuster] 0 IP-bans have been loaded.
+[02:06:29] [junkbuster] 0 temporary bans have been loaded.
+[02:06:29] [junkbuster] 0 whitelist entries have been loaded.
+[02:06:29] [junkbuster] 0 blacklist entries have been loaded.
+[02:06:29] [junkbuster] 0 bad words have been loaded.
+[02:06:29] [junkbuster] 4 forbidden weapons have been loaded.
+[02:06:29] [junkbuster] JunkBuster has been configurated.
+[02:06:29]  
+[02:06:29] » JunkBuster (v11) su carga fue exitosa.
+[02:06:29]  
+[02:06:29]   Loading filterscript 'text2.amx'...
+[02:06:29]   Unable to load filterscript 'text2.amx'.
+[02:06:29]   Loaded 2 filterscripts.
+
+[02:06:29] » Sistema de graffitis cargado (0).
+[02:06:29] » Sistema de objetos dinámicos cargado (1).
+[02:06:29] » Sistema de puertas dinamicas cargado (49).
+[02:06:29] » Sistema de status del servidor cargado.
+[02:06:29] » Sistema de casas cargado (125).
+[02:06:29] » Sistema de garajes cargado (0).
+[02:06:30] » Sistema de negocios cargado (60).
+[02:06:30] » Sistema de gasolineras cargado (10).
+[02:06:30] » Incendios cargados.
+[02:06:30] » Sistema de maleteros de facciones cargado (150).
+[02:06:30] » Sistema de teléfonos públicos cargado (30).
+[02:06:30] » Sistema de semillas cargado (0).
+[02:06:30] » Sistema de concesionarias cargado (87).
+[02:06:30] » Sistema de vehículos usados cargado (0).
+[02:06:30] » Sistema de empresas cargado (2).
+[02:06:30] » Sistema de vehículos cargado (13).
+[02:06:32] » Sistema de organizaciones cargado.
+[02:06:32] » Sistema de parqueos/peajes cargado (9).
+[02:06:32] » Objetos unicos cargado (1).
+[02:06:32]  
+[02:06:32] SERVIDOR INICIADO CON ÉXITO.
+[02:06:32]  Consola optimizada 
+[02:06:32] ===================================================================
+[02:06:32] 		JUEGO DE ROL
+[02:06:32] ===================================================================
+[02:06:32]  
+[02:06:32]  
+[02:06:32] Number of vehicle models: 60
+[02:07:35] [connection] 127.0.0.1:49469 requests connection cookie.
+[02:07:36] [connection] incoming connection: 127.0.0.1:49469 id: 0
+[02:07:37] [join] Citoh has joined the server (0:127.0.0.1)
+[02:07:56] [cmd] [Skender Osterberg]: /pedido
+[02:08:09] [cmd] [Skender Osterberg]: /irls
+[02:08:10] [cmd] [Skender Osterberg]: /ls
+[02:08:12] [cmd] [Skender Osterberg]: /staffon
+[02:08:13] [cmd] [Skender Osterberg]: /ls
+[02:08:14] [cmd] [Skender Osterberg]: /coches
+[02:08:17] [cmd] [Skender Osterberg]: /coches
+[02:08:21] [cmd] [Skender Osterberg]: /getcar
+[02:08:26] [cmd] [Skender Osterberg]: /ircar 256
+[02:08:30] [cmd] [Skender Osterberg]: /ls
+[02:08:33] [cmd] [Skender Osterberg]: /traercar 256
+[02:08:40] [cmd] [Skender Osterberg]: /motor
+[02:09:27] [cmd] [Skender Osterberg]: /stats
+[02:10:52] [cmd] [Skender Osterberg]: /pedidocancelar
+[02:10:54] [cmd] [Skender Osterberg]: /pedido
+[02:10:56] [cmd] [Skender Osterberg]: /pedido cancelar
+[02:13:45] [part] Citoh has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:14:31] 
+[02:14:31] Server Plugins
+[02:14:31] --------------
+[02:14:31]  Loading plugin: crashdetect
+[02:14:31]   CrashDetect v4.15.1 is OK.
+[02:14:31]   Loaded.
+[02:14:31]  Loading plugin: sscanf
+[02:14:31] 
+
+[02:14:31]  ===============================
+
+[02:14:31]       sscanf plugin loaded.     
+
+[02:14:31]          Version:  2.8.1        
+
+[02:14:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:14:31]  ===============================
+
+[02:14:31]   Loaded.
+[02:14:31]  Loading plugin: streamer
+[02:14:31] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[02:14:31]   Loaded.
+[02:14:31]  Loaded 3 plugins.
+
+[02:14:31] 
+[02:14:31] Filterscripts
+[02:14:31] ---------------
+[02:14:31]   Loading filterscript 'Botones.amx'...
+[02:14:31]   Loading filterscript 'JunkBuster.amx'...
+[02:14:31] Cargando JunkBuster...
+[02:14:31]  
+[02:14:31] Configuración del JunkBuster: 
+[02:14:31] (Jetpack = 1)
+[02:14:31] (BadWords = 1)
+[02:14:31] (CarJackHack = 1)
+[02:14:31] (Blacklist = 1)
+[02:14:31] (IpBans = 1)
+[02:14:31] (TempBans = 1)
+[02:14:31] (Airbrake = 150)
+[02:14:31] (AntiBugKill = 1)
+[02:14:31] (VehicleTeleport = 1)
+[02:14:31] (MaxTotalWarnings = 2000)
+[02:14:31] (TooManyWarningsAction = 1)
+[02:14:31] (AirbrakeDetection = 1)
+[02:14:32]  
+[02:14:32] [junkbuster] 0 IP-bans have been loaded.
+[02:14:32] [junkbuster] 0 temporary bans have been loaded.
+[02:14:32] [junkbuster] 0 whitelist entries have been loaded.
+[02:14:32] [junkbuster] 0 blacklist entries have been loaded.
+[02:14:32] [junkbuster] 0 bad words have been loaded.
+[02:14:32] [junkbuster] 4 forbidden weapons have been loaded.
+[02:14:32] [junkbuster] JunkBuster has been configurated.
+[02:14:32]  
+[02:14:32] » JunkBuster (v11) su carga fue exitosa.
+[02:14:32]  
+[02:14:32]   Loading filterscript 'text2.amx'...
+[02:14:32]   Unable to load filterscript 'text2.amx'.
+[02:14:32]   Loaded 2 filterscripts.
+
+[02:14:32] » Sistema de graffitis cargado (0).
+[02:14:32] » Sistema de objetos dinámicos cargado (1).
+[02:14:32] » Sistema de puertas dinamicas cargado (49).
+[02:14:32] » Sistema de status del servidor cargado.
+[02:14:32] » Sistema de casas cargado (125).
+[02:14:32] » Sistema de garajes cargado (0).
+[02:14:32] » Sistema de negocios cargado (60).
+[02:14:32] » Sistema de gasolineras cargado (10).
+[02:14:32] » Incendios cargados.
+[02:14:32] » Sistema de maleteros de facciones cargado (150).
+[02:14:32] » Sistema de teléfonos públicos cargado (30).
+[02:14:32] » Sistema de semillas cargado (0).
+[02:14:32] » Sistema de concesionarias cargado (87).
+[02:14:32] » Sistema de vehículos usados cargado (0).
+[02:14:32] » Sistema de empresas cargado (2).
+[02:14:32] » Sistema de vehículos cargado (13).
+[02:14:34] » Sistema de organizaciones cargado.
+[02:14:34] » Sistema de parqueos/peajes cargado (9).
+[02:14:34] » Objetos unicos cargado (1).
+[02:14:34]  
+[02:14:34] SERVIDOR INICIADO CON ÉXITO.
+[02:14:34]  Consola optimizada 
+[02:14:34] ===================================================================
+[02:14:34] 		JUEGO DE ROL
+[02:14:34] ===================================================================
+[02:14:34]  
+[02:14:34]  
+[02:14:34] Number of vehicle models: 60
+[02:14:58] [connection] 127.0.0.1:57542 requests connection cookie.
+[02:14:59] [connection] incoming connection: 127.0.0.1:57542 id: 0
+[02:14:59] [join] Citoh has joined the server (0:127.0.0.1)
+[02:16:07] [cmd] [Skender Osterberg]: /pedido
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:22:12] 
+[02:22:12] Server Plugins
+[02:22:12] --------------
+[02:22:12]  Loading plugin: crashdetect
+[02:22:12]   CrashDetect v4.15.1 is OK.
+[02:22:12]   Loaded.
+[02:22:12]  Loading plugin: sscanf
+[02:22:12] 
+
+[02:22:12]  ===============================
+
+[02:22:12]       sscanf plugin loaded.     
+
+[02:22:12]          Version:  2.8.1        
+
+[02:22:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:22:12]  ===============================
+
+[02:22:12]   Loaded.
+[02:22:12]  Loading plugin: streamer
+[02:22:12] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[02:22:12]   Loaded.
+[02:22:12]  Loaded 3 plugins.
+
+[02:22:12] 
+[02:22:12] Filterscripts
+[02:22:12] ---------------
+[02:22:12]   Loading filterscript 'Botones.amx'...
+[02:22:12]   Loading filterscript 'JunkBuster.amx'...
+[02:22:12] Cargando JunkBuster...
+[02:22:12]  
+[02:22:12] Configuración del JunkBuster: 
+[02:22:12] (Jetpack = 1)
+[02:22:12] (BadWords = 1)
+[02:22:12] (CarJackHack = 1)
+[02:22:12] (Blacklist = 1)
+[02:22:12] (IpBans = 1)
+[02:22:12] (TempBans = 1)
+[02:22:12] (Airbrake = 150)
+[02:22:12] (AntiBugKill = 1)
+[02:22:12] (VehicleTeleport = 1)
+[02:22:12] (MaxTotalWarnings = 2000)
+[02:22:12] (TooManyWarningsAction = 1)
+[02:22:12] (AirbrakeDetection = 1)
+[02:22:12]  
+[02:22:12] [junkbuster] 0 IP-bans have been loaded.
+[02:22:12] [junkbuster] 0 temporary bans have been loaded.
+[02:22:12] [junkbuster] 0 whitelist entries have been loaded.
+[02:22:12] [junkbuster] 0 blacklist entries have been loaded.
+[02:22:12] [junkbuster] 0 bad words have been loaded.
+[02:22:12] [junkbuster] 4 forbidden weapons have been loaded.
+[02:22:12] [junkbuster] JunkBuster has been configurated.
+[02:22:12]  
+[02:22:12] » JunkBuster (v11) su carga fue exitosa.
+[02:22:12]  
+[02:22:12]   Loading filterscript 'text2.amx'...
+[02:22:12]   Unable to load filterscript 'text2.amx'.
+[02:22:12]   Loaded 2 filterscripts.
+
+[02:22:12] weburl = "www.roleplay.net"  (string)
+[02:22:12] » Sistema de graffitis cargado (0).
+[02:22:12] » Sistema de objetos dinámicos cargado (1).
+[02:22:12] » Sistema de puertas dinamicas cargado (49).
+[02:22:12] » Sistema de status del servidor cargado.
+[02:22:12] » Sistema de casas cargado (125).
+[02:22:12] » Sistema de garajes cargado (0).
+[02:22:12] » Sistema de negocios cargado (60).
+[02:22:12] » Sistema de gasolineras cargado (10).
+[02:22:12] » Incendios cargados.
+[02:22:12] » Sistema de maleteros de facciones cargado (150).
+[02:22:12] » Sistema de teléfonos públicos cargado (30).
+[02:22:12] » Sistema de semillas cargado (0).
+[02:22:12] » Sistema de concesionarias cargado (87).
+[02:22:12] » Sistema de vehículos usados cargado (0).
+[02:22:12] » Sistema de empresas cargado (2).
+[02:22:12] » Sistema de vehículos cargado (13).
+[02:22:14] » Sistema de organizaciones cargado.
+[02:22:14] » Sistema de parqueos/peajes cargado (9).
+[02:22:14] » Objetos unicos cargado (1).
+[02:22:14]  
+[02:22:14] SERVIDOR INICIADO CON ÉXITO.
+[02:22:14]  Consola optimizada 
+[02:22:14] ===================================================================
+[02:22:14] 		JUEGO DE ROL
+[02:22:14] ===================================================================
+[02:22:14]  
+[02:22:14]  
+[02:22:14] Number of vehicle models: 60
+[02:23:12] [connection] 127.0.0.1:58410 requests connection cookie.
+[02:23:13] [connection] incoming connection: 127.0.0.1:58410 id: 0
+[02:23:14] [join] Citoh has joined the server (0:127.0.0.1)
+[02:23:25] [connection] 90.174.4.93:56546 requests connection cookie.
+[02:23:26] [connection] incoming connection: 90.174.4.93:56546 id: 1
+[02:23:26] [join] Lester has joined the server (1:90.174.4.93)
+[02:23:59] [cmd] [Skender Osterberg]: /ah
+[02:24:17] [cmd] [Skender Osterberg]: /dobleexp
+[02:25:19] [part] Lester has left the server (1:2)
+[02:25:57] [connection] 90.174.4.93:59251 requests connection cookie.
+[02:25:58] [connection] incoming connection: 90.174.4.93:59251 id: 1
+[02:25:58] [join] Lester has joined the server (1:90.174.4.93)
+[02:26:18] [cmd] [Skender Osterberg]: /casaint1
+[02:26:23] [cmd] [Skender Osterberg]: /mark
+[02:26:23] [cmd] [Skender Osterberg]: /pos
+[02:26:24] [cmd] [Skender Osterberg]: /marcar
+[02:26:27] [cmd] [Skender Osterberg]: /ah
+[02:26:32] [cmd] [Skender Osterberg]: /jailtipo400
+[02:26:34] [cmd] [Skender Osterberg]: /Ah
+[02:26:45] [cmd] [Skender Osterberg]: /vercuenta
+[02:26:48] [cmd] [Skender Osterberg]: /staffon
+[02:26:50] [cmd] [Skender Osterberg]: /vercuenta 0
+[02:26:56] [cmd] [Skender Osterberg]: /darprol
+[02:26:57] [cmd] [Skender Osterberg]: /Ah
+[02:27:01] [cmd] [Skender Osterberg]: /darpuntorol
+[02:27:04] [cmd] [Skender Osterberg]: /darpuntorol 0 Test
+[02:27:08] [cmd] [Besnik Osterberg]: /duda ya
+[02:27:09] [cmd] [Skender Osterberg]: /ir 1
+[02:27:39] [cmd] [Skender Osterberg]: /daradmin
+[02:27:42] [cmd] [Skender Osterberg]: /daradmin 1 3
+[02:27:45] [cmd] [Skender Osterberg]: /A hablame por /a
+[02:27:48] [cmd] [Besnik Osterberg]: /a hola
+[02:27:51] [cmd] [Skender Osterberg]: /A lol vaya failazo tengo aqui
+[02:27:52] [cmd] [Skender Osterberg]: /A JJAJAJAJAJ
+[02:28:15] [cmd] [Skender Osterberg]: /darliderfac 1 1
+[02:28:15] [cmd] [Besnik Osterberg]: /ayuda
+[02:28:18] [cmd] [Skender Osterberg]: /darliderfac 0 1
+[02:28:23] [cmd] [Skender Osterberg]: /f hablamos por /f mejor
+[02:28:25] [cmd] [Skender Osterberg]: /f hasta que arregle eso
+[02:28:27] [cmd] [Besnik Osterberg]: /f loco
+[02:28:29] [cmd] [Skender Osterberg]: /F /ah 
+[02:28:33] [cmd] [Besnik Osterberg]: /ah
+[02:28:40] [cmd] [Besnik Osterberg]: /ao
+[02:28:48] [cmd] [Besnik Osterberg]: /ah
+[02:29:07] [cmd] [Skender Osterberg]: /ao a
+[02:29:12] [cmd] [Besnik Osterberg]: /banear
+[02:29:15] [cmd] [Skender Osterberg]: /Ah
+[02:29:24] [cmd] [Skender Osterberg]: /darmascara
+[02:29:25] [cmd] [Skender Osterberg]: /ah
+[02:29:25] [cmd] [Besnik Osterberg]: /f solo esos comandos hay?
+[02:29:35] [cmd] [Skender Osterberg]: /daradmin 1 4
+[02:29:35] [cmd] [Besnik Osterberg]: /ir
+[02:29:42] [cmd] [Besnik Osterberg]: /ah
+[02:29:42] [cmd] [Skender Osterberg]: /f qva, contra mas cargo mas cmds jjasjdjasd
+[02:29:47] [cmd] [Skender Osterberg]: /admins
+[02:29:52] [cmd] [Skender Osterberg]: /A habla por /a ahora a ver
+[02:29:55] [cmd] [Besnik Osterberg]: /a a
+[02:30:10] [cmd] [Skender Osterberg]: /A sisi, tranqui ahora me pongo con esto
+[02:30:25] [cmd] [Besnik Osterberg]: /ah
+[02:30:37] [cmd] [Besnik Osterberg]: /aoa
+[02:30:40] [cmd] [Besnik Osterberg]: /ah
+[02:30:51] [cmd] [Besnik Osterberg]: /ir 0
+[02:30:56] [cmd] [Besnik Osterberg]: /spec
+[02:30:59] [cmd] [Besnik Osterberg]: /staffon
+[02:31:01] [cmd] [Besnik Osterberg]: /spec
+[02:31:03] [cmd] [Besnik Osterberg]: /spec 0
+[02:31:17] [cmd] [Besnik Osterberg]: /stats
+[02:31:21] [cmd] [Besnik Osterberg]: /ah
+[02:31:31] [cmd] [Besnik Osterberg]: /darpdr
+[02:31:33] [cmd] [Besnik Osterberg]: /dar
+[02:31:36] [cmd] [Besnik Osterberg]: /dar pdr
+[02:31:42] [cmd] [Besnik Osterberg]: /crearobjeto
+[02:31:44] [cmd] [Besnik Osterberg]: /spet
+[02:31:45] [cmd] [Besnik Osterberg]: /spect
+[02:31:55] [cmd] [Besnik Osterberg]: /f como dejo de espectarte
+[02:31:59] [cmd] [Besnik Osterberg]: /ah
+[02:32:08] [cmd] [Besnik Osterberg]: /adminsobjetos
+[02:32:15] [cmd] [Besnik Osterberg]: /adminsbjetos
+[02:32:18] [cmd] [Besnik Osterberg]: /ah
+[02:32:26] [cmd] [Besnik Osterberg]: /qres
+[02:32:29] [cmd] [Besnik Osterberg]: /ayuda
+[02:32:33] [cmd] [Besnik Osterberg]: /pdr
+[02:32:36] [cmd] [Besnik Osterberg]: /ah
+[02:33:04] [cmd] [Besnik Osterberg]: /kick
+[02:33:09] [cmd] [Besnik Osterberg]: /kick 0 AFK
+[02:33:12] [cmd] [Besnik Osterberg]: /kick 0 AFK
+[02:33:15] [cmd] [Besnik Osterberg]: /ah
+[02:33:24] [cmd] [Besnik Osterberg]: /staffoff
+[02:33:27] [cmd] [Besnik Osterberg]: /staff
+[02:33:29] [cmd] [Besnik Osterberg]: /ah
+[02:33:35] [cmd] [Besnik Osterberg]: /dudas
+[02:33:38] [cmd] [Besnik Osterberg]: /aduda
+[02:33:42] [cmd] [Besnik Osterberg]: /aduda 1 sI
+[02:33:51] [cmd] [Besnik Osterberg]: /rduda 1 sI
+[02:33:54] [cmd] [Besnik Osterberg]: /auida
+[02:33:57] [cmd] [Besnik Osterberg]: /ah
+[02:34:01] [cmd] [Besnik Osterberg]: /duda buenas
+[02:34:04] [cmd] [Besnik Osterberg]: /ah
+[02:34:08] [cmd] [Besnik Osterberg]: /aduda
+[02:34:11] [cmd] [Besnik Osterberg]: /aduda 1
+[02:34:18] [cmd] [Besnik Osterberg]: /rduda buenas
+[02:34:22] [cmd] [Besnik Osterberg]: /rduda 1 buenas
+[02:34:25] [cmd] [Besnik Osterberg]: /reportar
+[02:34:29] [cmd] [Besnik Osterberg]: /reportar 0 hack
+[02:34:34] [cmd] [Besnik Osterberg]: /jail
+[02:34:43] [cmd] [Besnik Osterberg]: /jail 0 5 novato
+[02:34:51] [cmd] [Besnik Osterberg]: /ir
+[02:34:52] [cmd] [Besnik Osterberg]: /ir 0
+[02:35:22] [cmd] [Besnik Osterberg]: /ah
+[02:35:32] [cmd] [Besnik Osterberg]: /fixveh
+[02:35:35] [cmd] [Besnik Osterberg]: /ah
+[02:35:46] [cmd] [Besnik Osterberg]: /racall
+[02:35:47] [cmd] [Besnik Osterberg]: /racall
+[02:35:49] [cmd] [Besnik Osterberg]: /ah
+[02:36:01] [cmd] [Besnik Osterberg]: /ircordenada
+[02:36:04] [cmd] [Besnik Osterberg]: /ircordenada 2 4 3
+[02:36:40] [cmd] [Skender Osterberg]: /liberar
+[02:36:41] [cmd] [Skender Osterberg]: /liberar 0
+[02:36:44] [cmd] [Skender Osterberg]: /A jasdjasd
+[02:36:45] [cmd] [Skender Osterberg]: /f jasjdasjd
+[02:37:00] [cmd] [Skender Osterberg]: /A reinicio
+[02:37:19] [cmd] [Skender Osterberg]: /A bnueno aun no espera
+[02:37:29] [cmd] [Besnik Osterberg]: /f oye
+[02:37:31] [cmd] [Skender Osterberg]: /spec
+[02:37:33] [cmd] [Besnik Osterberg]: /f como dejo de espectar loco
+[02:37:41] [cmd] [Skender Osterberg]: /F /spec off
+[02:37:44] [cmd] [Skender Osterberg]: /fpsec
+[02:37:45] [cmd] [Skender Osterberg]: /spec 1
+[02:37:47] [cmd] [Skender Osterberg]: /spec off
+[02:37:51] [cmd] [Besnik Osterberg]: /spec off
+[02:37:57] [cmd] [Skender Osterberg]: /ir 1
+[02:37:58] [cmd] [Besnik Osterberg]: /ir 0
+[02:38:05] [cmd] [Besnik Osterberg]: /ah
+[02:38:08] [cmd] [Besnik Osterberg]: /jetpack
+[02:38:17] [cmd] [Besnik Osterberg]: /jetpack
+[02:38:23] [cmd] [Besnik Osterberg]: /ah
+[02:38:29] [cmd] [Besnik Osterberg]: /togpecho
+[02:38:31] [cmd] [Besnik Osterberg]: /ah
+[02:38:36] [cmd] [Besnik Osterberg]: /respawncar
+[02:38:42] [cmd] [Besnik Osterberg]: /ah
+[02:38:51] [cmd] [Besnik Osterberg]: /cpantalla
+[02:38:52] [cmd] [Skender Osterberg]: /f cual quieres
+[02:39:00] [cmd] [Besnik Osterberg]: /f cual sea
+[02:39:06] [cmd] [Besnik Osterberg]: /f quiero saber comando
+[02:39:07] [cmd] [Besnik Osterberg]: /ah
+[02:39:14] [cmd] [Besnik Osterberg]: /crearincendio
+[02:39:17] [cmd] [Skender Osterberg]: /ah
+[02:39:18] [cmd] [Besnik Osterberg]: /crearincendio 1 1
+[02:39:26] [cmd] [Skender Osterberg]: /f no puedes dartelo el coche
+[02:39:27] [cmd] [Skender Osterberg]: /ah
+[02:39:31] [cmd] [Skender Osterberg]: /crearauto
+[02:39:32] [cmd] [Besnik Osterberg]: /f por
+[02:39:38] [cmd] [Skender Osterberg]: /crearauto 1 562 6 6 1
+[02:39:43] [cmd] [Besnik Osterberg]: /fmotor
+[02:39:46] [cmd] [Besnik Osterberg]: /ayuda
+[02:39:49] [cmd] [Skender Osterberg]: /guardarcuentas
+[02:39:50] [cmd] [Skender Osterberg]: /guardarcuenta
+[02:39:57] [cmd] [Besnik Osterberg]: /maletero
+[02:39:59] [cmd] [Besnik Osterberg]: /fmotor
+[02:40:02] [cmd] [Besnik Osterberg]: /motor
+[02:40:05] [cmd] [Besnik Osterberg]: /motor
+[02:40:10] [cmd] [Skender Osterberg]: /f /pon /guardarcuenta , que reinicio el sv
+[02:40:18] [cmd] [Besnik Osterberg]: /guardarcuenta
+[02:40:25] [cmd] [Skender Osterberg]: /f oki, son 5 segundos contados
+[02:40:26] [part] Citoh has left the server (0:1)
+Console input: gmx
+[02:40:32] [junkbuster] Resetting player classes.
+Console input: a
+Console input: gmx
+[02:40:38] [debug] Server crashed due to an unknown error
+[02:40:38] [debug] Native backtrace:
+[02:40:38] [debug] #0 00401694 in ?? () from samp-server.exe
+[02:40:38] [debug] #1 0046d98e in ?? () from samp-server.exe
+[02:40:38] [debug] #2 00465f96 in ?? () from samp-server.exe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:40:49] 
+[02:40:49] Server Plugins
+[02:40:49] --------------
+[02:40:49]  Loading plugin: crashdetect
+[02:40:49]   CrashDetect v4.15.1 is OK.
+[02:40:49]   Loaded.
+[02:40:49]  Loading plugin: sscanf
+[02:40:49] 
+
+[02:40:49]  ===============================
+
+[02:40:49]       sscanf plugin loaded.     
+
+[02:40:49]          Version:  2.8.1        
+
+[02:40:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:40:49]  ===============================
+
+[02:40:49]   Loaded.
+[02:40:49]  Loading plugin: streamer
+[02:40:49] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[02:40:49]   Loaded.
+[02:40:49]  Loaded 3 plugins.
+
+[02:40:49] 
+[02:40:49] Filterscripts
+[02:40:49] ---------------
+[02:40:49]   Loading filterscript 'Botones.amx'...
+[02:40:49]   Loading filterscript 'JunkBuster.amx'...
+[02:40:49] Cargando JunkBuster...
+[02:40:49]  
+[02:40:49] Configuración del JunkBuster: 
+[02:40:49] (Jetpack = 1)
+[02:40:49] (BadWords = 1)
+[02:40:49] (CarJackHack = 1)
+[02:40:49] (Blacklist = 1)
+[02:40:49] (IpBans = 1)
+[02:40:49] (TempBans = 1)
+[02:40:49] (Airbrake = 150)
+[02:40:49] (AntiBugKill = 1)
+[02:40:49] (VehicleTeleport = 1)
+[02:40:49] (MaxTotalWarnings = 2000)
+[02:40:49] (TooManyWarningsAction = 1)
+[02:40:49] (AirbrakeDetection = 1)
+[02:40:49]  
+[02:40:49] [junkbuster] 0 IP-bans have been loaded.
+[02:40:49] [junkbuster] 0 temporary bans have been loaded.
+[02:40:49] [junkbuster] 0 whitelist entries have been loaded.
+[02:40:49] [junkbuster] 0 blacklist entries have been loaded.
+[02:40:49] [junkbuster] 0 bad words have been loaded.
+[02:40:49] [junkbuster] 4 forbidden weapons have been loaded.
+[02:40:49] [junkbuster] JunkBuster has been configurated.
+[02:40:49]  
+[02:40:49] » JunkBuster (v11) su carga fue exitosa.
+[02:40:49]  
+[02:40:49]   Loading filterscript 'text2.amx'...
+[02:40:49]   Unable to load filterscript 'text2.amx'.
+[02:40:49]   Loaded 2 filterscripts.
+
+[02:40:49] weburl = "www.roleplay.net"  (string)
+[02:40:49] » Sistema de graffitis cargado (0).
+[02:40:49] » Sistema de objetos dinámicos cargado (1).
+[02:40:49] » Sistema de puertas dinamicas cargado (49).
+[02:40:49] » Sistema de status del servidor cargado.
+[02:40:50] » Sistema de casas cargado (125).
+[02:40:50] » Sistema de garajes cargado (0).
+[02:40:50] » Sistema de negocios cargado (60).
+[02:40:50] » Sistema de gasolineras cargado (10).
+[02:40:50] » Incendios cargados.
+[02:40:50] » Sistema de maleteros de facciones cargado (150).
+[02:40:50] » Sistema de teléfonos públicos cargado (30).
+[02:40:50] » Sistema de semillas cargado (0).
+[02:40:50] » Sistema de concesionarias cargado (87).
+[02:40:50] » Sistema de vehículos usados cargado (0).
+[02:40:50] » Sistema de empresas cargado (2).
+[02:40:50] » Sistema de vehículos cargado (14).
+[02:40:52] » Sistema de organizaciones cargado.
+[02:40:52] » Sistema de parqueos/peajes cargado (9).
+[02:40:52] » Objetos unicos cargado (1).
+[02:40:52]  
+[02:40:52] SERVIDOR INICIADO CON ÉXITO.
+[02:40:52]  Consola optimizada 
+[02:40:52] ===================================================================
+[02:40:52] 		JUEGO DE ROL
+[02:40:52] ===================================================================
+[02:40:52]  
+[02:40:52]  
+[02:40:52] Number of vehicle models: 60
+[02:41:13] [connection] 90.174.4.93:11914 requests connection cookie.
+[02:41:14] [connection] incoming connection: 90.174.4.93:11914 id: 0
+[02:41:15] [join] Lester has joined the server (0:90.174.4.93)
+[02:41:17] [connection] 127.0.0.1:54697 requests connection cookie.
+[02:41:18] [connection] incoming connection: 127.0.0.1:54697 id: 1
+[02:41:18] [join] Citoh has joined the server (1:127.0.0.1)
+[02:41:34] [cmd] [Skender Osterberg]: /A a
+[02:41:47] [cmd] [Besnik Osterberg]: /a a
+[02:41:50] [cmd] [Besnik Osterberg]: /f como saco mi coche
+[02:41:54] [cmd] [Skender Osterberg]: /F /coches
+[02:41:56] [cmd] [Skender Osterberg]: /coches
+[02:41:56] [cmd] [Besnik Osterberg]: /coches
+[02:42:03] [cmd] [Besnik Osterberg]: /fixveh
+[02:42:06] [cmd] [Besnik Osterberg]: /motor
+[02:42:20] [cmd] [Besnik Osterberg]: /f subeme de nivel
+[02:42:33] [cmd] [Skender Osterberg]: /darstat
+[02:42:39] [cmd] [Skender Osterberg]: /f ya
+[02:42:44] [cmd] [Skender Osterberg]: /A2 a
+[02:42:46] [cmd] [Skender Osterberg]: /A a
+[02:42:53] [cmd] [Besnik Osterberg]: /a a
+[02:42:59] [cmd] [Besnik Osterberg]: /f y como traeremos gente
+[02:43:02] [cmd] [Skender Osterberg]: /f pues, cuando se entre al sv y se vea algo decente
+[02:43:49] [cmd] [Skender Osterberg]: /invitar
+[02:43:58] [cmd] [Skender Osterberg]: /ayudafamilia
+[02:44:03] [cmd] [Skender Osterberg]: /fdarrango 0 5
+[02:44:07] [cmd] [Skender Osterberg]: /editarfam
+[02:44:13] [cmd] [Besnik Osterberg]: /fam ye
+[02:44:18] [cmd] [Skender Osterberg]: /fam ahora
+[02:44:20] [cmd] [Skender Osterberg]: /f oki
+[02:44:27] [cmd] [Besnik Osterberg]: /f el /f es ic?
+[02:44:35] [cmd] [Skender Osterberg]: /r /r seria IC
+[02:44:47] [cmd] [Skender Osterberg]: /dardinero 0 70000
+[02:44:49] [cmd] [Besnik Osterberg]: /pedido armas
+[02:45:45] [cmd] [Skender Osterberg]: /stats
+[02:46:45] [cmd] [Besnik Osterberg]: /maletero
+[02:46:48] [cmd] [Besnik Osterberg]: /ayuda
+[02:47:00] [cmd] [Skender Osterberg]: /ir 0
+[02:47:00] [cmd] [Besnik Osterberg]: /ir 1
+[02:47:07] [cmd] [Skender Osterberg]: /vercuenta 0
+[02:47:09] [cmd] [Skender Osterberg]: /staffon
+[02:47:10] [cmd] [Skender Osterberg]: /vercuenta 0
+[02:47:16] [cmd] [Besnik Osterberg]: /vercuenta
+[02:47:19] [cmd] [Besnik Osterberg]: /staffon
+[02:47:28] [cmd] [Besnik Osterberg]: /ah
+[02:47:31] [cmd] [Skender Osterberg]: /Ah
+[02:47:37] [cmd] [Besnik Osterberg]: /traercar
+[02:47:40] [cmd] [Besnik Osterberg]: /coches
+[02:47:47] [cmd] [Besnik Osterberg]: /traercar 256
+[02:48:05] [cmd] [Skender Osterberg]: /fixveh
+[02:48:06] [cmd] [Skender Osterberg]: /fixveh 256
+[02:48:07] [cmd] [Besnik Osterberg]: /fixveh
+[02:48:23] [cmd] [Skender Osterberg]: /f Y solo te da 1 caja, y nose si hacer que el aviso le salga a los admins y nosotros le damos lo que falta
+[02:48:28] [cmd] [Skender Osterberg]: /f Y solo te da 1 caja, y nose si hacer que el aviso le salga a los admins y nosotros
+[02:48:30] [cmd] [Besnik Osterberg]: /tirar
+[02:48:36] [cmd] [Besnik Osterberg]: /cogerunidad
+[02:48:40] [cmd] [Besnik Osterberg]: /tomar
+[02:48:43] [cmd] [Skender Osterberg]: /f se la damos, o le salga a las mafias sbs y se las vendan ellos (este comando de /pedido es para pandillas)
+[02:48:49] [cmd] [Besnik Osterberg]: /cogerunidad
+[02:48:51] [cmd] [Besnik Osterberg]: /ayuda
+[02:48:53] [cmd] [Skender Osterberg]: /f se la damos, o le salga a las mafias sbs y se las vendan ellos (/pedido es para pandillas)
+[02:48:55] [cmd] [Skender Osterberg]: /f /caja
+[02:48:56] [cmd] [Skender Osterberg]: /f /caja sacar
+[02:48:57] [cmd] [Skender Osterberg]: /caja
+[02:48:58] [cmd] [Besnik Osterberg]: /caja
+[02:48:59] [cmd] [Besnik Osterberg]: /caja sacar
+[02:49:00] [cmd] [Skender Osterberg]: /caja meter
+[02:49:06] [cmd] [Skender Osterberg]: /caja sacar
+[02:49:06] [cmd] [Besnik Osterberg]: /recogerobjeto
+[02:49:08] [cmd] [Besnik Osterberg]: /caja sacar
+[02:49:10] [cmd] [Besnik Osterberg]: /mano
+[02:49:17] [cmd] [Skender Osterberg]: /darstat
+[02:49:24] [cmd] [Skender Osterberg]: /darstat 0 4 4
+[02:49:30] [cmd] [Besnik Osterberg]: /pedidoarmas
+[02:49:33] [cmd] [Besnik Osterberg]: /pedido
+[02:49:37] [cmd] [Besnik Osterberg]: /pedido armas
+[02:49:58] [cmd] [Skender Osterberg]: /crearobjeto
+[02:50:05] [cmd] [Skender Osterberg]: /crearobjeto 0 54 4
+[02:50:10] [cmd] [Skender Osterberg]: /crearobjeto
+[02:50:22] [cmd] [Besnik Osterberg]: /staff
+[02:50:23] [cmd] [Skender Osterberg]: /crearobjeto 54 4
+[02:50:25] [cmd] [Skender Osterberg]: /ir 1
+[02:50:29] [cmd] [Skender Osterberg]: /ir 4
+[02:50:30] [cmd] [Skender Osterberg]: /staff
+[02:50:34] [cmd] [Skender Osterberg]: /ceder 0
+[02:50:37] [cmd] [Besnik Osterberg]: /caja sacar
+[02:50:39] [cmd] [Besnik Osterberg]: /mano
+[02:51:15] [cmd] [Skender Osterberg]: /f en lsrp el trafico es asi mira
+[02:51:21] [cmd] [Skender Osterberg]: /f El lider de la faccion pone /traficoarmas
+[02:51:33] [cmd] [Skender Osterberg]: /f Y ahi selecciona el pedido, puede pedir solo 5 cajas
+[02:51:45] [cmd] [Skender Osterberg]: /f y entonces le llega un barco el sabado
+[02:51:54] [cmd] [Skender Osterberg]: /f recoge las cajas y prou
+[02:51:59] [cmd] [Skender Osterberg]: /f pero nosotros tenemos la fabrica
+[02:52:01] [cmd] [Besnik Osterberg]: /f y cuanto valen
+[02:52:16] [cmd] [Skender Osterberg]: /f y la fabrica he pensado que sea para las mafias
+[02:52:20] [cmd] [Skender Osterberg]: /f y el /pedido para pandillas
+[02:52:24] [cmd] [Besnik Osterberg]: /ir 1
+[02:52:28] [cmd] [Skender Osterberg]: /f porque una pandilla no tendria una fabrica sabes
+[02:52:48] [cmd] [Skender Osterberg]: /f no leiste el mensaje verdad
+[02:52:50] [cmd] [Skender Osterberg]: /f jasjdasjd
+[02:52:54] [cmd] [Skender Osterberg]: /crearobjeto
+[02:52:57] [cmd] [Skender Osterberg]: /crearobjeto 66 4
+[02:52:59] [cmd] [Skender Osterberg]: /tirar
+[02:53:08] [cmd] [Skender Osterberg]: /tirari
+[02:53:50] [cmd] [Besnik Osterberg]: /tirar
+[02:53:52] [cmd] [Besnik Osterberg]: /caja sacar
+[02:53:58] [cmd] [Skender Osterberg]: /recogerobjet
+[02:53:59] [cmd] [Skender Osterberg]: /recogerobjet
+[02:54:00] [cmd] [Skender Osterberg]: /recogerobjeto
+[02:54:03] [cmd] [Skender Osterberg]: /tirar
+[02:54:06] [cmd] [Skender Osterberg]: /recogerobjeto
+[02:54:12] [cmd] [Skender Osterberg]: /mano
+[02:54:17] [cmd] [Skender Osterberg]: /recogerobjeto
+[02:54:20] [cmd] [Skender Osterberg]: /caja sacar
+[02:54:22] [cmd] [Skender Osterberg]: /tirar
+[02:54:24] [cmd] [Skender Osterberg]: /mano
+[02:54:25] [cmd] [Skender Osterberg]: /tirar
+[02:54:31] [cmd] [Skender Osterberg]: /recogerunidad
+[02:54:34] [cmd] [Skender Osterberg]: /recogerunidad
+[02:54:37] [cmd] [Skender Osterberg]: /recogerobjeto
+[02:54:40] [cmd] [Skender Osterberg]: /sacar 0
+[02:54:41] [cmd] [Skender Osterberg]: /sacar
+[02:54:45] [cmd] [Skender Osterberg]: /caja sacar
+[02:54:53] [cmd] [Besnik Osterberg]: /guardar
+[02:54:55] [cmd] [Besnik Osterberg]: /bol
+[02:54:59] [cmd] [Skender Osterberg]: /tirar
+[02:55:01] [cmd] [Skender Osterberg]: /guardar
+[02:55:04] [cmd] [Skender Osterberg]: /recogerobjeto
+[02:55:06] [cmd] [Skender Osterberg]: /cargar
+[02:55:09] [cmd] [Skender Osterberg]: /recargar
+[02:55:10] [cmd] [Skender Osterberg]: /bol
+[02:55:13] [cmd] [Skender Osterberg]: /cargar
+[02:55:55] [cmd] [Skender Osterberg]: /limpiar
+[02:55:56] [cmd] [Skender Osterberg]: /limpiartodo
+[02:56:01] [cmd] [Skender Osterberg]: /ah
+[02:56:43] [cmd] [Besnik Osterberg]: /ah
+[02:56:50] [cmd] [Besnik Osterberg]: /jailcuenta400
+[02:56:53] [cmd] [Besnik Osterberg]: /jailcuenta
+[02:56:56] [cmd] [Besnik Osterberg]: /jailcuenta 1 4000
+[02:56:59] [cmd] [Besnik Osterberg]: /jailcuenta 1 400
+[02:57:53] [cmd] [Besnik Osterberg]: /bol
+[02:58:05] [cmd] [Skender Osterberg]: /jailcuenta
+[03:00:48] [cmd] [Besnik Osterberg]: /ah
+[03:00:53] [cmd] [Besnik Osterberg]: /jailtipo400
+[03:00:55] [cmd] [Besnik Osterberg]: /jailtipo
+[03:01:09] [cmd] [Besnik Osterberg]: /jailtipo 1 3 40 puto
+[03:01:11] [cmd] [Besnik Osterberg]: /ir 1
+[03:01:19] [cmd] [Skender Osterberg]: /liberar
+[03:01:21] [cmd] [Skender Osterberg]: /liberar 1
+[03:02:03] [cmd] [Besnik Osterberg]: /ah
+[03:02:10] [cmd] [Besnik Osterberg]: /ir 1
+[03:02:16] [cmd] [Besnik Osterberg]: /pedido arma
+[03:02:17] [cmd] [Besnik Osterberg]: /pedido armas
+[03:02:23] [cmd] [Skender Osterberg]: /crearobjeto
+[03:02:29] [cmd] [Besnik Osterberg]: /bol
+[03:02:33] [cmd] [Besnik Osterberg]: /mano
+[03:02:35] [cmd] [Besnik Osterberg]: /ceder 1
+[03:02:57] [cmd] [Skender Osterberg]: /tirar
+[03:02:59] [cmd] [Skender Osterberg]: /tirar
+[03:03:00] [cmd] [Skender Osterberg]: /mano
+[03:03:01] [cmd] [Skender Osterberg]: /tirar
+[03:03:05] [cmd] [Skender Osterberg]: /reiniciarpedidosxp
+[03:03:08] [cmd] [Skender Osterberg]: /pedido
+[03:03:09] [cmd] [Skender Osterberg]: /pedido armas
+[03:03:19] [cmd] [Skender Osterberg]: /A pon /reiniciarpedidosxp
+[03:03:29] [cmd] [Skender Osterberg]: /f y ya puedes /pedido armas otra vez
+[03:03:35] [cmd] [Skender Osterberg]: /f dime cuantas uzis te vienen en la caja que te da
+[03:03:38] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:03:38] [cmd] [Skender Osterberg]: /f porfa
+[03:03:39] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:03:48] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:03:52] [cmd] [Besnik Osterberg]: /pedido arma
+[03:03:53] [cmd] [Besnik Osterberg]: /pedido armas
+[03:03:56] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:04:02] [cmd] [Besnik Osterberg]: /reiniciar
+[03:04:08] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:04:20] [cmd] [Skender Osterberg]: /pedido
+[03:04:22] [cmd] [Skender Osterberg]: /pedido armas
+[03:04:28] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:04:31] [cmd] [Besnik Osterberg]: /pedido armas
+[03:04:34] [cmd] [Besnik Osterberg]: /traer
+[03:04:35] [cmd] [Besnik Osterberg]: /traer 1
+[03:04:45] [cmd] [Besnik Osterberg]: /coches
+[03:04:52] [cmd] [Besnik Osterberg]: /miscoches
+[03:04:53] [cmd] [Skender Osterberg]: /pedido armas
+[03:04:55] [cmd] [Besnik Osterberg]: /ah
+[03:04:59] [cmd] [Besnik Osterberg]: /traercar 256
+[03:05:20] [cmd] [Skender Osterberg]: /f ahh
+[03:05:23] [cmd] [Skender Osterberg]: /daradmin 0 1338
+[03:05:25] [cmd] [Besnik Osterberg]: /ah
+[03:05:28] [cmd] [Skender Osterberg]: /edinson
+[03:05:31] [cmd] [Skender Osterberg]: /A pon /edinson
+[03:05:33] [cmd] [Besnik Osterberg]: /limpiartodo
+[03:05:36] [cmd] [Skender Osterberg]: /A y luego eso
+[03:05:36] [cmd] [Besnik Osterberg]: /limpiartodooff
+[03:05:38] [cmd] [Besnik Osterberg]: /limpiartodooff 1
+[03:05:41] [cmd] [Besnik Osterberg]: /limpiartodo
+[03:05:42] [cmd] [Skender Osterberg]: /limpiartodo
+[03:05:43] [cmd] [Besnik Osterberg]: /limpiartodo 1
+[03:05:47] [cmd] [Skender Osterberg]: /stats
+[03:05:51] [cmd] [Besnik Osterberg]: /edinson
+[03:05:51] [cmd] [Skender Osterberg]: /bol
+[03:05:56] [cmd] [Skender Osterberg]: /staff
+[03:05:58] [cmd] [Skender Osterberg]: /ah
+[03:06:01] [cmd] [Skender Osterberg]: /admins
+[03:06:02] [cmd] [Skender Osterberg]: /ir 0
+[03:06:03] [cmd] [Besnik Osterberg]: /pedido armas
+[03:06:19] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:06:23] [cmd] [Skender Osterberg]: /daradmin 0 5
+[03:06:23] [cmd] [Besnik Osterberg]: /pedidos arma
+[03:06:24] [cmd] [Besnik Osterberg]: /pedidos armas
+[03:06:27] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:06:29] [cmd] [Skender Osterberg]: /pedido
+[03:06:31] [cmd] [Besnik Osterberg]: /pedidos armas
+[03:06:35] [cmd] [Besnik Osterberg]: /pedido armas
+[03:06:57] [cmd] [Skender Osterberg]: /pedido armas
+[03:07:00] [cmd] [Skender Osterberg]: /dardinero
+[03:07:02] [cmd] [Skender Osterberg]: /dardinero 0 70000
+[03:07:44] [cmd] [Skender Osterberg]: /pedido armas
+[03:07:49] [cmd] [Besnik Osterberg]: /fixveh
+[03:08:25] [cmd] [Skender Osterberg]: /Ah
+[03:08:35] [cmd] [Skender Osterberg]: /listaobjetos
+[03:08:41] [cmd] [Skender Osterberg]: /crearobjeto
+[03:09:03] [cmd] [Skender Osterberg]: /crearobjeto
+[03:09:21] [cmd] [Besnik Osterberg]: /motor
+[03:09:26] [cmd] [Skender Osterberg]: /caja sacar
+[03:09:30] [cmd] [Skender Osterberg]: /mano
+[03:09:31] [cmd] [Skender Osterberg]: /ceder 0
+[03:09:35] [cmd] [Besnik Osterberg]: /edinson
+[03:09:36] [cmd] [Skender Osterberg]: /darstat
+[03:09:38] [cmd] [Skender Osterberg]: /darstat 0 4 10
+[03:09:40] [cmd] [Skender Osterberg]: /ceder 0
+[03:09:42] [cmd] [Besnik Osterberg]: /reiniciarpedidosxp
+[03:09:44] [cmd] [Skender Osterberg]: /mano
+[03:09:45] [cmd] [Skender Osterberg]: /tirar 0
+[03:09:49] [cmd] [Skender Osterberg]: /recogerobjeto
+[03:09:50] [cmd] [Skender Osterberg]: /bol
+[03:09:54] [cmd] [Besnik Osterberg]: /pedido armas
+[03:09:57] [cmd] [Skender Osterberg]: /a lol viene con 20 uzis
+[03:09:57] [cmd] [Besnik Osterberg]: /pedido drogas
+[03:20:24] [cmd] [Besnik Osterberg]: /pedido camion
+[03:23:32] [cmd] [Skender Osterberg]: /reiniciarservidor
+[03:23:42] [cmd] [Besnik Osterberg]: /ah
+[03:23:48] [cmd] [Besnik Osterberg]: /diadepaga
+[03:23:48] [cmd] [Skender Osterberg]: /reiniciarservidorr
+[03:23:48] [junkbuster] Resetting player classes.
+[03:24:00] weburl = "www.roleplay.net"  (string)
+[03:24:00] » Sistema de graffitis cargado (0).
+[03:24:00] » Sistema de objetos dinámicos cargado (1).
+[03:24:00] » Sistema de puertas dinamicas cargado (49).
+[03:24:00] » Sistema de status del servidor cargado.
+[03:24:00] » Sistema de casas cargado (125).
+[03:24:00] » Sistema de garajes cargado (0).
+[03:24:00] » Sistema de negocios cargado (60).
+[03:24:00] » Sistema de gasolineras cargado (10).
+[03:24:00] » Incendios cargados.
+[03:24:00] » Sistema de maleteros de facciones cargado (150).
+[03:24:00] » Sistema de teléfonos públicos cargado (30).
+[03:24:00] » Sistema de semillas cargado (0).
+[03:24:00] » Sistema de concesionarias cargado (87).
+[03:24:00] » Sistema de vehículos usados cargado (0).
+[03:24:00] » Sistema de empresas cargado (2).
+[03:24:00] » Sistema de vehículos cargado (14).
+[03:24:03] » Sistema de organizaciones cargado.
+[03:24:03] » Sistema de parqueos/peajes cargado (9).
+[03:24:03] » Objetos unicos cargado (1).
+[03:24:03]  
+[03:24:03] SERVIDOR INICIADO CON ÉXITO.
+[03:24:03]  Consola optimizada 
+[03:24:03] ===================================================================
+[03:24:03] 		JUEGO DE ROL
+[03:24:03] ===================================================================
+[03:24:03]  
+[03:24:03]  
+[03:24:03] Number of vehicle models: 60
+[03:24:21] [part] Citoh has left the server (1:0)
+[03:24:23] [part] Lester has left the server (0:0)
+[03:24:34] [connection] 127.0.0.1:59446 requests connection cookie.
+[03:24:35] [connection] incoming connection: 127.0.0.1:59446 id: 0
+[03:24:35] [join] Citoh has joined the server (0:127.0.0.1)
+[03:24:52] [cmd] [Skender Osterberg]: /tirar
+[03:24:55] [cmd] [Skender Osterberg]: /reiniciarpedidoscp
+[03:24:56] [cmd] [Skender Osterberg]: /reiniciarpedidosxp
+[03:24:58] [connection] 90.174.4.93:9544 requests connection cookie.
+[03:24:59] [connection] incoming connection: 90.174.4.93:9544 id: 1
+[03:25:00] [join] Lester has joined the server (1:90.174.4.93)
+[03:25:03] [cmd] [Skender Osterberg]: /pedidos
+[03:25:05] [cmd] [Skender Osterberg]: /pedido
+[03:25:33] [cmd] [Besnik Osterberg]: /ah
+[03:25:37] [cmd] [Besnik Osterberg]: /diadepaga
+[03:25:40] [cmd] [Besnik Osterberg]: /dia
+[03:25:46] [cmd] [Besnik Osterberg]: /diadepaga
+[03:25:47] [cmd] [Besnik Osterberg]: /ah
+[03:25:56] [cmd] [Besnik Osterberg]: /darpremium
+[03:26:19] [cmd] [Besnik Osterberg]: /ayuda
+[03:26:26] [cmd] [Besnik Osterberg]: /ol
+[03:26:28] [cmd] [Besnik Osterberg]: /p
+[03:27:09] [cmd] [Besnik Osterberg]: /ah
+[03:27:14] [cmd] [Besnik Osterberg]: /darpremium
+[03:27:27] [cmd] [Skender Osterberg]: /A a
+[03:27:29] [cmd] [Besnik Osterberg]: /a a
+[03:27:50] [cmd] [Besnik Osterberg]: /ah
+[03:27:54] [cmd] [Besnik Osterberg]: /darstats
+[03:27:56] [cmd] [Besnik Osterberg]: /darstat
+[03:28:16] [cmd] [Besnik Osterberg]: /a y todos los niveles
+[03:28:46] [cmd] [Besnik Osterberg]: /darstat 1 1 5
+[03:29:30] [cmd] [Besnik Osterberg]: /llamar
+[03:29:42] [cmd] [Besnik Osterberg]: /traercar 256
+[03:29:48] [cmd] [Besnik Osterberg]: /coches
+[03:29:54] [cmd] [Besnik Osterberg]: /traercar 256
+[03:30:03] [cmd] [Besnik Osterberg]: /motor
+[03:30:13] [cmd] [Skender Osterberg]: /staff
+[03:30:14] [cmd] [Skender Osterberg]: /admins
+[03:30:17] [cmd] [Skender Osterberg]: /daradmin 1 5
+[03:30:19] [cmd] [Besnik Osterberg]: /skin+
+[03:30:21] [cmd] [Skender Osterberg]: /A ves probando cosas
+[03:30:23] [cmd] [Besnik Osterberg]: /ah
+[03:30:27] [cmd] [Besnik Osterberg]: /darskin
+[03:31:02] [cmd] [Besnik Osterberg]: /ah
+[03:31:11] [cmd] [Besnik Osterberg]: /a eh
+[03:31:15] [cmd] [Besnik Osterberg]: /admins
+[03:31:30] [cmd] [Besnik Osterberg]: /ah
+[03:31:37] [cmd] [Besnik Osterberg]: /vercoche
+[03:31:45] [cmd] [Besnik Osterberg]: /ah
+[03:31:58] [cmd] [Besnik Osterberg]: /adminevento
+[03:32:05] [cmd] [Besnik Osterberg]: /lugarevento
+[03:32:14] [cmd] [Besnik Osterberg]: /iniciarevento
+[03:32:21] [cmd] [Besnik Osterberg]: /cerrarevento
+[03:32:25] [cmd] [Besnik Osterberg]: /anunciar evento
+[03:32:28] [cmd] [Besnik Osterberg]: /abairevento
+[03:32:32] [cmd] [Besnik Osterberg]: /abrirevento
+[03:32:37] [cmd] [Besnik Osterberg]: /tipoevento 
+[03:32:49] [cmd] [Besnik Osterberg]: /editarevento
+[03:33:01] sscanf warning: No default value found.
+[03:33:01] sscanf warning: Unknown format specifier '[', skipping.
+[03:33:01] sscanf warning: Unknown format specifier '2', skipping.
+[03:33:01] sscanf warning: Unknown format specifier '5', skipping.
+[03:33:01] sscanf warning: Unknown format specifier '6', skipping.
+[03:33:01] sscanf warning: Unknown format specifier ']', skipping.
+[03:33:01] sscanf warning: Format specifier does not match parameter count.
+[03:33:06] sscanf warning: No default value found.
+[03:33:06] sscanf warning: Unknown format specifier '[', skipping.
+[03:33:06] sscanf warning: Unknown format specifier '2', skipping.
+[03:33:06] sscanf warning: Unknown format specifier '5', skipping.
+[03:33:06] sscanf warning: Unknown format specifier '6', skipping.
+[03:33:06] sscanf warning: Unknown format specifier ']', skipping.
+[03:33:06] sscanf warning: Format specifier does not match parameter count.
+[03:33:12] sscanf warning: No default value found.
+[03:33:16] [cmd] [Besnik Osterberg]: /a dime
+[03:33:21] [cmd] [Besnik Osterberg]: /ah
+[03:33:29] [cmd] [Besnik Osterberg]: /abrirevento
+[03:33:33] [cmd] [Besnik Osterberg]: /anunciar
+[03:33:37] [cmd] [Besnik Osterberg]: /abrirevento
+[03:33:45] [cmd] [Besnik Osterberg]: /editarevento vida
+[03:33:45] sscanf warning: No default value found.
+[03:33:45] sscanf warning: Unknown format specifier '[', skipping.
+[03:33:45] sscanf warning: Unknown format specifier '2', skipping.
+[03:33:45] sscanf warning: Unknown format specifier '5', skipping.
+[03:33:45] sscanf warning: Unknown format specifier '6', skipping.
+[03:33:45] sscanf warning: Unknown format specifier ']', skipping.
+[03:33:45] sscanf warning: Format specifier does not match parameter count.
+[03:33:47] sscanf warning: No default value found.
+[03:33:51] [cmd] [Besnik Osterberg]: /abrirevento
+[03:33:55] [cmd] [Besnik Osterberg]: /anunciar b uenas
+[03:34:06] [cmd] [Besnik Osterberg]: /cerrarevento
+[03:34:19] [cmd] [Besnik Osterberg]: /iniciarevento
+[03:34:23] [cmd] [Besnik Osterberg]: /evento
+[03:34:27] [cmd] [Besnik Osterberg]: /guardar
+[03:34:31] [cmd] [Besnik Osterberg]: /evento
+[03:34:41] [cmd] [Besnik Osterberg]: /borrarevento
+[03:34:48] [cmd] [Besnik Osterberg]: /stats
+[03:34:55] [cmd] [Besnik Osterberg]: /a loco la as liado
+[03:35:34] [cmd] [Besnik Osterberg]: /diadepaga
+[03:35:36] [cmd] [Besnik Osterberg]: /ah
+[03:35:50] [cmd] [Besnik Osterberg]: /dobleexp
+[03:35:59] [cmd] [Besnik Osterberg]: /a activamos eso los primeros dias
+[03:36:36] [cmd] [Besnik Osterberg]: /fixveh
+[03:36:46] [cmd] [Besnik Osterberg]: /traercar 256
+[03:36:59] [cmd] [Besnik Osterberg]: /fixveh
+[03:37:03] [cmd] [Besnik Osterberg]: /motor
+[03:37:05] [cmd] [Besnik Osterberg]: /fixveh
+[03:37:12] [cmd] [Besnik Osterberg]: /ash
+[03:37:13] [cmd] [Besnik Osterberg]: /ah
+[03:37:16] [cmd] [Besnik Osterberg]: /staffon
+[03:37:18] [cmd] [Besnik Osterberg]: /ah
+[03:37:25] [cmd] [Besnik Osterberg]: /registro
+[03:37:27] [cmd] [Besnik Osterberg]: /ah
+[03:37:32] [cmd] [Besnik Osterberg]: /padelantar
+[03:37:39] [cmd] [Besnik Osterberg]: /f loco
+[03:37:41] [cmd] [Besnik Osterberg]: /a loco
+[03:37:46] [cmd] [Besnik Osterberg]: /staff
+[03:38:03] [cmd] [Besnik Osterberg]: /traercar
+[03:38:05] [cmd] [Besnik Osterberg]: /traercar 256
+[03:38:25] [cmd] [Besnik Osterberg]: /staff
+[03:38:28] [cmd] [Besnik Osterberg]: /traercar 256
+[03:38:48] [cmd] [Besnik Osterberg]: /ayuda
+[03:39:02] [cmd] [Besnik Osterberg]: /ayuda
+[03:39:28] [cmd] [Skender Osterberg]: /familias
+[03:39:49] [cmd] [Skender Osterberg]: /ah
+[03:40:06] [cmd] [Besnik Osterberg]: /ah
+[03:40:07] [cmd] [Skender Osterberg]: /darstat
+[03:40:14] [cmd] [Besnik Osterberg]: /dobleexp
+[03:40:17] [cmd] [Besnik Osterberg]: /dobleexp
+[03:40:25] [cmd] [Skender Osterberg]: /vcuenta 1
+[03:40:28] [cmd] [Skender Osterberg]: /vercuenta 1
+[03:40:30] [cmd] [Skender Osterberg]: /Staffon
+[03:40:31] [cmd] [Skender Osterberg]: /vercuenta 1
+[03:40:48] [cmd] [Skender Osterberg]: /lugares
+[03:40:49] [cmd] [Besnik Osterberg]: /lugares
+[03:40:50] [cmd] [Skender Osterberg]: /lugares
+[03:41:04] [cmd] [Besnik Osterberg]: /lugares
+[03:41:30] [cmd] [Besnik Osterberg]: /fixveh
+[03:41:35] [cmd] [Besnik Osterberg]: /fixveh
+[03:41:58] [cmd] [Besnik Osterberg]: /admins
+[03:42:04] [cmd] [Besnik Osterberg]: /ah
+[03:42:10] [cmd] [Besnik Osterberg]: /fixveh
+[03:42:47] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:42:48] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:42:50] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:42:52] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:42:54] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:42:58] [cmd] [Besnik Osterberg]: /ayuntamiento
+[03:43:12] [cmd] [Besnik Osterberg]: /lugares
+[03:43:55] [cmd] [Besnik Osterberg]: /duda como doy pdr
+[03:44:03] [cmd] [Besnik Osterberg]: /comprar
+[03:44:06] [cmd] [Besnik Osterberg]: /comprar
+[03:44:14] [cmd] [Besnik Osterberg]: /comprar
+[03:44:18] [cmd] [Besnik Osterberg]: /comprar
+[03:44:22] [cmd] [Besnik Osterberg]: /comprar
+[03:44:25] [cmd] [Besnik Osterberg]: /comprar
+[03:44:28] [cmd] [Besnik Osterberg]: /guardar
+[03:44:29] [cmd] [Besnik Osterberg]: /comprar
+[03:44:33] [cmd] [Besnik Osterberg]: /guardar
+[03:44:34] [cmd] [Besnik Osterberg]: /comprar
+[03:44:49] [cmd] [Besnik Osterberg]: /lugares
+[03:45:10] [cmd] [Besnik Osterberg]: /a 85 por viaje en camiinoero?
+[03:45:22] [cmd] [Skender Osterberg]: /crearincendio
+[03:45:49] [cmd] [Skender Osterberg]: /a es lo que te decia, mira la economia que tiene gc y ha triunfado
+[03:46:03] [cmd] [Skender Osterberg]: /A osea todo lo que sea dinero tendre que acabar cambiandolo xk no me gusta la economia
+[03:46:25] [cmd] [Besnik Osterberg]: /trabajar
+[03:46:27] [cmd] [Besnik Osterberg]: /ayuda
+[03:46:36] [cmd] [Besnik Osterberg]: /camionero
+[03:46:41] [cmd] [Besnik Osterberg]: /camionero
+[03:46:55] [cmd] [Besnik Osterberg]: /a si porque para que alguien farmee 70k ganando 85 por viaje
+[03:46:58] [cmd] [Besnik Osterberg]: /motor
+[03:48:09] [cmd] [Besnik Osterberg]: /a y si le subes la paga a unos 400?
+[03:48:15] [cmd] [Besnik Osterberg]: /a o 900 como en lsrp
+[03:48:32] [cmd] [Besnik Osterberg]: /a me pago 100
+[03:48:39] [cmd] [Skender Osterberg]: /A se la pondre en unos 800 o asi
+[03:48:40] [cmd] [Besnik Osterberg]: /habilidad
+[03:48:44] [cmd] [Skender Osterberg]: /a te he dicho q he empezado ho
+[03:48:45] [cmd] [Skender Osterberg]: /a hoy
+[03:48:51] [cmd] [Skender Osterberg]: /a tengo que cambiar todo aun, relaja las nalgas
+[03:48:56] [cmd] [Besnik Osterberg]: /a joder son las 4 am
+[03:49:01] [cmd] [Besnik Osterberg]: /ah
+[03:49:06] [cmd] [Besnik Osterberg]: /editarv
+[03:49:09] [cmd] [Besnik Osterberg]: /ah
+[03:49:14] [cmd] [Skender Osterberg]: /A oye
+[03:49:18] [cmd] [Skender Osterberg]: /A que has hecho con el incendio antes
+[03:49:20] [cmd] [Skender Osterberg]: /verincendios
+[03:49:23] [cmd] [Skender Osterberg]: /hacerlider
+[03:49:25] [cmd] [Besnik Osterberg]: /a ni idea
+[03:49:27] [cmd] [Skender Osterberg]: /darliderfac 0 5
+[03:49:29] [cmd] [Besnik Osterberg]: /a donde estara
+[03:49:30] [cmd] [Skender Osterberg]: /verincendios
+[03:49:31] [cmd] [Besnik Osterberg]: /ir 0
+[03:49:35] [cmd] [Skender Osterberg]: /irpuerat
+[03:49:37] [cmd] [Skender Osterberg]: /irp
+[03:49:38] [cmd] [Skender Osterberg]: /irpuerta
+[03:49:39] [cmd] [Skender Osterberg]: /irpuerta 1
+[03:49:40] [cmd] [Besnik Osterberg]: /me tira gsings
+[03:49:42] [cmd] [Besnik Osterberg]: /ir 0
+[03:49:45] [cmd] [Skender Osterberg]: /verinfencios
+[03:49:47] [cmd] [Besnik Osterberg]: /traer
+[03:49:49] [cmd] [Besnik Osterberg]: /traer 0
+[03:49:53] [cmd] [Skender Osterberg]: /irnegocio
+[03:49:53] [cmd] [Besnik Osterberg]: /traer  1
+[03:49:54] [cmd] [Skender Osterberg]: /irnegocio 1
+[03:49:58] [cmd] [Besnik Osterberg]: /ir 0
+[03:50:00] [cmd] [Skender Osterberg]: /a este negocio has quemado
+[03:50:04] [cmd] [Skender Osterberg]: /verincendios
+[03:50:07] [cmd] [Skender Osterberg]: /ah
+[03:50:09] [cmd] [Skender Osterberg]: /Ayuda
+[03:50:23] [cmd] [Skender Osterberg]: /apagarincendio
+[03:50:28] [cmd] [Skender Osterberg]: /verinecndios
+[03:50:30] [cmd] [Besnik Osterberg]: /ah
+[03:50:31] [cmd] [Skender Osterberg]: /verincendios
+[03:50:37] [cmd] [Besnik Osterberg]: /activarfondos
+[03:50:43] [cmd] [Besnik Osterberg]: /ayuda
+[03:50:46] [cmd] [Skender Osterberg]: /vercuenta 1
+[03:50:50] [cmd] [Besnik Osterberg]: /vercuenta
+[03:50:52] [cmd] [Besnik Osterberg]: /vercuenta 1
+[03:50:56] [cmd] [Skender Osterberg]: /dardinero 1 126020
+[03:51:04] [cmd] [Besnik Osterberg]: /comprar
+[03:51:10] [cmd] [Besnik Osterberg]: /comprarnegocio
+[03:51:19] [cmd] [Skender Osterberg]: /retirar
+[03:51:24] [cmd] [Skender Osterberg]: /depositar 20000
+[03:51:24] [cmd] [Besnik Osterberg]: /depositar 69000
+[03:51:28] [cmd] [Besnik Osterberg]: /ayuda
+[03:51:43] [cmd] [Besnik Osterberg]: /comprar
+[03:52:04] [cmd] [Besnik Osterberg]: /negocio
+[03:52:24] [cmd] [Skender Osterberg]: /irempresa
+[03:52:39] [cmd] [Besnik Osterberg]: /negocio
+[03:52:44] [cmd] [Skender Osterberg]: /A y avisame
+[03:52:46] [cmd] [Skender Osterberg]: /irempresa 1
+[03:52:48] [cmd] [Besnik Osterberg]: /a ya lo hice
+[03:52:52] [cmd] [Besnik Osterberg]: /negocio
+[03:52:53] [cmd] [Skender Osterberg]: /traer 1
+[03:52:55] [cmd] [Skender Osterberg]: /venderempresa
+[03:52:56] [cmd] [Skender Osterberg]: /venderempresa
+[03:53:04] [cmd] [Skender Osterberg]: /cheque
+[03:53:09] [cmd] [Skender Osterberg]: /A compra la empresa
+[03:53:13] [cmd] [Besnik Osterberg]: /comprarnegocio
+[03:53:18] [cmd] [Skender Osterberg]: /dardinero 1 100000
+[03:53:30] [cmd] [Skender Osterberg]: /vercuenta
+[03:53:36] [cmd] [Besnik Osterberg]: /ayuda
+[03:53:37] [cmd] [Skender Osterberg]: /comprarempresa
+[03:53:44] [cmd] [Skender Osterberg]: /repartos
+[03:53:47] [cmd] [Skender Osterberg]: /repartos
+[03:53:55] [cmd] [Skender Osterberg]: /motor
+[03:54:43] [cmd] [Skender Osterberg]: /ventana
+[03:54:45] [cmd] [Besnik Osterberg]: /pedido armas
+[03:54:48] [cmd] [Besnik Osterberg]: /pedido drogas
+[03:54:59] [cmd] [Skender Osterberg]: /lugares
+[03:55:54] [cmd] [Besnik Osterberg]: /ir 1
+[03:55:55] [cmd] [Besnik Osterberg]: /ir 1
+[03:55:57] [cmd] [Besnik Osterberg]: /ir 0
+[03:56:02] [cmd] [Besnik Osterberg]: /ir 0
+[03:56:23] [cmd] [Besnik Osterberg]: /mp
+[03:56:25] [cmd] [Besnik Osterberg]: /mp 0 e
+[03:56:30] [cmd] [Skender Osterberg]: /ls
+[03:57:28] [cmd] [Skender Osterberg]: /meracncia
+[03:57:30] [cmd] [Skender Osterberg]: /mercancia
+[03:57:33] [cmd] [Skender Osterberg]: /mercancia
+[03:57:36] [cmd] [Skender Osterberg]: /mercancia
+[03:57:56] [cmd] [Skender Osterberg]: /traer 1
+[03:58:14] [cmd] [Besnik Osterberg]: /negocio
+[03:58:15] [cmd] [Skender Osterberg]: /ayuda
+[03:58:20] [cmd] [Skender Osterberg]: /ayuda
+[03:58:30] [cmd] [Besnik Osterberg]: /negocio
+[03:58:33] [cmd] [Skender Osterberg]: /ecoches
+[03:58:36] [cmd] [Besnik Osterberg]: /negocio
+[03:58:38] [cmd] [Skender Osterberg]: /infoempresa
+[03:58:53] [cmd] [Besnik Osterberg]: /a tenia 13k
+[03:58:57] [cmd] [Besnik Osterberg]: /a compra algo
+[03:59:06] [cmd] [Skender Osterberg]: /comprar
+[03:59:15] [cmd] [Skender Osterberg]: /comprar
+[03:59:20] [cmd] [Skender Osterberg]: /comprar
+[03:59:24] [cmd] [Besnik Osterberg]: /comprar
+[03:59:27] [cmd] [Skender Osterberg]: /telefono
+[03:59:32] [cmd] [Besnik Osterberg]: /negocio
+[03:59:35] [cmd] [Skender Osterberg]: /telefono
+[03:59:42] [cmd] [Skender Osterberg]: /comprar
+[03:59:44] [cmd] [Besnik Osterberg]: /negocio
+[03:59:58] [cmd] [Besnik Osterberg]: /negocio
+[04:00:00] [cmd] [Skender Osterberg]: /comprar
+[04:00:11] [cmd] [Besnik Osterberg]: /comprar
+[04:00:16] [cmd] [Skender Osterberg]: /llamar
+[04:00:18] [cmd] [Besnik Osterberg]: /negocio
+[04:00:19] [cmd] [Skender Osterberg]: /tirari
+[04:00:21] [cmd] [Skender Osterberg]: /tirar iz
+[04:00:23] [cmd] [Besnik Osterberg]: /stat
+[04:00:24] [cmd] [Skender Osterberg]: /tirar
+[04:00:24] [cmd] [Besnik Osterberg]: /stats
+[04:00:25] [cmd] [Skender Osterberg]: /tirari
+[04:00:26] [cmd] [Skender Osterberg]: /tirariz
+[04:00:27] [cmd] [Skender Osterberg]: /tirarizq
+[04:00:29] [cmd] [Skender Osterberg]: /mano
+[04:00:29] [cmd] [Skender Osterberg]: /tirar
+[04:00:32] [cmd] [Skender Osterberg]: /recogerobjeto
+[04:00:34] [cmd] [Skender Osterberg]: /llamar
+[04:00:35] [cmd] [Besnik Osterberg]: /guardar
+[04:00:37] [cmd] [Skender Osterberg]: /llamar 102420
+[04:00:38] [cmd] [Besnik Osterberg]: /bol
+[04:00:40] [cmd] [Besnik Osterberg]: /atender
+[04:00:42] [cmd] [Besnik Osterberg]: /bol
+[04:00:46] [cmd] [Besnik Osterberg]: /atender
+[04:01:09] [cmd] [Skender Osterberg]: /ayuda
+[04:01:56] [cmd] [Skender Osterberg]: /w
+[04:01:59] [cmd] [Skender Osterberg]: /w 1 a
+[04:02:02] [cmd] [Skender Osterberg]: /wsp
+[04:02:03] [cmd] [Skender Osterberg]: /wsp a
+[04:02:04] [cmd] [Besnik Osterberg]: /mp 0 e
+[04:02:10] [cmd] [Besnik Osterberg]: /wps
+[04:02:12] [cmd] [Besnik Osterberg]: /wsp
+[04:02:14] [cmd] [Besnik Osterberg]: /wsp e
+[04:02:51] [cmd] [Besnik Osterberg]: /traercar
+[04:02:53] [cmd] [Besnik Osterberg]: /traercar 256
+[04:02:59] [cmd] [Besnik Osterberg]: /fixveh
+[04:03:03] [cmd] [Skender Osterberg]: /colgar
+[04:03:06] [cmd] [Skender Osterberg]: /A tio no encuentro
+[04:03:11] [cmd] [Skender Osterberg]: /A lo de las horas para subir de nivel eh
+[04:03:18] [cmd] [Besnik Osterberg]: /a pues busca
+[04:03:26] [cmd] [Besnik Osterberg]: /a voy a los barrios aver que hay
+[04:05:26] [cmd] [Besnik Osterberg]: /comprar
+[04:06:13] [cmd] [Besnik Osterberg]: /a y pa comprar casas?
+[04:07:25] [cmd] [Besnik Osterberg]: /motor
+[04:07:27] [cmd] [Besnik Osterberg]: /llenar
+[04:07:28] [cmd] [Besnik Osterberg]: /llenar
+[04:07:29] [cmd] [Besnik Osterberg]: /ayuda
+[04:07:40] [cmd] [Besnik Osterberg]: /combustible
+[04:07:44] [cmd] [Besnik Osterberg]: /combustible
+[04:07:50] [cmd] [Besnik Osterberg]: /fixveh
+[04:07:55] [cmd] [Besnik Osterberg]: /ah
+[04:08:02] [cmd] [Besnik Osterberg]: /robobanco
+[04:08:06] [cmd] [Besnik Osterberg]: /motor
+[04:08:14] [cmd] [Besnik Osterberg]: /robobanco
+[04:08:29] [cmd] [Besnik Osterberg]: /ir 0
+[04:08:39] [cmd] [Besnik Osterberg]: /traercar 256
+[04:10:39] [cmd] [Skender Osterberg]: /A ah porcierto, hay adiccion a las drogas
+[04:10:42] [cmd] [Skender Osterberg]: /guardar
+[04:10:47] [cmd] [Besnik Osterberg]: /a las casas
+[04:10:47] [cmd] [Skender Osterberg]: /crearobjeto
+[04:10:50] [cmd] [Skender Osterberg]: /listaobjetos
+[04:10:53] [cmd] [Skender Osterberg]: /A /comprarcasa
+[04:10:53] [cmd] [Besnik Osterberg]: /a como se compran
+[04:10:59] [cmd] [Skender Osterberg]: /crearobjeto
+[04:11:01] [cmd] [Besnik Osterberg]: /a en cualquiera?
+[04:11:01] [cmd] [Skender Osterberg]: /listaobjetos
+[04:11:07] [cmd] [Skender Osterberg]: /A si esta puesta si
+[04:11:07] [cmd] [Besnik Osterberg]: /a no se puede ver ni nada ni el precio?
+[04:11:13] [cmd] [Skender Osterberg]: /A te sale en teoria
+[04:11:15] [cmd] [Skender Osterberg]: /ir 1
+[04:11:16] [cmd] [Besnik Osterberg]: /a pues en ninguna de ganton ni idelwood esta xd
+[04:11:19] [cmd] [Besnik Osterberg]: /banco
+[04:11:21] [cmd] [Besnik Osterberg]: /banco
+[04:11:22] [cmd] [Skender Osterberg]: /banco
+[04:11:26] [cmd] [Besnik Osterberg]: /guardar
+[04:11:27] [cmd] [Skender Osterberg]: /A ves para ahi y avisa
+[04:11:28] [cmd] [Besnik Osterberg]: /banco
+[04:11:30] [cmd] [Skender Osterberg]: /bol
+[04:11:32] [cmd] [Skender Osterberg]: /banco
+[04:11:33] [cmd] [Besnik Osterberg]: /guardar
+[04:11:37] [cmd] [Skender Osterberg]: /guardar
+[04:11:38] [cmd] [Besnik Osterberg]: /banco
+[04:11:47] [cmd] [Skender Osterberg]: /crearobjeto
+[04:11:49] [cmd] [Skender Osterberg]: /guardar
+[04:11:58] [cmd] [Skender Osterberg]: /listaobjetos
+[04:12:06] [cmd] [Skender Osterberg]: /crearobjeto 111 10
+[04:12:07] [cmd] [Besnik Osterberg]: /a el banco bie najjaaa
+[04:12:21] [cmd] [Skender Osterberg]: /caja
+[04:12:23] [cmd] [Skender Osterberg]: /caja sacar
+[04:12:25] [cmd] [Skender Osterberg]: /paquete
+[04:12:26] [cmd] [Skender Osterberg]: /paquete sacar
+[04:12:29] [cmd] [Skender Osterberg]: /bol
+[04:12:37] [cmd] [Skender Osterberg]: /mano
+[04:12:38] [cmd] [Skender Osterberg]: /usar
+[04:12:39] [cmd] [Skender Osterberg]: /usar droga
+[04:12:43] [cmd] [Skender Osterberg]: /consumir
+[04:12:44] [cmd] [Besnik Osterberg]: /a vente
+[04:12:48] [cmd] [Skender Osterberg]: /consumir cocaina
+[04:12:52] [cmd] [Skender Osterberg]: /consumir cocaina
+[04:12:53] [cmd] [Skender Osterberg]: /consumir cocaina
+[04:12:54] [cmd] [Skender Osterberg]: /ir 1
+[04:13:00] [cmd] [Besnik Osterberg]: /comprarcasa
+[04:13:01] [cmd] [Skender Osterberg]: /crearcasa
+[04:13:13] [cmd] [Skender Osterberg]: /crearcasa 2 1
+[04:13:27] [cmd] [Besnik Osterberg]: /visitar
+[04:13:32] [cmd] [Skender Osterberg]: /crearcasa 2 2
+[04:13:42] [cmd] [Besnik Osterberg]: /a tienes que poner punto una por una?
+[04:14:07] [cmd] [Besnik Osterberg]: /a oh no ahora salen
+[04:14:13] [cmd] [Besnik Osterberg]: /a no no salen
+[04:15:26] [cmd] [Skender Osterberg]: /A las casas que estan creadas salen
+[04:15:28] [cmd] [Skender Osterberg]: /A las que no, no jasdjasjd
+[04:16:33] [cmd] [Besnik Osterberg]: /a parece q ninguna
+[04:16:41] [cmd] [Skender Osterberg]: /usar
+[04:16:43] [cmd] [Skender Osterberg]: /usar droga
+[04:16:45] [cmd] [Skender Osterberg]: /usardroga
+[04:16:46] [cmd] [Skender Osterberg]: /consumir
+[04:16:48] [cmd] [Skender Osterberg]: /consumir cocaina
+[04:16:55] [cmd] [Skender Osterberg]: /consumir cocaina
+[04:17:27] [cmd] [Skender Osterberg]: /a hay solo 126 casas en todo el sv asi que imagina las que faltan
+[04:17:41] [cmd] [Besnik Osterberg]: /a dios
+[04:17:45] [cmd] [Besnik Osterberg]: /a oye puedes venir
+[04:17:58] [cmd] [Besnik Osterberg]: /a o no
+[04:18:03] [cmd] [Besnik Osterberg]: /a lls negocios que salen comprados
+[04:18:06] [cmd] [Besnik Osterberg]: /a porque es?
+[04:19:03] [cmd] [Skender Osterberg]: /a voy
+[04:19:04] [cmd] [Skender Osterberg]: /ir 1
+[04:19:07] [cmd] [Skender Osterberg]: /A cual
+[04:19:12] [cmd] [Skender Osterberg]: /borrarnegocio
+[04:19:19] [cmd] [Skender Osterberg]: /limpiarn
+[04:19:19] [cmd] [Besnik Osterberg]: /a y el de atras
+[04:19:20] [cmd] [Skender Osterberg]: /ah
+[04:19:29] [cmd] [Skender Osterberg]: /quitarllavesn
+[04:19:32] [cmd] [Skender Osterberg]: /vendernegocio
+[04:19:35] [cmd] [Skender Osterberg]: /avendernegocio
+[04:19:36] [cmd] [Skender Osterberg]: /ah
+[04:19:58] [cmd] [Skender Osterberg]: /limpiar
+[04:20:00] [cmd] [Skender Osterberg]: /limpiarnegocio
+[04:21:18] [cmd] [Skender Osterberg]: /quitarempresa
+[04:21:42] [cmd] [Skender Osterberg]: /editarn
+[04:21:50] [cmd] [Skender Osterberg]: /jail
+[04:21:51] [cmd] [Skender Osterberg]: /jail 1 1 1
+[04:21:58] [cmd] [Besnik Osterberg]: /a y el de atras
+[04:21:59] [cmd] [Besnik Osterberg]: /a y el de atras
+[04:22:01] [cmd] [Skender Osterberg]: /A espera espera
+[04:22:03] [cmd] [Skender Osterberg]: /vendernegocio
+[04:22:05] [cmd] [Besnik Osterberg]: /ir 0
+[04:22:06] [cmd] [Skender Osterberg]: /avender
+[04:22:08] [cmd] [Skender Osterberg]: /avendern
+[04:22:09] [cmd] [Skender Osterberg]: /avenderneg
+[04:22:17] [cmd] [Besnik Osterberg]: /ah
+[04:22:29] [cmd] [Besnik Osterberg]: /ir 0
+[04:23:15] [cmd] [Skender Osterberg]: /graffiti
+[04:24:22] [cmd] [Skender Osterberg]: /quitarnegociooff Shay_Maxson
+[04:24:29] [cmd] [Skender Osterberg]: /editarnegocio
+[04:24:33] [cmd] [Skender Osterberg]: /editarn
+[04:24:52] [cmd] [Besnik Osterberg]: /ah
+[04:25:15] [cmd] [Besnik Osterberg]: /cambiarhora
+[04:25:18] [cmd] [Besnik Osterberg]: /cambiarhora 
+[04:25:20] [cmd] [Besnik Osterberg]: /cambiarhora 15
+[04:25:29] [cmd] [Besnik Osterberg]: /cambiarhora 15:00
+[04:25:33] [cmd] [Besnik Osterberg]: /cambiarhora 12
+[04:26:24] [cmd] [Besnik Osterberg]: /goto
+[04:26:27] [cmd] [Besnik Osterberg]: /gotoplace
+[04:26:30] [cmd] [Besnik Osterberg]: /goto
+[04:26:31] [cmd] [Besnik Osterberg]: /go
+[04:26:37] [cmd] [Skender Osterberg]: /crearpuerta
+[04:26:38] [cmd] [Skender Osterberg]: /crearp
+[04:27:20] [cmd] [Besnik Osterberg]: /goa
+[04:27:25] [cmd] [Besnik Osterberg]: /a loco creo que me ire ya
+[04:27:29] [cmd] [Besnik Osterberg]: /ah
+[04:27:36] [cmd] [Besnik Osterberg]: /congelar
+[04:27:38] [cmd] [Besnik Osterberg]: /congelar 0
+[04:27:48] [cmd] [Besnik Osterberg]: /congelar 1
+[04:27:52] [cmd] [Besnik Osterberg]: /congelar 1
+[04:27:56] [cmd] [Besnik Osterberg]: /descongelar
+[04:27:58] [cmd] [Besnik Osterberg]: /descongelar 1
+[04:28:08] [cmd] [Besnik Osterberg]: /ah
+[04:28:21] [cmd] [Besnik Osterberg]: /activartest
+[04:28:25] [cmd] [Besnik Osterberg]: /activartest
+[04:28:28] [cmd] [Besnik Osterberg]: /activartest
+[04:28:30] [cmd] [Besnik Osterberg]: /activartest
+[04:28:36] [cmd] [Besnik Osterberg]: /activartesta
+[04:28:37] [cmd] [Besnik Osterberg]: /ah
+[04:28:54] [cmd] [Besnik Osterberg]: /regaloatodos
+[04:29:00] [cmd] [Besnik Osterberg]: /regaloatodos
+[04:29:00] [cmd] [Besnik Osterberg]: /regaloatodos
+[04:29:10] [cmd] [Besnik Osterberg]: /ah
+[04:29:24] [cmd] [Besnik Osterberg]: /darhabilidad
+[04:29:32] [cmd] [Besnik Osterberg]: /darhabilidad 1 0
+[04:29:35] [cmd] [Besnik Osterberg]: /darhabilidad 1 0
+[04:29:36] [cmd] [Besnik Osterberg]: /darhabilidad 1 0
+[04:29:38] [cmd] [Besnik Osterberg]: /darhabilidad 1 1
+[04:29:45] [cmd] [Besnik Osterberg]: /darhabilidad 1 2
+[04:29:53] [cmd] [Besnik Osterberg]: /habilidad
+[04:29:58] [cmd] [Skender Osterberg]: /avenegocio
+[04:30:01] [cmd] [Skender Osterberg]: /avenegocio 43
+[04:30:06] [cmd] [Skender Osterberg]: /A okii que negoio mas era
+[04:30:10] [cmd] [Skender Osterberg]: /editarn
+[04:30:21] [cmd] [Besnik Osterberg]: /ah
+[04:30:29] [cmd] [Skender Osterberg]: /editarn precio 43 200000
+[04:30:32] [cmd] [Besnik Osterberg]: /ultimaconexion
+[04:30:38] [cmd] [Besnik Osterberg]: /ultimaconexion Skender_Osterberg
+[04:30:42] [cmd] [Skender Osterberg]: /avenegocio 61
+[04:30:42] [cmd] [Besnik Osterberg]: /ah
+[04:30:47] [cmd] [Besnik Osterberg]: /kick
+[04:30:52] [cmd] [Besnik Osterberg]: /kick 0 puto
+[04:30:55] [cmd] [Besnik Osterberg]: /kick 0 puto
+[04:31:04] [cmd] [Besnik Osterberg]: /ah
+[04:31:10] [cmd] [Besnik Osterberg]: /ao
+[04:31:13] [cmd] [Besnik Osterberg]: /ao y
+[04:31:17] [cmd] [Besnik Osterberg]: /a e
+[04:31:20] [cmd] [Besnik Osterberg]: /ao ye
+[04:31:25] [cmd] [Skender Osterberg]: /menueventos
+[04:31:26] [cmd] [Besnik Osterberg]: /ao ye mi gente
+[04:31:28] [cmd] [Skender Osterberg]: /menueventos
+[04:31:31] [cmd] [Besnik Osterberg]: /ao manos arriba 
+[04:31:31] [cmd] [Skender Osterberg]: /adminevento
+[04:31:34] [cmd] [Skender Osterberg]: /lugarevento
+[04:31:35] [cmd] [Besnik Osterberg]: /acciones
+[04:31:37] [cmd] [Skender Osterberg]: /tipoevento
+[04:31:39] [cmd] [Skender Osterberg]: /tipoevento cocheb
+[04:31:41] [cmd] [Besnik Osterberg]: /fumando
+[04:31:42] [cmd] [Skender Osterberg]: /abrirevento
+[04:31:42] [cmd] [Besnik Osterberg]: /fumando 1
+[04:31:44] [cmd] [Besnik Osterberg]: /fumando 2
+[04:31:46] [cmd] [Besnik Osterberg]: /fumando 3
+[04:31:47] [cmd] [Skender Osterberg]: /editarevento
+[04:31:48] [cmd] [Besnik Osterberg]: /fumando3
+[04:31:51] [cmd] [Skender Osterberg]: /editarevento mensaje olaola
+[04:31:51] sscanf warning: No default value found.
+[04:31:58] [cmd] [Skender Osterberg]: /editarevento vida 100
+[04:31:58] sscanf warning: No default value found.
+[04:32:07] [cmd] [Besnik Osterberg]: /me le tira billetes de 100 a skender
+[04:32:08] [cmd] [Skender Osterberg]: /anunciar
+[04:32:12] [cmd] [Skender Osterberg]: /abrirevento
+[04:32:15] [cmd] [Skender Osterberg]: /anunciar
+[04:32:19] [cmd] [Besnik Osterberg]: /evento
+[04:32:21] [cmd] [Besnik Osterberg]: /guardar
+[04:32:24] [cmd] [Skender Osterberg]: /evento
+[04:32:25] [cmd] [Besnik Osterberg]: /evento
+[04:32:28] [cmd] [Skender Osterberg]: /tirar
+[04:32:31] [cmd] [Skender Osterberg]: /mano
+[04:32:32] [cmd] [Skender Osterberg]: /tirar
+[04:32:33] [cmd] [Skender Osterberg]: /evento
+[04:32:43] [cmd] [Skender Osterberg]: /adminevento
+[04:32:50] [cmd] [Skender Osterberg]: /cerrarevento
+[04:32:56] [cmd] [Skender Osterberg]: /iniciarevento
+[04:33:06] [cmd] [Skender Osterberg]: /iniciarevento
+[04:33:23] [cmd] [Skender Osterberg]: /cerrarevento
+[04:33:27] [cmd] [Skender Osterberg]: /borrarevento
+[04:33:41] [cmd] [Besnik Osterberg]: /ah
+[04:33:52] [cmd] [Besnik Osterberg]: /rellenarnegocios
+[04:33:55] [cmd] [Skender Osterberg]: /adminobjetos
+[04:33:58] [cmd] [Skender Osterberg]: /objetosadmin
+[04:34:01] [cmd] [Skender Osterberg]: /objetosadmin
+[04:34:05] [cmd] [Skender Osterberg]: /irobjetoadmin
+[04:34:05] [cmd] [Skender Osterberg]: /irobjetoadmin 1
+[04:34:06] [cmd] [Skender Osterberg]: /irobjetoadmin 0
+[04:34:14] [cmd] [Skender Osterberg]: /golpear 0
+[04:34:19] [cmd] [Besnik Osterberg]: /golpear
+[04:34:20] [cmd] [Skender Osterberg]: /crearobjetoadmin
+[04:34:21] [cmd] [Besnik Osterberg]: /golpear 1
+[04:34:25] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:27] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:27] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:28] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:28] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:29] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:29] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:29] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:30] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:32] [cmd] [Skender Osterberg]: /a joder loco
+[04:34:36] [cmd] [Besnik Osterberg]: /golpear 0
+[04:34:40] [cmd] [Besnik Osterberg]: /a gracias loco
+[04:34:41] [cmd] [Skender Osterberg]: /revivir 0
+[04:34:45] [cmd] [Besnik Osterberg]: /a te moriste
+[04:34:48] [cmd] [Skender Osterberg]: /A estaba haciendo eso joder
+[04:34:51] [cmd] [Skender Osterberg]: /irobjetoadmin
+[04:34:52] [cmd] [Skender Osterberg]: /irobjetoadmin 0
+[04:35:03] [cmd] [Skender Osterberg]: /A ahora por listo lo haces tu y que quede igual hijo de puta
+[04:35:04] [cmd] [Skender Osterberg]: /traer 0
+[04:35:04] [cmd] [Besnik Osterberg]: /a me sale a un lado que te mataste
+[04:35:06] [cmd] [Skender Osterberg]: /traer 1
+[04:35:12] [cmd] [Skender Osterberg]: /A pon el otro bache
+[04:35:14] [cmd] [Skender Osterberg]: /crearobjetoadmin
+[04:35:17] [cmd] [Skender Osterberg]: /A /crearobjetoadmin
+[04:35:22] [cmd] [Besnik Osterberg]: /crearobjetoadmin
+[04:35:32] [cmd] [Besnik Osterberg]: /admins
+[04:35:59] [cmd] [Besnik Osterberg]: /s esta rico
+[04:36:14] [cmd] [Skender Osterberg]: /crearobjetoadmin
+[04:36:57] [cmd] [Skender Osterberg]: /ah
+[04:37:05] [cmd] [Skender Osterberg]: /darencrol 1
+[04:37:07] [cmd] [Skender Osterberg]: /ah
+[04:37:14] [cmd] [Skender Osterberg]: /encban 1
+[04:37:18] [cmd] [Skender Osterberg]: /darencban 1
+[04:37:18] [cmd] [Skender Osterberg]: /ah
+[04:37:29] [cmd] [Skender Osterberg]: /facciones
+[04:37:40] [cmd] [Skender Osterberg]: /darliderfac 0 3
+[04:37:41] [cmd] [Skender Osterberg]: /darliderfac 0 4
+[04:37:42] [cmd] [Skender Osterberg]: /darliderfac 0 5
+[04:37:43] [cmd] [Skender Osterberg]: /darliderfac 0 6
+[04:37:44] [cmd] [Skender Osterberg]: /darliderfac 0 5
+[04:37:48] [cmd] [Skender Osterberg]: /darliderfac 0 4
+[04:37:49] [cmd] [Skender Osterberg]: /ayuda
+[04:37:54] [cmd] [Skender Osterberg]: /gob
+[04:37:55] [cmd] [Skender Osterberg]: /gob a
+[04:37:57] [cmd] [Skender Osterberg]: /ayuda
+[04:38:05] [cmd] [Skender Osterberg]: /servicio
+[04:38:07] [cmd] [Skender Osterberg]: /ayuda
+[04:38:10] [cmd] [Skender Osterberg]: /d a
+[04:38:13] [cmd] [Skender Osterberg]: /ayuda
+[04:38:19] [cmd] [Skender Osterberg]: /impuesto
+[04:38:21] [cmd] [Skender Osterberg]: /impuesto 5
+[04:38:34] [cmd] [Skender Osterberg]: /ayuda
+[04:39:01] [cmd] [Besnik Osterberg]: /admin
+[04:39:02] [cmd] [Besnik Osterberg]: /admins
+[04:42:25] [cmd] [Skender Osterberg]: /darliderfac
+[04:42:26] [cmd] [Skender Osterberg]: /darliderfac 0 1
+[04:42:27] [cmd] [Skender Osterberg]: /ayuda
+[04:42:31] [cmd] [Skender Osterberg]: /bp
+[04:42:34] [cmd] [Skender Osterberg]: /bp
+[04:42:36] [cmd] [Skender Osterberg]: /ah
+[04:42:40] [cmd] [Skender Osterberg]: /ayuda
+[04:42:48] [cmd] [Skender Osterberg]: /optiwand
+[04:42:52] [cmd] [Skender Osterberg]: /crearobjeto 119 1
+[04:42:54] [cmd] [Skender Osterberg]: /tirar
+[04:42:57] [cmd] [Skender Osterberg]: /listaobjetos
+[04:43:09] [cmd] [Skender Osterberg]: /crearobjeto 129 1
+[04:43:09] [cmd] [Besnik Osterberg]: /darskin
+[04:43:11] [cmd] [Besnik Osterberg]: /darskin 100
+[04:43:13] [cmd] [Skender Osterberg]: /miembros
+[04:43:15] [cmd] [Besnik Osterberg]: /darskin 1 100
+[04:43:15] [cmd] [Skender Osterberg]: /f ya tienes
+[04:43:24] [cmd] [Skender Osterberg]: /ayuda
+[04:43:25] [cmd] [Besnik Osterberg]: /f donde es la comisaria
+[04:43:32] [cmd] [Besnik Osterberg]: /traercaer 256
+[04:43:38] [cmd] [Besnik Osterberg]: /ah
+[04:43:45] [cmd] [Besnik Osterberg]: /traer
+[04:43:46] [cmd] [Besnik Osterberg]: /traercar
+[04:43:48] [cmd] [Besnik Osterberg]: /traercar 256
+[04:43:55] [cmd] [Besnik Osterberg]: /motor
+[04:43:57] [cmd] [Besnik Osterberg]: /lugares
+[04:43:59] [cmd] [Besnik Osterberg]: /lugares
+[04:44:02] [cmd] [Besnik Osterberg]: /lugares
+[04:44:11] [cmd] [Besnik Osterberg]: /lugares
+[04:44:17] [cmd] [Skender Osterberg]: /ircoord
+[04:44:18] [cmd] [Besnik Osterberg]: /eliminarcp
+[04:44:19] [cmd] [Skender Osterberg]: /ircord
+[04:44:20] [cmd] [Besnik Osterberg]: /lugares
+[04:44:20] [cmd] [Skender Osterberg]: /ircordenada
+[04:44:25] [cmd] [Skender Osterberg]: /ircordenada 2298.2527 2451.6582 2.9592
+[04:44:29] [cmd] [Besnik Osterberg]: /lugares
+[04:44:33] [cmd] [Besnik Osterberg]: /motor
+[04:44:50] [cmd] [Besnik Osterberg]: /motor
+[04:44:54] [cmd] [Skender Osterberg]: /salirpd
+[04:45:06] [cmd] [Skender Osterberg]: /irfaccino
+[04:45:07] [cmd] [Skender Osterberg]: /irfaccion
+[04:45:19] [cmd] [Skender Osterberg]: /A pd es aqui pero creo que hay otr
+[04:45:21] [cmd] [Skender Osterberg]: /A pd es aqui pero creo que hay otra
+[04:45:23] [cmd] [Skender Osterberg]: /apgarage
+[04:45:25] [cmd] [Skender Osterberg]: /cpgarage
+[04:45:27] [cmd] [Skender Osterberg]: /apgarage
+[04:45:28] [cmd] [Besnik Osterberg]: /ir 0
+[04:45:33] [cmd] [Besnik Osterberg]: /ir 0
+[04:45:41] [cmd] [Skender Osterberg]: /balas
+[04:45:52] [cmd] [Skender Osterberg]: /pagarmulta
+[04:45:57] [cmd] [Besnik Osterberg]: /a hay cosas sin mapear
+[04:46:03] [cmd] [Skender Osterberg]: /desarmar
+[04:46:05] [cmd] [Skender Osterberg]: /quitar
+[04:46:14] [cmd] [Skender Osterberg]: /ayuda
+[04:46:21] [cmd] [Skender Osterberg]: /palcohol
+[04:46:23] [cmd] [Skender Osterberg]: /duty
+[04:46:24] [cmd] [Skender Osterberg]: /palcohol
+[04:46:26] [cmd] [Skender Osterberg]: /palcohol 1
+[04:46:27] [cmd] [Besnik Osterberg]: /guardar
+[04:46:31] [cmd] [Besnik Osterberg]: /aceptar
+[04:46:34] [cmd] [Besnik Osterberg]: /ayuda
+[04:46:36] [cmd] [Skender Osterberg]: /man
+[04:46:37] [cmd] [Skender Osterberg]: /mano
+[04:46:39] [cmd] [Skender Osterberg]: /crearobjeto
+[04:46:41] [cmd] [Skender Osterberg]: /listaobjetos
+[04:46:47] [cmd] [Besnik Osterberg]: /cachear 0
+[04:46:58] [cmd] [Skender Osterberg]: /crearobjeto 104 1
+[04:47:03] [cmd] [Skender Osterberg]: /ceder 1
+[04:47:06] [cmd] [Besnik Osterberg]: /usar
+[04:47:11] [cmd] [Skender Osterberg]: /usar
+[04:47:13] [cmd] [Skender Osterberg]: /consumir
+[04:47:14] [cmd] [Skender Osterberg]: /beber
+[04:47:15] [cmd] [Besnik Osterberg]: /usar 1
+[04:47:22] [cmd] [Besnik Osterberg]: /beber
+[04:47:27] [cmd] [Besnik Osterberg]: /beber
+[04:47:29] [cmd] [Skender Osterberg]: /palcohol 1
+[04:47:32] [cmd] [Besnik Osterberg]: /aceptar
+[04:47:48] [cmd] [Skender Osterberg]: /crearobjeto 114 1
+[04:47:48] [cmd] [Besnik Osterberg]: /arrestar
+[04:47:50] [cmd] [Besnik Osterberg]: /esposar
+[04:47:53] [cmd] [Besnik Osterberg]: /duty
+[04:47:54] [cmd] [Skender Osterberg]: /tirar
+[04:47:56] [cmd] [Besnik Osterberg]: /esposar
+[04:47:57] [cmd] [Besnik Osterberg]: /esposar 1
+[04:47:58] [cmd] [Skender Osterberg]: /guardar
+[04:48:00] [cmd] [Besnik Osterberg]: /inv
+[04:48:02] [cmd] [Besnik Osterberg]: /equipar
+[04:48:04] [cmd] [Besnik Osterberg]: /equiparpd
+[04:48:06] [cmd] [Besnik Osterberg]: /ayuda
+[04:48:14] [cmd] [Besnik Osterberg]: /multar 0
+[04:48:19] [cmd] [Skender Osterberg]: /Ayuda
+[04:48:20] [cmd] [Besnik Osterberg]: /multar 0 10000 mucho dinero
+[04:48:25] [cmd] [Skender Osterberg]: /balasgoma
+[04:48:26] [cmd] [Besnik Osterberg]: /multar 0 10 mucho dinero
+[04:48:30] [cmd] [Skender Osterberg]: /aceptar
+[04:48:35] [cmd] [Skender Osterberg]: /abrir
+[04:48:36] [cmd] [Skender Osterberg]: /ap
+[04:48:45] [cmd] [Skender Osterberg]: /crearpuerta
+[04:48:48] [cmd] [Skender Osterberg]: /crearp
+[04:48:49] [cmd] [Besnik Osterberg]: /ayuda
+[04:48:51] [cmd] [Skender Osterberg]: /arrestar
+[04:48:57] [cmd] [Skender Osterberg]: /arrestar 1 200 1 0 0
+[04:48:58] [cmd] [Skender Osterberg]: /arrestar 1 200 1 0 1
+[04:48:58] [cmd] [Besnik Osterberg]: /miranda
+[04:49:02] [cmd] [Skender Osterberg]: /arrestar 1 200 1 0 1
+[04:49:04] [cmd] [Besnik Osterberg]: /ayuda
+[04:49:04] [cmd] [Skender Osterberg]: /arrestar 1 200 1 0 2
+[04:49:16] [cmd] [Besnik Osterberg]: /arrestar
+[04:49:19] [cmd] [Skender Osterberg]: /arrestar 1 20 1 0 0
+[04:49:20] [cmd] [Skender Osterberg]: /arrestar 1 20 1 0 1
+[04:49:21] [cmd] [Skender Osterberg]: /so
+[04:49:22] [cmd] [Skender Osterberg]: /ayuda
+[04:49:25] [cmd] [Besnik Osterberg]: /arrestar 0 0 5 0 0 
+[04:49:31] [cmd] [Besnik Osterberg]: /arrestar 0 1 5 0 0 
+[04:49:32] [cmd] [Skender Osterberg]: /mdc
+[04:49:33] [cmd] [Skender Osterberg]: /ah
+[04:49:34] [cmd] [Besnik Osterberg]: /ayuda
+[04:49:35] [cmd] [Skender Osterberg]: /ayuda
+[04:49:40] [cmd] [Besnik Osterberg]: /ram
+[04:49:43] [cmd] [Besnik Osterberg]: /ram 0 
+[04:49:45] [cmd] [Besnik Osterberg]: /arrestar 0 1 5 0 0 
+[04:49:48] [cmd] [Besnik Osterberg]: /ayuda
+[04:49:54] [cmd] [Besnik Osterberg]: /su
+[04:49:56] [cmd] [Besnik Osterberg]: /su 0 asesino
+[04:49:59] [cmd] [Skender Osterberg]: /su
+[04:50:02] [cmd] [Skender Osterberg]: /su 1 o
+[04:50:14] [cmd] [Skender Osterberg]: /ayuda
+[04:50:24] [cmd] [Skender Osterberg]: /antecedente
+[04:50:34] [cmd] [Skender Osterberg]: /nopd
+[04:50:35] [cmd] [Skender Osterberg]: /ayuda
+[04:50:42] [cmd] [Skender Osterberg]: /noref
+[04:50:44] [cmd] [Skender Osterberg]: /noref
+[04:50:49] [cmd] [Skender Osterberg]: /arrestar
+[04:50:53] [cmd] [Besnik Osterberg]: /ref
+[04:50:55] [cmd] [Skender Osterberg]: /ayuda
+[04:50:55] [cmd] [Besnik Osterberg]: /nore
+[04:50:56] [cmd] [Besnik Osterberg]: /noref
+[04:51:02] [cmd] [Skender Osterberg]: /darlicencia
+[04:51:03] [cmd] [Skender Osterberg]: /darlicencia 1
+[04:51:05] [cmd] [Skender Osterberg]: /ah
+[04:51:07] [cmd] [Skender Osterberg]: /ayuda
+[04:51:18] [cmd] [Skender Osterberg]: /destruir
+[04:51:19] [cmd] [Skender Osterberg]: /destruir 1
+[04:51:35] [cmd] [Skender Osterberg]: /gob ola
+[04:51:37] [cmd] [Skender Osterberg]: /gob ola
+[04:51:50] [cmd] [Skender Osterberg]: /borrar
+[04:51:58] [cmd] [Skender Osterberg]: /bol
+[04:52:02] [cmd] [Skender Osterberg]: /borrar
+[04:52:21] [cmd] [Skender Osterberg]: /mdc
+[04:52:22] [cmd] [Skender Osterberg]: /mdcc
+[04:52:23] [cmd] [Skender Osterberg]: /mdc
+[04:52:25] [cmd] [Skender Osterberg]: /equipo
+[04:52:33] [cmd] [Skender Osterberg]: /f has visto los casilleros?
+[04:52:36] [cmd] [Besnik Osterberg]: /a no xd
+[04:52:48] [cmd] [Besnik Osterberg]: /a ven aqui
+[04:52:50] [cmd] [Besnik Osterberg]: /mdc
+[04:52:52] [cmd] [Besnik Osterberg]: /mdc
+[04:52:56] [cmd] [Besnik Osterberg]: /a rapido
+[04:52:57] [cmd] [Skender Osterberg]: /ir 1
+[04:52:59] [cmd] [Skender Osterberg]: /ir 1
+[04:53:00] [cmd] [Skender Osterberg]: /ir 1
+[04:53:01] [cmd] [Skender Osterberg]: /ir 1
+[04:53:01] [cmd] [Skender Osterberg]: /ir 1
+[04:53:17] [cmd] [Skender Osterberg]: /f porque esta bug?
+[04:53:22] [cmd] [Besnik Osterberg]: /a mira discord
+[04:53:46] [cmd] [Skender Osterberg]: /tallerpd
+[04:53:56] [cmd] [Skender Osterberg]: /A LOL, hay pocos coches para la pd
+[04:54:16] [cmd] [Besnik Osterberg]: /ir 0
+[04:54:26] [cmd] [Besnik Osterberg]: /a dios
+[04:54:27] [cmd] [Skender Osterberg]: /Ayuda
+[04:54:29] [cmd] [Besnik Osterberg]: /a pocos dice
+[04:54:32] [cmd] [Besnik Osterberg]: /a si se me peta
+[04:54:41] [cmd] [Skender Osterberg]: /darmascara
+[04:54:43] [cmd] [Skender Osterberg]: /darmascara 0
+[04:54:45] [cmd] [Skender Osterberg]: /darmascara 0
+[04:54:46] [cmd] [Skender Osterberg]: /darmascara 1
+[04:54:48] [cmd] [Skender Osterberg]: /usar
+[04:54:53] [cmd] [Besnik Osterberg]: /motor
+[04:54:58] [cmd] [Besnik Osterberg]: /a wtf
+[04:55:01] [cmd] [Skender Osterberg]: /darmascara 0
+[04:55:02] [cmd] [Skender Osterberg]: /m ea
+[04:55:02] [cmd] [Besnik Osterberg]: /a dice que soy extraño
+[04:55:03] [cmd] [Skender Osterberg]: /me a
+[04:55:07] [cmd] [Skender Osterberg]: /a porque te he dado una mascara
+[04:55:10] [cmd] [Besnik Osterberg]: /a a
+[04:55:12] [cmd] [Skender Osterberg]: /A pero no sale en ningun lao osea wtf
+[04:55:14] [cmd] [Skender Osterberg]: /bol
+[04:55:17] [cmd] [Skender Osterberg]: /quitar
+[04:55:19] [cmd] [Skender Osterberg]: /quitar masara
+[04:55:24] [cmd] [Skender Osterberg]: /accesorios
+[04:55:29] [cmd] [Besnik Osterberg]: /a esta bug esta mierda
+[04:55:36] [cmd] [Skender Osterberg]: /A todo esta bug para ti lol, el que?
+[04:55:37] [cmd] [Skender Osterberg]: /ir 1
+[04:55:42] [cmd] [Besnik Osterberg]: /a jajajaj
+[04:55:52] [cmd] [Besnik Osterberg]: /a eso de la mascara
+[04:55:58] [cmd] [Skender Osterberg]: /A ahh 
+[04:56:03] [cmd] [Skender Osterberg]: /equipo
+[04:56:05] [cmd] [Skender Osterberg]: /equipo
+[04:56:06] [cmd] [Skender Osterberg]: /equipo
+[04:56:08] [cmd] [Besnik Osterberg]: /equipo
+[04:56:12] [cmd] [Besnik Osterberg]: /equipo
+[04:56:14] [cmd] [Besnik Osterberg]: /equipo
+[04:56:15] [cmd] [Skender Osterberg]: /equipo
+[04:56:20] [cmd] [Besnik Osterberg]: /equipo
+[04:56:26] [cmd] [Skender Osterberg]: /equipo
+[04:56:30] [cmd] [Besnik Osterberg]: /equipar
+[04:56:33] [cmd] [Besnik Osterberg]: /equipo
+[04:56:36] [cmd] [Skender Osterberg]: /optiwand
+[04:56:38] [cmd] [Skender Osterberg]: /bol
+[04:56:41] [cmd] [Skender Osterberg]: /espalda
+[04:56:45] [cmd] [Skender Osterberg]: /qespalda
+[04:56:48] [cmd] [Skender Osterberg]: /optiwand
+[04:56:49] [cmd] [Skender Osterberg]: /optiwand
+[04:56:56] [cmd] [Skender Osterberg]: /equipo
+[04:57:07] [cmd] [Skender Osterberg]: /espalda
+[04:57:11] [cmd] [Skender Osterberg]: /crearobjeto
+[04:57:13] [cmd] [Skender Osterberg]: /dararma
+[04:57:15] [cmd] [Skender Osterberg]: /dararma 0 1
+[04:57:28] [cmd] [Besnik Osterberg]: /equipo
+[04:57:30] [cmd] [Skender Osterberg]: /listaobjetos
+[04:57:36] [cmd] [Skender Osterberg]: /crearobjeto 26 400
+[04:57:45] [cmd] [Skender Osterberg]: /hudoff
+[04:57:45] [cmd] [Besnik Osterberg]: /staffoff
+[04:57:47] [cmd] [Besnik Osterberg]: /ah
+[04:57:49] [cmd] [Skender Osterberg]: /B /staffon
+[04:57:51] [cmd] [Skender Osterberg]: /staffon
+[04:57:54] [cmd] [Besnik Osterberg]: /staffon
+[04:58:03] [cmd] [Besnik Osterberg]: /a 8 minutos wtf
+[04:58:04] [cmd] [Skender Osterberg]: /revivir 1
+[04:58:11] [cmd] [Skender Osterberg]: /A apuntalo en el discord
+[04:58:36] [cmd] [Besnik Osterberg]: /equipo
+[04:58:43] [cmd] [Besnik Osterberg]: /bol
+[04:58:51] [cmd] [Skender Osterberg]: /revivir
+[04:58:56] [cmd] [Skender Osterberg]: /mascara
+[04:59:27] [cmd] [Skender Osterberg]: /ir 0
+[04:59:29] [cmd] [Skender Osterberg]: /irls
+[04:59:30] [cmd] [Skender Osterberg]: /ls
+[04:59:33] [cmd] [Skender Osterberg]: /staffon
+[04:59:34] [cmd] [Skender Osterberg]: /ls
+[04:59:35] [cmd] [Skender Osterberg]: /staffon
+[04:59:39] [cmd] [Besnik Osterberg]: /ir 0
+[04:59:49] [cmd] [Skender Osterberg]: /a en la cabeza quita mas en teoria
+[04:59:58] [part] Citoh has left the server (0:1)
+[05:00:03] [part] Lester has left the server (1:1)
+[05:00:26] [connection] 127.0.0.1:63247 requests connection cookie.
+[05:00:27] [connection] incoming connection: 127.0.0.1:63247 id: 0
+[05:00:27] [join] Citoh has joined the server (0:127.0.0.1)
+[05:00:46] [connection] 90.174.4.93:20716 requests connection cookie.
+[05:00:47] [connection] incoming connection: 90.174.4.93:20716 id: 1
+[05:00:48] [join] Lester has joined the server (1:90.174.4.93)
+[05:00:50] [cmd] [Skender Osterberg]: /callsign
+[05:00:58] [cmd] [Skender Osterberg]: /ct
+[05:01:01] [cmd] [Skender Osterberg]: /cts
+[05:01:02] [cmd] [Skender Osterberg]: /ayuda
+[05:01:04] [cmd] [Besnik Osterberg]: /revivir
+[05:01:10] [cmd] [Skender Osterberg]: /gct
+[05:01:11] [cmd] [Besnik Osterberg]: /ir 0
+[05:01:17] [cmd] [Skender Osterberg]: /espalda
+[05:01:23] [cmd] [Besnik Osterberg]: /heridas 0
+[05:01:26] [cmd] [Skender Osterberg]: /revivir 0
+[05:01:34] [cmd] [Skender Osterberg]: /heridas 1
+[05:01:42] [cmd] [Skender Osterberg]: /revivir 1
+[05:01:57] [cmd] [Skender Osterberg]: /heridas
+[05:02:47] [cmd] [Besnik Osterberg]: /guardar
+[05:03:07] [cmd] [Skender Osterberg]: /revivir 0
+[05:03:09] [cmd] [Skender Osterberg]: /optiwand
+[05:03:11] [cmd] [Skender Osterberg]: /mano
+[05:03:13] [cmd] [Skender Osterberg]: /qespalda
+[05:03:15] [cmd] [Skender Osterberg]: /mano
+[05:03:18] [cmd] [Skender Osterberg]: /optiwand
+[05:03:46] [cmd] [Skender Osterberg]: /ircasa
+[05:03:49] [cmd] [Skender Osterberg]: /optiwand
+[05:03:51] [cmd] [Besnik Osterberg]: /ir 0
+[05:04:45] [cmd] [Skender Osterberg]: /a ostia loco q guapo esto
+[05:04:54] [cmd] [Skender Osterberg]: /ceder 1
+[05:05:01] [cmd] [Skender Osterberg]: /optiwand
+[05:05:01] [cmd] [Besnik Osterberg]: /optiwand
+[05:05:07] [cmd] [Besnik Osterberg]: /a y ahora
+[05:05:07] [cmd] [Skender Osterberg]: /editarc
+[05:05:08] [cmd] [Skender Osterberg]: /editarcasa
+[05:05:16] [cmd] [Besnik Osterberg]: /optiwand
+[05:05:24] [cmd] [Skender Osterberg]: /A loco, eso es como si estuvieras mirando sabes, antes de entrar a los sitios
+[05:06:29] [cmd] [Skender Osterberg]: /ayuda
+[05:06:30] [part] Lester has left the server (1:1)
+[05:07:00] [cmd] [Skender Osterberg]: /crearobjeto
+[05:15:22] [cmd] [Skender Osterberg]: /objetosadmin
+[05:17:11] [cmd] [Skender Osterberg]: /graffitis
+[05:17:14] [cmd] [Skender Osterberg]: /crearobjeto
+[05:17:17] [cmd] [Skender Osterberg]: /listaobjetos
+[05:18:24] [cmd] [Skender Osterberg]: /crearobjeto 71 500
+[05:18:27] [cmd] [Skender Osterberg]: /usar
+[05:18:29] [cmd] [Skender Osterberg]: /mano
+[05:18:31] [cmd] [Skender Osterberg]: /bol
+[05:18:39] [cmd] [Skender Osterberg]: /graffiti
+[05:19:38] [cmd] [Skender Osterberg]: /graffitis
+[05:22:30] [cmd] [Skender Osterberg]: /borrargrafiti
+[05:22:31] [cmd] [Skender Osterberg]: /borrargrafitis
+[05:22:35] [cmd] [Skender Osterberg]: /borrargraffiti
+[05:22:37] [cmd] [Skender Osterberg]: /borrargraffitis
+[05:22:39] [cmd] [Skender Osterberg]: /borrargraffiti+
+[05:22:40] [cmd] [Skender Osterberg]: /borrargraffiti
+[05:23:48] [cmd] [Skender Osterberg]: /a a
+[05:23:51] [cmd] [Skender Osterberg]: /pedido
+[05:23:59] [cmd] [Skender Osterberg]: /reiniciarpedidosxd
+[05:24:19] [cmd] [Skender Osterberg]: /reiniciarpedidosxp
+[05:24:23] [cmd] [Skender Osterberg]: /pedido armas
+[05:24:34] [cmd] [Skender Osterberg]: /novedades
+[05:24:44] [cmd] [Skender Osterberg]: /info
+[05:24:46] [cmd] [Skender Osterberg]: /discord
+[05:24:49] [cmd] [Skender Osterberg]: /di
+[05:24:50] [cmd] [Skender Osterberg]: /dis
+[05:24:51] [cmd] [Skender Osterberg]: /disc
+[05:24:52] [cmd] [Skender Osterberg]: /disco
+[05:25:07] [cmd] [Skender Osterberg]: /premium
+[05:25:33] [cmd] [Skender Osterberg]: /ts3
+[05:25:37] [cmd] [Skender Osterberg]: /web
+[05:26:29] [cmd] [Skender Osterberg]: /esposar
+[05:26:30] [cmd] [Skender Osterberg]: /inv
+[05:26:35] [cmd] [Skender Osterberg]: /irp
+[05:26:37] [cmd] [Skender Osterberg]: /irpuerta
+[05:26:55] [cmd] [Skender Osterberg]: /equipo
+[05:27:42] [cmd] [Skender Osterberg]: /accesorios
+[05:28:21] [cmd] [Skender Osterberg]: /equipo
+[05:28:37] [cmd] [Skender Osterberg]: /reanimar
+[05:28:41] [cmd] [Skender Osterberg]: /bol
+[05:29:20] [cmd] [Skender Osterberg]: /ircoordenadas
+[05:29:23] [cmd] [Skender Osterberg]: /ircordenadas
+[05:29:26] [cmd] [Skender Osterberg]: /ircord
+[05:29:26] [cmd] [Skender Osterberg]: /ircorde
+[05:29:29] [cmd] [Skender Osterberg]: /ircoord
+[05:29:31] [cmd] [Skender Osterberg]: /ircordenadas
+[05:29:34] [cmd] [Skender Osterberg]: /ircoord
+[05:29:59] [cmd] [Skender Osterberg]: //ircordenada
+[05:30:01] [cmd] [Skender Osterberg]: /ircordenada
+[05:30:12] [cmd] [Skender Osterberg]: /mercado
+[05:30:28] [cmd] [Skender Osterberg]: /bol
+[05:30:31] [cmd] [Skender Osterberg]: /guardar
+[05:30:32] [cmd] [Skender Osterberg]: /bol
+[05:30:34] [cmd] [Skender Osterberg]: /mercado
+[05:31:14] [cmd] [Skender Osterberg]: /dnifalso
+[05:31:17] [cmd] [Skender Osterberg]: /dardni
+[05:31:18] [cmd] [Skender Osterberg]: /dardnifalso
+[05:35:10] [cmd] [Skender Osterberg]: /qcables
+[05:35:11] [cmd] [Skender Osterberg]: /cables
+[05:35:13] [cmd] [Skender Osterberg]: /qcables
+[05:35:14] [cmd] [Skender Osterberg]: /cables
+[05:35:16] [cmd] [Skender Osterberg]: /tazer
+[05:36:31] [cmd] [Skender Osterberg]: /mascarapd
+[05:36:33] [cmd] [Skender Osterberg]: /dic
+[05:36:45] [cmd] [Skender Osterberg]: /ayuda faccion
+[05:37:01] [cmd] [Skender Osterberg]: /arrestarf
+[05:37:03] [cmd] [Skender Osterberg]: /arrestar
+[05:37:08] [cmd] [Skender Osterberg]: /ayuda
+[05:37:34] [cmd] [Skender Osterberg]: /balasgoma
+[05:45:13] [cmd] [Skender Osterberg]: /familias
+[05:45:14] [cmd] [Skender Osterberg]: /ls
+[05:45:16] [cmd] [Skender Osterberg]: /staffon
+[05:45:17] [cmd] [Skender Osterberg]: /ls
+[05:45:21] [cmd] [Skender Osterberg]: /ah
+[05:45:29] [cmd] [Skender Osterberg]: /borrarautofam
+[05:45:34] [cmd] [Skender Osterberg]: /ayuda
+[05:45:38] [cmd] [Skender Osterberg]: /ayudafamilia
+[05:45:43] [cmd] [Skender Osterberg]: /fmotor
+[05:45:46] [cmd] [Skender Osterberg]: /traerveh
+[05:45:50] [cmd] [Skender Osterberg]: /traercar 256
+[05:45:55] [cmd] [Skender Osterberg]: /coches
+[05:45:57] [cmd] [Skender Osterberg]: /traercar 256
+[05:46:02] [cmd] [Skender Osterberg]: /fixveh
+[05:46:29] [cmd] [Skender Osterberg]: /swsp
+[05:46:32] [cmd] [Skender Osterberg]: /bol
+[05:46:41] [cmd] [Skender Osterberg]: /editarfam
+[05:46:43] [cmd] [Skender Osterberg]: /editarfam2
+[05:46:46] [cmd] [Skender Osterberg]: /ah
+[05:46:49] [cmd] [Skender Osterberg]: /feditar
+[05:46:50] [cmd] [Skender Osterberg]: /feditar2
+[05:47:32] [cmd] [Skender Osterberg]: /irfamilia
+[05:47:35] [cmd] [Skender Osterberg]: /irfam
+[05:47:37] [cmd] [Skender Osterberg]: /irfamilia
+[05:47:40] [cmd] [Skender Osterberg]: /irp
+[05:47:42] [cmd] [Skender Osterberg]: /irpuerta
+[05:47:43] [cmd] [Skender Osterberg]: /irnegocio
+[05:47:47] [cmd] [Skender Osterberg]: /stats
+[05:47:50] [cmd] [Skender Osterberg]: /stats
+[05:48:02] [cmd] [Skender Osterberg]: /irnegocio 18
+[05:48:07] [cmd] [Skender Osterberg]: /ah
+[05:48:14] [cmd] [Skender Osterberg]: /crearautofamilia
+[05:48:16] [cmd] [Skender Osterberg]: /crearautofamilia
+[05:48:17] [cmd] [Skender Osterberg]: /ah
+[05:48:20] [cmd] [Skender Osterberg]: /crearautofam
+[05:48:23] [cmd] [Skender Osterberg]: /familias
+[05:48:41] [cmd] [Skender Osterberg]: /crearautofam 1 560 1 1
+[05:48:54] [cmd] [Skender Osterberg]: /fmotor
+[05:48:55] [cmd] [Skender Osterberg]: /fmotor
+[05:48:56] [cmd] [Skender Osterberg]: /motor
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:51:40] 
+[05:51:40] Server Plugins
+[05:51:40] --------------
+[05:51:40]  Loading plugin: crashdetect
+[05:51:40]   CrashDetect v4.15.1 is OK.
+[05:51:40]   Loaded.
+[05:51:40]  Loading plugin: sscanf
+[05:51:40] 
+
+[05:51:40]  ===============================
+
+[05:51:40]       sscanf plugin loaded.     
+
+[05:51:40]          Version:  2.8.1        
+
+[05:51:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:51:40]  ===============================
+
+[05:51:40]   Loaded.
+[05:51:40]  Loading plugin: streamer
+[05:51:40] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[05:51:40]   Loaded.
+[05:51:40]  Loaded 3 plugins.
+
+[05:51:40] 
+[05:51:40] Filterscripts
+[05:51:40] ---------------
+[05:51:40]   Loading filterscript 'Botones.amx'...
+[05:51:40]   Loading filterscript 'JunkBuster.amx'...
+[05:51:40] Cargando JunkBuster...
+[05:51:40]  
+[05:51:40] Configuración del JunkBuster: 
+[05:51:40] (Jetpack = 1)
+[05:51:40] (BadWords = 1)
+[05:51:40] (CarJackHack = 1)
+[05:51:40] (Blacklist = 1)
+[05:51:40] (IpBans = 1)
+[05:51:40] (TempBans = 1)
+[05:51:40] (Airbrake = 150)
+[05:51:40] (AntiBugKill = 1)
+[05:51:40] (VehicleTeleport = 1)
+[05:51:40] (MaxTotalWarnings = 2000)
+[05:51:40] (TooManyWarningsAction = 1)
+[05:51:40] (AirbrakeDetection = 1)
+[05:51:40]  
+[05:51:40] [junkbuster] 0 IP-bans have been loaded.
+[05:51:40] [junkbuster] 0 temporary bans have been loaded.
+[05:51:40] [junkbuster] 0 whitelist entries have been loaded.
+[05:51:40] [junkbuster] 0 blacklist entries have been loaded.
+[05:51:40] [junkbuster] 0 bad words have been loaded.
+[05:51:40] [junkbuster] 4 forbidden weapons have been loaded.
+[05:51:40] [junkbuster] JunkBuster has been configurated.
+[05:51:40]  
+[05:51:40] » JunkBuster (v11) su carga fue exitosa.
+[05:51:40]  
+[05:51:40]   Loading filterscript 'text2.amx'...
+[05:51:40]   Unable to load filterscript 'text2.amx'.
+[05:51:40]   Loaded 2 filterscripts.
+
+[05:51:40] weburl = "www.roleplay.net"  (string)
+[05:51:40] » Sistema de graffitis cargado (0).
+[05:51:40] » Sistema de objetos dinámicos cargado (2).
+[05:51:40] » Sistema de puertas dinamicas cargado (49).
+[05:51:40] » Sistema de status del servidor cargado.
+[05:51:40] » Sistema de casas cargado (127).
+[05:51:40] » Sistema de garajes cargado (0).
+[05:51:40] » Sistema de negocios cargado (60).
+[05:51:40] » Sistema de gasolineras cargado (10).
+[05:51:40] » Incendios cargados.
+[05:51:40] » Sistema de maleteros de facciones cargado (150).
+[05:51:40] » Sistema de teléfonos públicos cargado (30).
+[05:51:40] » Sistema de semillas cargado (0).
+[05:51:40] » Sistema de concesionarias cargado (87).
+[05:51:40] » Sistema de vehículos usados cargado (0).
+[05:51:40] » Sistema de empresas cargado (2).
+[05:51:40] » Sistema de vehículos cargado (14).
+[05:51:42] » Sistema de organizaciones cargado.
+[05:51:42] » Sistema de parqueos/peajes cargado (9).
+[05:51:42] » Objetos unicos cargado (1).
+[05:51:42]  
+[05:51:42] SERVIDOR INICIADO CON ÉXITO.
+[05:51:42]  Consola optimizada 
+[05:51:42] ===================================================================
+[05:51:42] 		JUEGO DE ROL
+[05:51:42] ===================================================================
+[05:51:42]  
+[05:51:42]  
+[05:51:42] Number of vehicle models: 60
+[05:52:56] [connection] 127.0.0.1:57110 requests connection cookie.
+[05:52:57] [connection] incoming connection: 127.0.0.1:57110 id: 0
+[05:52:57] [join] Citoh has joined the server (0:127.0.0.1)
+[05:53:16] [cmd] [Skender Osterberg]: /irauto
+[05:53:23] [cmd] [Skender Osterberg]: /ircar 1
+[05:53:28] [cmd] [Skender Osterberg]: /setv
+[05:53:30] [cmd] [Skender Osterberg]: /setint
+[05:53:32] [cmd] [Skender Osterberg]: /ls
+[05:53:34] [cmd] [Skender Osterberg]: /staffon
+[05:53:35] [cmd] [Skender Osterberg]: /l
+[05:53:36] [cmd] [Skender Osterberg]: /ls
+[05:53:38] [cmd] [Skender Osterberg]: /coches
+[05:53:42] [cmd] [Skender Osterberg]: /ircar 256
+[05:54:06] [part] Citoh has left the server (0:1)

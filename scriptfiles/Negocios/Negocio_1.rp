@@ -1,9 +1,9 @@
 [Informacion]
 Nombre = 24-7
-Dueño = enventa
+Dueño = Besnik Osterberg
 Tipo = 1
 Seguro = 1
-Comprado = 0
+Comprado = 1
 Exterior_X = 1352.293945
 Exterior_Y = -1758.750976
 Exterior_Z = 13.507802
@@ -12,8 +12,8 @@ Interior_X = -27.374300
 Interior_Y = -57.714599
 Interior_Z = 1003.546875
 Interior_R = 357.591491
-Dinero = 13171
-Productos = 4996
+Dinero = 4397
+Productos = 2471
 Precio = 126020
 Interior = 6
 Entrada = 0

@@ -1,9 +1,9 @@
 [Informacion]
-Nombre = Cromagnon
+Nombre = Bar
 Dueño = Nathan Steelle
 Tipo = 12
 Seguro = 1
-Comprado = 1
+Comprado = 0
 Exterior_X = 2070.871826
 Exterior_Y = -1784.906250
 Exterior_Z = 13.559288
@@ -12,8 +12,8 @@ Interior_X = 501.828796
 Interior_Y = -67.507102
 Interior_Z = 998.757812
 Interior_R = 180.000000
-Dinero = 11086
-Productos = 296
+Dinero = 0
+Productos = 2000
 Precio = 10
 Interior = 11
 Entrada = 0
