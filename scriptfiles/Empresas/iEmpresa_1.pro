@@ -1,1 +1,0 @@
-Skender Osterberg 0

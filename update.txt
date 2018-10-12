@@ -1,0 +1,5 @@
+10-10-18: Se añade proyecto
+10-10-18: Modificados comandos: /a y /ah
+11-10-18: Ahora se puede encender el coche con CLICK y ALT
+11-10-18: Inicio de sistema de trafico pandillas (empezado)
+11-10-18: Cambios en el GitHub para mas seguridad
