@@ -18,3 +18,5 @@
 13-10-18: * EMPEZADO sistema de ventas automaticas en negocios.
 13-10-18: Interior mansion tipo1 hecho.
 13-10-18: Progreso en el sistema de ventas negocio
+13-10-18: Temporalmente lo que será el payday es /darventasneg
+13-10-18: 
