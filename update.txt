@@ -16,3 +16,4 @@
 13-10-18: Removido un mappeo de cajas en zona de Ocean Docks
 13-10-18: Arreglado un error de coordenadas que te mandaba al CC.
 13-10-18: * EMPEZADO sistema de ventas automaticas en negocios.
+13-10-18: Interior mansion tipo1 hecho.
