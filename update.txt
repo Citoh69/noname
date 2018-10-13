@@ -20,3 +20,4 @@
 13-10-18: Progreso en el sistema de ventas negocio
 13-10-18: Temporalmente lo que será el payday es /darventasneg
 13-10-18: Ahora el log guarda información del negocio y propietario sin stock
+13-10-18: El log muestra tambien el tipo.
