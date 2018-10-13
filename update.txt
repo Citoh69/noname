@@ -22,3 +22,4 @@
 13-10-18: Ahora el log guarda información del negocio y propietario sin stock
 13-10-18: El log muestra tambien el tipo.
 13-10-18: Listos: 9 tipos de neg. 
+13-10-18: Listos: 13 tipos de neg.
