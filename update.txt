@@ -40,4 +40,4 @@
 17:19 14/10/2018: Garajes arreglados, no guardaban/cargaban.
 17:22 14/10/2018: Ahora puedes pagar hasta 50.000$ (antes 10k)
 22:13 14/10/2018: Definido nombre del servidor.
-22:13 14/10/2018: 
+22:13 14/10/2018: Removido el comando /pedido armas (pandilleros)
