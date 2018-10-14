@@ -42,3 +42,4 @@
 22:13 14/10/2018: Definido nombre del servidor.
 22:13 14/10/2018: Removido el comando /pedido armas (pandilleros)
 22:17 14/10/2018: Removido el comando /pedido drogas (pandilleros)
+22:59 14/10/2018: Arregladas las cabinas. (/publico)
