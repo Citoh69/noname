@@ -23,3 +23,4 @@
 13-10-18: El log muestra tambien el tipo.
 13-10-18: Listos: 9 tipos de neg. 
 13-10-18: Al darle al 8 NUMÉRICO, luces y daños visuales.
+2:36 14/10/2018: Eliminados mensajes de luces.
