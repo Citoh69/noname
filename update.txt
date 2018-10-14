@@ -44,3 +44,4 @@
 22:17 14/10/2018: Removido el comando /pedido drogas (pandilleros)
 22:59 14/10/2018: Arregladas las cabinas. (/publico)
 23:51 14/10/2018: Removidas las furgos/camiones del job. Se ha dejado 1 por compasion.
+23:57 14/10/2018: Añadido mappeo de LSPD en otro lugar.
