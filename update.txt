@@ -30,3 +30,4 @@
 4:08 14/10/2018: Se han bajado los niveles notablemente.
 4:09 14/10/2018: Cada nivel, requerira 5 puntos de experiencia mas para el proximo.
 5:00 14/10/2018: Añadido mappeo para taller en la avenida Lawrence
+5:00 14/10/2018: Ahora las empresas en venta te muestra el precio.
