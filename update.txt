@@ -33,3 +33,5 @@
 5:00 14/10/2018: Ahora las empresas en venta te muestra el precio.
 5:06 14/10/2018: Creada la gasolinera de Flint Contry, configurados surtidores.
 5:26 14/10/2018: Ahora al spectear, sale un mensaje a los adm.
+16:16 14/10/2018: Arreglado mensaje del /reanimar.
+16:16 14/10/2018: 
