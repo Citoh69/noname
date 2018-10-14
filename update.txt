@@ -25,4 +25,4 @@
 13-10-18: Al darle al 8 NUMÉRICO, luces y daños visuales.
 2:36 14/10/2018: Eliminados mensajes de luces.
 2:48 14/10/2018: Editados skin de inicio hombre y mujer.
-2:48 14/10/2018:
+2:48 14/10/2018: Mas seguridad al guardar negocios.
