@@ -28,3 +28,4 @@
 2:48 14/10/2018: Mas seguridad al guardar negocios.
 3:52 14/10/2018: Ahora el negocio te dice la ID aunque este en venta.
 4:08 14/10/2018: Se han bajado los niveles notablemente.
+4:09 14/10/2018: Cada nivel, requerira 5 puntos de experiencia mas para el proximo.
