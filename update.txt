@@ -38,3 +38,4 @@
 16:17 14/10/2018: Cambiado minimo nivel de /crearobjeto,/listaobjetos
 16:23 14/10/2018: Modificada la ayuda que te muestra de PD.
 17:19 14/10/2018: Garajes arreglados, no guardaban/cargaban.
+17:22 14/10/2018: Ahora puedes pagar hasta 50.000$ (antes 10k)
