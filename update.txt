@@ -52,3 +52,4 @@
 15:30 15/10/2018: Creado comando /editaredad para GO2+
 15:30 15/10/2018: Creado comando /hudoff para ocultar los nombres.
 15:37 15/10/2018: Creado comando /hudon para mostrar los nombres.
+15:59 15/10/2018: Configurado y arreglado comandos superiores administrativos.
