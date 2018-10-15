@@ -49,3 +49,4 @@
 4:56 15/10/2018: Se ha mappeado la LSPD en Verona Beach (6h en mappear)
 5:30 15/10/2018: Modificado totalmente el canal administrativo (/a)
 5:35 15/10/2018: Modificado el /admins
+15:30 15/10/2018: Comando /editaredad para GO2+
