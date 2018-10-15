@@ -53,3 +53,4 @@
 15:30 15/10/2018: Creado comando /hudoff para ocultar los nombres.
 15:37 15/10/2018: Creado comando /hudon para mostrar los nombres.
 15:59 15/10/2018: Configurado y arreglado comandos superiores administrativos.
+22:31 15/10/2018: El comando /a te mostrará 2 lineas si no alcanza el texto en 1.
