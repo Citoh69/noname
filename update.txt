@@ -47,3 +47,4 @@
 23:57 14/10/2018: Añadido mappeo de LSPD en otro lugar.
 4:55 15/10/2018: Removido el mappeo que se había añadido.
 4:56 15/10/2018: Se ha mappeado la LSPD en Verona Beach (6h en mappear)
+5:30 15/10/2018: Modificado totalmente el canal administrativo (/a)
