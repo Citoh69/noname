@@ -67,3 +67,4 @@
 5:15 16/10/2018: Traficante eliminado por completo del servidor.
 5:18 16/10/2018: Cambiada ubicación de Delincuente
 7:13 16/10/2018: Ahora al encender el motor te dice de qué coche lo estas encendiendo.
+19:35 16/10/2018: Ahora te dice el modelo tambien aunque sea coche de PD,SAN,etc.
