@@ -57,4 +57,4 @@
 2:42 16/10/2018: Movido todo lo de la anterior comisaria a la nueva.
 2:43 16/10/2018: Movido teleports de las salidas de PD.
 2:44 16/10/2018: Creado el comando /embargar, lo manda al lado de la comisaria al pagar.
-2:45 16/10/2018: Ahora el embargar se puede poner en todo el parking (cerca del punto)
+2:47 16/10/2018: Ahora el embargar se puede poner en todo el parking (cerca del punto)
