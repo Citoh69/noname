@@ -54,7 +54,7 @@
 15:37 15/10/2018: Creado comando /hudon para mostrar los nombres.
 15:59 15/10/2018: Configurado y arreglado comandos superiores administrativos.
 22:31 15/10/2018: El comando /a te mostrará 2 lineas si no alcanza el texto en 1.
-2:44 16/10/2018: Movido todo lo de la anterior comisaria a la nueva.
+2:43 16/10/2018: Movido todo lo de la anterior comisaria a la nueva.
 2:44 16/10/2018: Movido teleports de las salidas de PD.
 2:44 16/10/2018: Creado el comando /embargar, lo manda al lado de la comisaria al pagar.
 2:45 16/10/2018: Ahora el embargar se puede poner en todo el parking (cerca del punto)
