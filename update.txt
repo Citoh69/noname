@@ -59,3 +59,4 @@
 2:45 16/10/2018: Creado el comando /embargar, lo manda al lado de la comisaria al pagar.
 2:47 16/10/2018: Ahora el embargar se puede poner en todo el parking (cerca del punto)
 2:55 16/10/2018: *17 comandos administrativos re-estructurados.
+2:55 16/10/2018: Ahora al morir, no puedes /ceder mientras estas en el suelo.
