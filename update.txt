@@ -60,3 +60,5 @@
 2:47 16/10/2018: Ahora el embargar se puede poner en todo el parking (cerca del punto)
 2:55 16/10/2018: *17 comandos administrativos re-estructurados.
 2:55 16/10/2018: Ahora al morir, no puedes /ceder mientras estas en el suelo.
+2:55 16/10/2018: Ahora al morir, no puedes /guardar mientras estas en el suelo.
+2:56 16/10/2018: Ahora al morir, no puedes /me mientras estas en el suelo.
