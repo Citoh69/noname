@@ -71,3 +71,4 @@
 19:36 16/10/2018: Cambiado el mensaje de encender el motor, es más corto ahora.
 19:49 16/10/2018: Aumentado el rango del megafono en 10 metros más. (70 ahora)
 19:57 16/10/2018: Cambiado el mensaje/color del sistema de plantación.
+19:58 16/10/2018: Cambiados los mensajes/colores al caer herido.
