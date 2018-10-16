@@ -65,3 +65,4 @@
 3:28 16/10/2018: No puedes /tirar estando muerto.
 4:16 16/10/2018: Puedes configurar tu cuenta /cuenta
 5:15 16/10/2018: Traficante eliminado por completo del servidor.
+5:18 16/10/2018: Cambiada ubicación de Delincuente
