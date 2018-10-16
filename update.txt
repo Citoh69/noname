@@ -69,3 +69,4 @@
 7:13 16/10/2018: Ahora al encender el motor te dice de qué coche lo estas encendiendo.
 19:35 16/10/2018: Ahora te dice el modelo tambien aunque sea coche de PD,SAN,etc.
 19:36 16/10/2018: Cambiado el mensaje de encender el motor, es más corto ahora.
+19:49 16/10/2018: Aumentado el rango del megafono en 10 metros más. (70 ahora)
