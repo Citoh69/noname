@@ -62,3 +62,4 @@
 2:55 16/10/2018: Ahora al morir, no puedes /ceder mientras estas en el suelo.
 2:55 16/10/2018: Ahora al morir, no puedes /guardar mientras estas en el suelo.
 2:56 16/10/2018: Ahora al morir, no puedes /me mientras estas en el suelo.
+3:28 16/10/2018: No puedes /tirar estando muerto.
