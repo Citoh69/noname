@@ -70,3 +70,4 @@
 19:35 16/10/2018: Ahora te dice el modelo tambien aunque sea coche de PD,SAN,etc.
 19:36 16/10/2018: Cambiado el mensaje de encender el motor, es más corto ahora.
 19:49 16/10/2018: Aumentado el rango del megafono en 10 metros más. (70 ahora)
+19:57 16/10/2018: Cambiado el mensaje/color del sistema de plantación.
