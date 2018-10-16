@@ -76,3 +76,4 @@
 20:05 16/10/2018: Modificados los mensajes que te informan de tu necesidad.
 20:12 16/10/2018: Modificado el sistema de cábinas telefonicas.
 21:41 16/10/2018: Modificados mensajes de llamada hacia SAN.
+22:37 16/10/2018: Cambiados algunos mensajes que responden al jugador.
