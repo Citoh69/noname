@@ -74,3 +74,4 @@
 19:58 16/10/2018: Cambiados los mensajes/colores al caer herido.
 20:01 16/10/2018: Cambiados mensajes de la consola.
 20:05 16/10/2018: Modificados los mensajes que te informan de tu necesidad.
+20:12 16/10/2018: Modificado el sistema de cábinas telefonicas.
