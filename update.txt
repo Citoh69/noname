@@ -79,3 +79,4 @@
 22:37 16/10/2018: Cambiados algunos mensajes que responden al jugador.
 22:50 16/10/2018: Cambiados los rangos de "Emergencias" (LSFD)
 0:50 17/10/2018: Cambiado el nombre del servidor.
+0:54 17/10/2018: Nombre del ayuntamiento y siglas del servidor cambiadas.
