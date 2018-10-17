@@ -94,3 +94,4 @@
 16:58 17/10/2018: Modificado el mensaje de login.
 16:58 17/10/2018: Establecida paga de camionero.
 17:06 17/10/2018: Establecida paga de carguero.
+17:15 17/10/2018: Añadidos 6 vehículos a camionero.
