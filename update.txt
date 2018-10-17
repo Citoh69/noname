@@ -90,3 +90,4 @@
 15:02 17/10/2018: Cambios menores.
 15:03 17/10/2018: Creado comando /discord
 15:03 17/10/2018: Modificado el mensaje de bienvenida.
+16:57 17/10/2018: Modificados TODOS los precios de los coches.
