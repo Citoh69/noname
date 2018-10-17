@@ -88,3 +88,5 @@
 4:16 17/10/2018: Modificación de los dialogs del banco.
 4:46 17/10/2018: Modificado TODOS los textos [STAFF] a [NSRP]
 15:02 17/10/2018: Cambios menores.
+15:03 17/10/2018: Creado comando /discord
+15:03 17/10/2018: 
