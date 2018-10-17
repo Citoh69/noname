@@ -83,3 +83,4 @@
 1:14 17/10/2018: Cambiada la aparición del mismo color (219) veces.
 1:26 17/10/2018: Añadido color al dialog cuando creas un pj.
 2:29 17/10/2018: Nuevas preguntas del test de rol.
+3:06 17/10/2018: 2 minutos para poder volver a hacer un anuncio. (8 antes)
