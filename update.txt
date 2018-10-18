@@ -99,3 +99,4 @@
 13:32 18/10/2018: Se ha establecido el mismo precio de productos sin depender el tipo de neg.
 13:37 18/10/2018: Cambios generales en las ganancias de empresa.
 14:07 18/10/2018: Agregados objetos admin.
+14:16 18/10/2018: Cambiado texto de [V-C] a [Ventana Cerrada] [V-A] a [Ventana Abierta]
