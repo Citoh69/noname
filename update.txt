@@ -102,3 +102,4 @@
 14:16 18/10/2018: Removido [V-C].
 15:21 18/10/2018: Removido el tipo de negocio "Club private"
 15:21 18/10/2018: Agregada una growshop en Idlewood.
+23:08 18/10/2018: Mappeo por Lester cerramiento Idlewood.
