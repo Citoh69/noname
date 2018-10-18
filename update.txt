@@ -100,3 +100,5 @@
 13:37 18/10/2018: Cambios generales en las ganancias de empresa.
 14:07 18/10/2018: Agregados objetos admin.
 14:16 18/10/2018: Removido [V-C].
+15:21 18/10/2018: Removido el tipo de negocio "Club private"
+15:21 18/10/2018: Agregada una growshop en Idlewood.
