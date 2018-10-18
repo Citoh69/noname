@@ -97,3 +97,4 @@
 17:15 17/10/2018: Añadidos 6 vehículos a camionero.
 13:31 18/10/2018: Mejoradas ventas automaticas en negocio.
 13:32 18/10/2018: Se ha establecido el mismo precio de productos sin depender el tipo de neg.
+13:37 18/10/2018: Cambios generales en las ganancias de empresa.
