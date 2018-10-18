@@ -105,3 +105,4 @@
 23:08 18/10/2018: Mappeo por Lester cerramiento Idlewood.
 23:52 18/10/2018: Cambiada estetica del megáfono.
 0:09 19/10/2018: Ubicación de los helicopteros de PD a la nueva comisaria.
+0:11 19/10/2018: Removidas las bicicletas gratuitas del ayuntamiento.
