@@ -115,3 +115,4 @@
 8:18 19/10/2018: Establecidas ganancias de Leñador.
 8:29 19/10/2018: Establecidas ganancias de Granjero.
 8:30 19/10/2018: Modificado el rol automatico de maletero.
+8:42 19/10/2018: Establecidas ganancias de Pescador.
