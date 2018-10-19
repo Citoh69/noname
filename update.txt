@@ -112,3 +112,4 @@
 5:17 19/10/2018: Mappeo de la growshop hecho por Lester, texturas Citoh
 7:45 19/10/2018: Modificado aeropuerto de Los Santos.
 8:04 19/10/2018: Establecidas ganancias de Carpintero.
+8:18 19/10/2018: Establecidas ganancias de Leñador.
