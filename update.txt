@@ -118,3 +118,4 @@
 8:42 19/10/2018: Establecidas ganancias de Pescador.
 8:47 19/10/2018: Ladron de vehs ahora cobra más.
 13:21 19/10/2018: Retiración del limite mS_CUSTOM_MAX_ITEMS
+13:23 19/10/2018: Arreglado sistema de plantación de marihuana.
