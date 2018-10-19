@@ -113,3 +113,4 @@
 7:45 19/10/2018: Modificado aeropuerto de Los Santos.
 8:04 19/10/2018: Establecidas ganancias de Carpintero.
 8:18 19/10/2018: Establecidas ganancias de Leñador.
+8:29 19/10/2018: Establecidas ganancias de Granjero.
