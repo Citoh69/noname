@@ -116,3 +116,4 @@
 8:29 19/10/2018: Establecidas ganancias de Granjero.
 8:30 19/10/2018: Modificado el rol automatico de maletero.
 8:42 19/10/2018: Establecidas ganancias de Pescador.
+8:47 19/10/2018: Ladron de vehs ahora cobra más.
