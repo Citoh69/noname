@@ -122,3 +122,5 @@
 13:24 19/10/2018: Arreglado sistema de graffitis.
 2:29 20/10/2018: Modificadas las ganancias por PD de las facciones.
 2:57 20/10/2018: Modificadas ganancias automaticas por PD de negocios.
+0:30 21/10/2018: Cambiados permisos del rango Administrador
+0:30 21/10/2018: 
