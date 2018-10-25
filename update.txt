@@ -125,3 +125,4 @@
 0:30 21/10/2018: Cambiados permisos del rango Administrador
 0:30 21/10/2018: Removidos 7 vehiculos de LSFD
 0:40 26/10/2018: Cambios menores en textos.
+0:41 26/10/2018: Antes al vender pez te pagaba el igual de peces que tuvieras, ahora se le ha establecido valor al pez.
