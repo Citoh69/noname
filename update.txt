@@ -124,3 +124,4 @@
 2:57 20/10/2018: Modificadas ganancias automaticas por PD de negocios.
 0:30 21/10/2018: Cambiados permisos del rango Administrador
 0:30 21/10/2018: Removidos 7 vehiculos de LSFD
+0:40 26/10/2018: Cambios menores en textos.
