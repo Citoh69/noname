@@ -131,3 +131,5 @@
 23:04 06/11/2018: Mejoras en procesamiento administrativo.
 0:27 07/11/2018: Permisos en comandos administrativos.
 0:28 07/11/2018: Creación de un nuevo /ah (PROCESO)
+4:53 07/11/2018: Creado comando /h
+4:54 07/11/2018: Creados comandos /abrirh y /cerrarh para administradores.
