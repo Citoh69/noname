@@ -133,3 +133,4 @@
 0:28 07/11/2018: Creación de un nuevo /ah (PROCESO)
 4:53 07/11/2018: Creado comando /h.
 4:54 07/11/2018: Creados comandos /abrirh y /cerrarh para administradores.
+4:56 07/11/2018: Finalizado el /ah. (Con dialogos independientes dependiendo del rango)
