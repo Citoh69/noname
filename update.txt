@@ -140,3 +140,4 @@
 12:03 09/11/2018: Barrera en la nueva comisaria. (Parking)
 12:43 09/11/2018: Ahora el /id muestra FPS al staff.
 20:44 09/11/2018: Removido rol automatico al abrir/cerrar casa.
+20:45 09/11/2018: Removido rol automatico al abrir/cerrar garaje.
