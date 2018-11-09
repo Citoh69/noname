@@ -142,3 +142,4 @@
 20:44 09/11/2018: Removido rol automatico al abrir/cerrar casa.
 20:45 09/11/2018: Removido rol automatico al abrir/cerrar garaje.
 20:56 09/11/2018: Eliminados paynspray. Quedan sin uso.
+21:04 09/11/2018: Cambios menores.
