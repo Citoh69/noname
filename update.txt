@@ -137,3 +137,4 @@
 14:41 07/11/2018: Arregladas ganancias automaticas.
 14:42 07/11/2018: Removido mappeo de la plaza dejando el default.
 19:35 07/11/2018: Creado log para todo lo relacionado con /h.
+12:03 09/11/2018: Barrera en la nueva comisaria. (Parking)
