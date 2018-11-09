@@ -138,3 +138,4 @@
 14:42 07/11/2018: Removido mappeo de la plaza dejando el default.
 19:35 07/11/2018: Creado log para todo lo relacionado con /h.
 12:03 09/11/2018: Barrera en la nueva comisaria. (Parking)
+12:43 09/11/2018: Ahora el /id muestra FPS al staff.
