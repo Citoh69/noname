@@ -146,3 +146,4 @@
 21:49 09/11/2018: Creado sistema /letrero para coches.
 5:10 12/11/2018: En proceso sistema de trafico ilegal.
 5:12 12/11/2018: Creados textdraws para los pedidos.
+5:13 12/11/2018: Funcionalidad a los textdraws.
