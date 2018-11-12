@@ -148,3 +148,4 @@
 5:12 12/11/2018: Creados textdraws para los pedidos.
 5:13 12/11/2018: Funcionalidad a los textdraws.
 5:13 12/11/2018: Ahora te muestra el precio haciendo una suma total.
+5:14 12/11/2018: Modificados los permisos de algunos comandos administrativos.
