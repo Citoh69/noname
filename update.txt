@@ -154,3 +154,4 @@
 19:25 12/11/2018: Creado comando para ver los pedidos conectado.
 19:27 12/11/2018: Creado log de entregas.
 19:28 12/11/2018: Finalizado sistema de realizar pedido.
+21:15 12/11/2018: Establecidos todos los precios del pedido.
