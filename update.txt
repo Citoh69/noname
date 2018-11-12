@@ -153,3 +153,4 @@
 13:23 12/11/2018: Funcionalidad al "PEDIR", al darle crea un log donde da detalle de todo, y se almacena permanentemente por usuario y fecha del pedido.
 19:25 12/11/2018: Creado comando para ver los pedidos conectado.
 19:27 12/11/2018: Creado log de entregas.
+19:28 12/11/2018: Finalizado sistema de realizar pedido.
