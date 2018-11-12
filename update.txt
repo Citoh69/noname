@@ -150,4 +150,5 @@
 5:13 12/11/2018: Ahora te muestra el precio haciendo una suma total.
 5:14 12/11/2018: Modificados los permisos de algunos comandos administrativos.
 13:03 12/11/2018: Ahora si no completas el pedido, se te resetean los valores.
-13:23 12/11/2018: Funcionalidad al "PEDIR", al darle crea un log donde da detalle de todo, y se almacena permanentemente por usuario y fecha del pedido
+13:23 12/11/2018: Funcionalidad al "PEDIR", al darle crea un log donde da detalle de todo, y se almacena permanentemente por usuario y fecha del pedido.
+19:25 12/11/2018: Creado comando para ver los pedidos conectado.
