@@ -156,3 +156,4 @@
 19:28 12/11/2018: Finalizado sistema de realizar pedido.
 21:15 12/11/2018: Establecidos todos los precios del pedido.
 4:03 13/11/2018: Realizado mappeo de recogida en Blueberry.
+4:04 13/11/2018: Puertas sincronizadas lógicamente.
