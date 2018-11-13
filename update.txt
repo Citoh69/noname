@@ -159,3 +159,4 @@
 4:04 13/11/2018: Puertas sincronizadas lógicamente.
 4:04 13/11/2018: Creados comandos interactivos durante la entrega.
 21:03 13/11/2018: Sistema de trafico ilegal finalizado.
+21:03 13/11/2018: Correccion de errores del trafico ilegal.
