@@ -161,3 +161,4 @@
 21:03 13/11/2018: Sistema de trafico ilegal finalizado.
 21:03 13/11/2018: Correccion de errores del trafico ilegal.
 21:04 13/11/2018: Sistema de trafico ilegal en versión 1, aun estando testeado puede que surja algun error, así que estará en fase de testeo.
+22:14 13/11/2018: Cambiado mensaje al apagar el motor del vehículo.
