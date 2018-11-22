@@ -168,3 +168,4 @@
 20:15 22/11/2018: Creado comando /ocultarlogo y /mostrarlogo.
 23:04 22/11/2018: Las ganancias automaticas funcionan con las 2 ranuras ahora.
 23:04 22/11/2018: Cambios menores.
+23:17 22/11/2018: Optimizado comando manual para ventas automaticas de los negocios.
