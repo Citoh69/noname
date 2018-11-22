@@ -166,3 +166,4 @@
 1:41 15/11/2018: Ahora /ventana saldrá como un /ame, y se ha acortado.
 20:13 22/11/2018: Cambiado logo a mostrar en textdraw abajo derecha.
 20:15 22/11/2018: Creado comando /ocultarlogo y /mostrarlogo.
+23:04 22/11/2018: Las ganancias automaticas funcionan con las 2 ranuras ahora.
