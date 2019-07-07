@@ -174,5 +174,25 @@
 11:18 06/07/2019: Perdidas de backups, recuperado con alguna que otras perdidas.
 11:18 06/07/2019: Actualizado plugin Streamer v2.9.4.
 11:19 06/07/2019: Se ha trabajado un tiempo en el gamemode, poniendo cosas y optimizando alguna que otra cosa. No hay información detallada acerca de ello.
-11:53 06/07/2019: Creado nuevo canal administrativo /a.
-11:56 06/07/2019: Cambios menores en /id.
+07/07: Retirado RemoveBuilding que sacaba los surtidores de las gasolineras.
+Creado nuevo /ah (falta colocar los comandos necesarios, ya que hay 232 en total)
+Creado comando /alpr con un rango de (20.0)
+Mappeado taller en zona avenida Lawrence
+Mappeado taller en zona Ocean Docks, removidas las cajas también.
+--
+Cambiados permisos de cmds adm
+El ALPR ahora es automatico y se ha arreglado el bug de que floodeaba todo.
+Se ha optimizado muchísimo el uso de ALPR
+Aumentados 3.0 rango al ALPR
+Removido mensaje que te indicaba si la ventana estaba abierta o cerrada.
+Modificado /a
+Al contestar una duda, ahora no le llega un privado al usuario, y le deja volver a usar la duda al momento.
+--
+Retirada la musica de fondo que se escuchaba al conectar al servidor, mientras introducias la contraseña.
+Retirado el icono de mapa de la peluqueria frente a la pizzeria.
+El comando /fuerza ahora te permite a una distancia de 5.0 (antes 2.0)
+El comando /delincuente ahora te permite a una distancia de 5.0 (antes 2.0)
+El comando /mpdr ahora te permite hasta una distancia de 5.0 (antes 3.5)
+Cambiado los daños de: Colt, Uzi y Tec
+Añadido bate y cuchillo al "/mercado"
+-----
